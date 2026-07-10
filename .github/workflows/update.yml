@@ -1,0 +1,37 @@
+name: update-otoku
+
+on:
+  schedule:
+    - cron: "0 22 * * *"   # 07:00 JST（UTC22:00）
+    - cron: "0 10 * * *"   # 19:00 JST（UTC10:00）
+  workflow_dispatch:        # 手動実行ボタン
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collect & build
+        run: |
+          python collect.py
+          python build.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/items.json docs/index.html
+          if git diff --staged --quiet; then
+            echo "変更なし"
+          else
+            git commit -m "auto: update $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
