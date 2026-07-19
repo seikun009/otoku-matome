@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-07-19T20:10:23.441972+09:00",
-  "count": 7,
+  "generated_at": "2026-07-20T07:56:56.132763+09:00",
+  "count": 8,
   "items": [
     {
-      "title": "【アマゾンタイムセール】Android",
-      "raw_title": "【アマゾンタイムセール】Android - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ib0NkWW52d3B1MmxReFEtM1ZmNWtRc1VIZTlBU0lkS21FTlpPRWQzcy1tcDBDdm4xU0ZmdXJ4N0xnZjRaZEZ6cjZGOVVKY2paVXR2cFZLc3d3bHBYaTNfcVZVcV9sazNsT2kwMFZZTWVHNG54dGFqT2xhWQ?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-07-19T10:45:13+09:00",
+      "title": "【アマゾンタイムセール】Android 16搭載「P12PLUS」が約29％OFF。12.2インチ・2.4K・120Hz対応タブレットが32,900円、さらにAmazonポイント2倍還元",
+      "raw_title": "【アマゾンタイムセール】Android 16搭載「P12PLUS」が約29％OFF。12.2インチ・2.4K・120Hz対応タブレットが32,900円、さらにAmazonポイント2倍還元 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zTnAzN0x0Q1ZhZWRyRENlNE1RcVVJWG93TzUteDU4c1FBWFZlaTRBYmM4VFJnSFhEN1hSLWtCVmZZS1Z4QldNYk5aVGVhVkxLaFc2R0pKN0YxbTVFdUFwWXhiRUhvY0VYTkE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-18T19:00:01+09:00",
       "query": "Amazon セール 期間限定",
+      "bucket": "free"
+    },
+    {
+      "title": "楽天モバイルのクーポンコード解説【2026年7月最新】期間限定コードや適用条件まとめ",
+      "raw_title": "楽天モバイルのクーポンコード解説【2026年7月最新】期間限定コードや適用条件まとめ - BCN Retail",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nd0FMR2Nsa2FHMVFDMW8yMV9fd1RTOG90SEVWYnlsUjA2V0lacXMxMXRycU9xQzJHWlZkY2FUc2s1WlBOVWExMU1jMmlmbzJNTElySFJ6aGlzaEQwbnc?oc=5",
+      "source": "BCN Retail",
+      "published": "2026-07-18T14:05:00+09:00",
+      "query": "楽天市場 ポイント還元 期間限定",
       "bucket": "limited"
     },
     {
@@ -48,20 +57,20 @@
       "bucket": "free"
     },
     {
-      "title": "楽天モバイルのクーポンコード解説【2026年7月最新】期間限定コードや適用条件まとめ",
-      "raw_title": "楽天モバイルのクーポンコード解説【2026年7月最新】期間限定コードや適用条件まとめ - BCN Retail",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nd0FMR2Nsa2FHMVFDMW8yMV9fd1RTOG90SEVWYnlsUjA2V0lacXMxMXRycU9xQzJHWlZkY2FUc2s1WlBOVWExMU1jMmlmbzJNTElySFJ6aGlzaEQwbnc?oc=5",
-      "source": "BCN Retail",
-      "published": "2026-07-17T16:57:00+09:00",
-      "query": "楽天市場 ポイント還元 期間限定",
-      "bucket": "limited"
-    },
-    {
       "title": "2026年の最新「Amazon スマイルセール」は1月27日9時スタート！【注目商品15選】",
       "raw_title": "2026年の最新「Amazon スマイルセール」は1月27日9時スタート！【注目商品15選】 - ウォーカープラス",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QbDBXX3AzOW5NelFDZXR4enBudGFyNHV5NFpWSFlVTnRBWHJ2MHFSNExpeGNnd0NGeUZPUXdHNjk3LU01Y3poanVibjBzZ2JvMkpxZGx30gFbQVVfeXFMTmpKLW95cDYzVEpFcWp4MFZiMHphZDNnUEV2cWEtLVpYTnNOLTQ4d0tYeXpjdGoxNDRoa1dxUmFCcDdudmRvU3RUOXBTdU41MTF1M3pNRTNTLXhyMA?oc=5",
       "source": "ウォーカープラス",
       "published": "2026-07-17T16:00:00+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
+    },
+    {
+      "title": "【8日間限定・最大50％OFF！】 『薬用 ラメラ美白リンクル 潤織(うるおり)』が 楽天市場・Amazon初登場、発売記念セールを開催！",
+      "raw_title": "【8日間限定・最大50％OFF！】 『薬用 ラメラ美白リンクル 潤織(うるおり)』が 楽天市場・Amazon初登場、発売記念セールを開催！ - Newscast.jp",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9saF9xYXZIV3hXWW9zNUg3aUZSdGVtcmFtRkM3VHZiT2dFTU9GTDZFSTVUblhiRDZvUTZFcU5jWGFIUVA4VUZETUMtUHEzZFE?oc=5",
+      "source": "Newscast.jp",
+      "published": "2026-07-17T11:40:00+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "limited"
     }
