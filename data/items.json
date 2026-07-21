@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-21T20:48:33.197095+09:00",
-  "count": 3,
+  "generated_at": "2026-07-22T08:01:18.144222+09:00",
+  "count": 7,
   "items": [
+    {
+      "title": "ローソンで毎週スイーツがお得に！Pontaパスに新コース、毎月1,100円以上節約も!?",
+      "raw_title": "ローソンで毎週スイーツがお得に！Pontaパスに新コース、毎月1,100円以上節約も!? - DXマガジン",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9yT19lTmtneE9OdmZNWkUxNERoOVdNUU0zajJRQlV2cDVhRTN2Qm14Ui14TGFrTWtpSGd2LWhRWmhacnJzbnFRNkNQVTE?oc=5",
+      "source": "DXマガジン",
+      "published": "2026-07-21T20:53:33+09:00",
+      "query": "ローソン 無料 クーポン",
+      "bucket": "free"
+    },
+    {
+      "title": "【アマゾン 30％OFF タイムセール】Android 16搭載10インチタブレット「U10セット版」がAmazon限定16,900円に",
+      "raw_title": "【アマゾン 30％OFF タイムセール】Android 16搭載10インチタブレット「U10セット版」がAmazon限定16,900円に - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrYTZtYmVaOEt6UmxTWGFRQ2FieTFsVWRlZElKcjJzVGhxeE5RTWQ2REZpQ2FPRng4ei0zMzJXRVlBMVJfd2preEpVZ0hndEJUdjVWdHRhV0ZoWGF1cTR0LWlZSkZFYlh4emc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-21T18:36:14+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "free"
+    },
     {
       "title": "【18900円ゲット】Teclastタブレット『T50Miniアップグレード版』を期間限定の低価格でお得に購入可能！ 8インチ Android16、Helio G99、120Hz、AIアプリ対応！",
       "raw_title": "【18900円ゲット】Teclastタブレット『T50Miniアップグレード版』を期間限定の低価格でお得に購入可能！ 8インチ Android16、Helio G99、120Hz、AIアプリ対応！ - PR TIMES",
@@ -10,6 +28,24 @@
       "published": "2026-07-21T16:14:05+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "free"
+    },
+    {
+      "title": "楽天モバイルのクーポンコード解説【2026年7月最新】期間限定コードや適用条件まとめ",
+      "raw_title": "楽天モバイルのクーポンコード解説【2026年7月最新】期間限定コードや適用条件まとめ - BCN Retail",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nd0FMR2Nsa2FHMVFDMW8yMV9fd1RTOG90SEVWYnlsUjA2V0lacXMxMXRycU9xQzJHWlZkY2FUc2s1WlBOVWExMU1jMmlmbzJNTElySFJ6aGlzaEQwbnc?oc=5",
+      "source": "BCN Retail",
+      "published": "2026-07-21T08:50:00+09:00",
+      "query": "楽天市場 ポイント還元 期間限定",
+      "bucket": "limited"
+    },
+    {
+      "title": "2026年の最新「Amazon スマイルセール」は1月27日9時スタート！【注目商品15選】",
+      "raw_title": "2026年の最新「Amazon スマイルセール」は1月27日9時スタート！【注目商品15選】 - ウォーカープラス",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QbDBXX3AzOW5NelFDZXR4enBudGFyNHV5NFpWSFlVTnRBWHJ2MHFSNExpeGNnd0NGeUZPUXdHNjk3LU01Y3poanVibjBzZ2JvMkpxZGx30gFbQVVfeXFMTmpKLW95cDYzVEpFcWp4MFZiMHphZDNnUEV2cWEtLVpYTnNOLTQ4d0tYeXpjdGoxNDRoa1dxUmFCcDdudmRvU3RUOXBTdU41MTF1M3pNRTNTLXhyMA?oc=5",
+      "source": "ウォーカープラス",
+      "published": "2026-07-20T16:00:00+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
     },
     {
       "title": "ファミマTVにて大好評放映中！中島健人さん出演「Kenty CINEMA」の原宿駅ラッピング広告を期間限定で展開！～オリジナルポップコーンカップのプレゼントキャンペーンも実施～",
