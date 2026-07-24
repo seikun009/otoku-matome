@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T20:43:51.424973+09:00",
-  "count": 6,
+  "generated_at": "2026-07-25T08:04:41.616487+09:00",
+  "count": 7,
   "items": [
     {
       "title": "【Amazon限定タイムセール】13.4インチAndroid16タブレット「P13 セット版」が30％OFF！キーボード・マウス・ペン付き高性能AIタブレットが期間限定26,900円で登場",
@@ -12,21 +12,39 @@
       "bucket": "free"
     },
     {
+      "title": "【楽天お買い物マラソン開催】DOOGEE ANYWISE W1 Liteが50％OFF！8,950円の期間限定セール＆楽天ポイント最大5倍で、今夏注目のスマートウォッチがお得に購入できるチャンス",
+      "raw_title": "【楽天お買い物マラソン開催】DOOGEE ANYWISE W1 Liteが50％OFF！8,950円の期間限定セール＆楽天ポイント最大5倍で、今夏注目のスマートウォッチがお得に購入できるチャンス - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lb0t0cXNUd1VjVWstRVJMRXNlUWhZaExVUXotQVFZNHk1NlVCUnJxaFQwbFU0RFJ3V0I3WU9QZzBnOHI0NEZzekNnX3NtTXlILUoxMXRTejhaVm9qdGxkeFp2X0pBcTVlTkE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-24T19:11:13+09:00",
+      "query": "楽天市場 ポイント還元 期間限定",
+      "bucket": "free"
+    },
+    {
+      "title": "【Amazonプライムデー＆先行セール】世界のトップアスリートも認めた最高峰ステッパー「Xiser Pro Trainer」が期間限定特別価格で登場！",
+      "raw_title": "【Amazonプライムデー＆先行セール】世界のトップアスリートも認めた最高峰ステッパー「Xiser Pro Trainer」が期間限定特別価格で登場！ - storyweb.jp",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fTnV5aG1IbnlMeDlZbTFxYjAzYmIteXc4ZElOS2FHaEE0bk8tRGE3Z19OU21LVWVnWmZ1eEZfeFhLc3RfRDVCdURBcw?oc=5",
+      "source": "storyweb.jp",
+      "published": "2026-07-24T17:17:51+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
+    },
+    {
+      "title": "楽天モバイルのクーポンコード解説【2026年7月最新】期間限定コードや適用条件まとめ",
+      "raw_title": "楽天モバイルのクーポンコード解説【2026年7月最新】期間限定コードや適用条件まとめ - BCN Retail",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nd0FMR2Nsa2FHMVFDMW8yMV9fd1RTOG90SEVWYnlsUjA2V0lacXMxMXRycU9xQzJHWlZkY2FUc2s1WlBOVWExMU1jMmlmbzJNTElySFJ6aGlzaEQwbnc?oc=5",
+      "source": "BCN Retail",
+      "published": "2026-07-24T16:58:00+09:00",
+      "query": "楽天市場 ポイント還元 期間限定",
+      "bucket": "limited"
+    },
+    {
       "title": "夏のドライブ応援！『Amazonオットキャスト公式店』夏限定キャンペーン開催中！人気カーアイテムが最大35%OFFのお得なセール【7/22〜8/31限定】",
       "raw_title": "夏のドライブ応援！『Amazonオットキャスト公式店』夏限定キャンペーン開催中！人気カーアイテムが最大35%OFFのお得なセール【7/22〜8/31限定】 - valuepress",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UdjRPdU00c1NwdHFPTWFlTU1KRU1MTGdfUVlUR0lYSEQxTy1TaHd2Q0FwY085QzRHbUdRczlnNmZmZkNmY1E1VnpOX1JManFySlZKcmJWTlN4RW8?oc=5",
       "source": "valuepress",
       "published": "2026-07-24T15:00:00+09:00",
       "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "【業務スーパー特売】炭酸水35円、カレールーが203円！7月31日まで買えるお得な\"爆弾価格\"の商品をチェック。",
-      "raw_title": "【業務スーパー特売】炭酸水35円、カレールーが203円！7月31日まで買えるお得な\"爆弾価格\"の商品をチェック。 - 東京バーゲンマニア",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56Yy1nVUJCLXZCb2sxakRFTzFza3lIczJWNWN4aDhOeS1SdWZsOEtOQmh2cmlQaV9ZVllkZHgyOWQteHYzb05oUGtueG1laTBfbGpR?oc=5",
-      "source": "東京バーゲンマニア",
-      "published": "2026-07-24T14:52:16+09:00",
-      "query": "スーパー 特売 無料 プレゼント",
       "bucket": "limited"
     },
     {
@@ -45,15 +63,6 @@
       "source": "PR TIMES",
       "published": "2026-07-23T10:10:01+09:00",
       "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "楽天モバイルのクーポンコード解説【2026年7月最新】期間限定コードや適用条件まとめ",
-      "raw_title": "楽天モバイルのクーポンコード解説【2026年7月最新】期間限定コードや適用条件まとめ - BCN Retail",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nd0FMR2Nsa2FHMVFDMW8yMV9fd1RTOG90SEVWYnlsUjA2V0lacXMxMXRycU9xQzJHWlZkY2FUc2s1WlBOVWExMU1jMmlmbzJNTElySFJ6aGlzaEQwbnc?oc=5",
-      "source": "BCN Retail",
-      "published": "2026-07-23T08:49:00+09:00",
-      "query": "楽天市場 ポイント還元 期間限定",
       "bucket": "limited"
     }
   ]
