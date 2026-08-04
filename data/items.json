@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-04T08:05:52.362329+09:00",
-  "count": 3,
+  "generated_at": "2026-08-04T21:03:27.711352+09:00",
+  "count": 7,
   "items": [
+    {
+      "title": "8月5日(水)スタート♪毎日1万名様に抽選で「対象のローソンオリジナルポテトチップス」無料券をプレゼント！",
+      "raw_title": "8月5日(水)スタート♪毎日1万名様に抽選で「対象のローソンオリジナルポテトチップス」無料券をプレゼント！ - LAWSON",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VMEx5WllFMEhZWWt3Ql90RVg2eU8ycTQyaFpNX2FJbUQtX0xtTTdKc1pVTk1LRWlISlBmQ052bmFzQ0FSb1ctaWJ4S1VnbmRmSXdncERlYndHdjE2Z0NmeXRqaFBxMjRqZ180?oc=5",
+      "source": "LAWSON",
+      "published": "2026-08-04T20:20:32+09:00",
+      "query": "ローソン 無料 クーポン",
+      "bucket": "free"
+    },
+    {
+      "title": "Ryzen搭載ミニPCが3万円台と激安！Amazonで期間限定セール中 [Sponsored]",
+      "raw_title": "Ryzen搭載ミニPCが3万円台と激安！Amazonで期間限定セール中 [Sponsored] - PC Watch",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mLW1sZEpGRGJsT2twNDZwbFU1U3pJVVBqbURXdWVacHhPRmQ4VEE3b0NmOV9QMTQ3ZTdsUmNBZVREV0I5RHVqNzNpaEVLcHVRUG9TOEJmcGc4TGpVTlZqOXItd3pUWmZPdS0yUUEzRQ?oc=5",
+      "source": "PC Watch",
+      "published": "2026-08-04T11:00:00+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
+    },
+    {
+      "title": "Pontaパスならスイーツorサラダチキンのクーポンが毎週もらえる！｜ローソン公式サイト",
+      "raw_title": "Pontaパスならスイーツorサラダチキンのクーポンが毎週もらえる！｜ローソン公式サイト - LAWSON",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0Vmc2Y0Q1b0xZQXdmdnY0Wk5yLVBPOG9YRnk1ZHBGRGJnN0Y3X0ZuV0VjYzRtcWV3QlB5bE0ydV9TZnpELXQwZ05oQmtOTThua0c3SWllWDA1X0hoalloMUNaLWJjQWxOdUlJ?oc=5",
+      "source": "LAWSON",
+      "published": "2026-08-04T10:48:03+09:00",
+      "query": "ローソン 無料 クーポン",
+      "bucket": "limited"
+    },
+    {
+      "title": "楽天モバイルのクーポンコード解説【2026年7月最新】期間限定コードや適用条件まとめ",
+      "raw_title": "楽天モバイルのクーポンコード解説【2026年7月最新】期間限定コードや適用条件まとめ - BCN Retail",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nd0FMR2Nsa2FHMVFDMW8yMV9fd1RTOG90SEVWYnlsUjA2V0lacXMxMXRycU9xQzJHWlZkY2FUc2s1WlBOVWExMU1jMmlmbzJNTElySFJ6aGlzaEQwbnc?oc=5",
+      "source": "BCN Retail",
+      "published": "2026-08-04T08:51:00+09:00",
+      "query": "楽天市場 ポイント還元 期間限定",
+      "bucket": "limited"
+    },
     {
       "title": "楽天モバイルのキャンペーン多すぎ！どこから申し込めばお得なのか状況別に解説【2026年8月】",
       "raw_title": "楽天モバイルのキャンペーン多すぎ！どこから申し込めばお得なのか状況別に解説【2026年8月】 - 株式会社ピクセラ",
@@ -21,13 +57,13 @@
       "bucket": "limited"
     },
     {
-      "title": "【アマゾンタイムセール】13.4インチ大画面タブレット「U13PRO」が期間限定30％OFF！Android 16・Gemini AI対応・高性能32GB RAM搭載モデルが34,900円",
-      "raw_title": "【アマゾンタイムセール】13.4インチ大画面タブレット「U13PRO」が期間限定30％OFF！Android 16・Gemini AI対応・高性能32GB RAM搭載モデルが34,900円 - ASCII.jp",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41YTkwV1BLRXdzLXE1V1ZmVDhJYUNpcFAyZlVuYzdYZ0JHTkJZY1ZWR1NZRHZWQjBIbS1OMjh0UzFfbFgyN3Z4VWtXYm5KbmlDcFhDaA?oc=5",
-      "source": "ASCII.jp",
-      "published": "2026-08-01T13:58:58+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "free"
+      "title": "[セブン‐イレブン] えらべるポイントが当たる POSAカード/スマホプリペイド/Appleアカウントチャージキャンペーン｜2026年8月30日（日）まで",
+      "raw_title": "[セブン‐イレブン] えらべるポイントが当たる POSAカード/スマホプリペイド/Appleアカウントチャージキャンペーン｜2026年8月30日（日）まで - Prepaid mania",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQTGVReFNtWnBjQU5iTlBHd1hXTWxSb0RoUW4wVUJEOWlpam1aS0Z5eWR5OXJsSGJKRENfMTN5R0pQSm50N1BiMVlpT1B5TzBsdElTVWNIVzZ4Z0F2bUZwdy04WVh4eU5WNTRTUE9EbnRQMjRDQTNDNHNvdFVpWTNNVnhuRjl4Q0RtM0xGU0pLTUxXanFiQU9EbHhEejRZYlBRU2dQTk5WQXRsV25YWExEeU5hTVhNOENXUW91cVMtbWZaZHZ3cUtOS1ZrY2JZU3B1Sy1tV0FsQXptM2E5MlJSQmdqRVVoOUItX0hFS3ItTnZLa2RNMWN0ejlkTkd4VlVjQVUxN1A5S2l0RVpPVFp1MnJzdHZUMmZpZmU0a1k0bGVGVGdXcWdTczlfb1BrTF9w?oc=5",
+      "source": "Prepaid mania",
+      "published": "2026-08-03T00:00:00+09:00",
+      "query": "セブンイレブン キャンペーン ポイント",
+      "bucket": "point"
     }
   ]
 }
