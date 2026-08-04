@@ -1,21 +1,30 @@
 {
-  "generated_at": "2026-08-04T21:03:27.711352+09:00",
-  "count": 7,
+  "generated_at": "2026-08-05T08:06:12.837798+09:00",
+  "count": 8,
   "items": [
     {
       "title": "8月5日(水)スタート♪毎日1万名様に抽選で「対象のローソンオリジナルポテトチップス」無料券をプレゼント！",
       "raw_title": "8月5日(水)スタート♪毎日1万名様に抽選で「対象のローソンオリジナルポテトチップス」無料券をプレゼント！ - LAWSON",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VMEx5WllFMEhZWWt3Ql90RVg2eU8ycTQyaFpNX2FJbUQtX0xtTTdKc1pVTk1LRWlISlBmQ052bmFzQ0FSb1ctaWJ4S1VnbmRmSXdncERlYndHdjE2Z0NmeXRqaFBxMjRqZ180?oc=5",
       "source": "LAWSON",
-      "published": "2026-08-04T20:20:32+09:00",
+      "published": "2026-08-05T05:21:46+09:00",
       "query": "ローソン 無料 クーポン",
       "bucket": "free"
     },
     {
+      "title": "【楽天お買い物マラソン】12インチ120Hz・4G LTE対応「AROLYM AP12PRO」が50％OFFの29,900円！期間限定ポイント5倍、赤字覚悟の在庫一掃セール",
+      "raw_title": "【楽天お買い物マラソン】12インチ120Hz・4G LTE対応「AROLYM AP12PRO」が50％OFFの29,900円！期間限定ポイント5倍、赤字覚悟の在庫一掃セール - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qeFNMV3BjcjVQMTIwZEdKMVNSVk9VaDJ1blJQV3l5MW01UU8zbDFNN3p3M3I1ZjN4bmM0SjhwcDlUYlRPbmNISTFHT0tseWlJN1FoRFRQNWplV1hzNXhKdUszRDFCN2REb1E?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-04T17:02:24+09:00",
+      "query": "楽天市場 ポイント還元 期間限定",
+      "bucket": "free"
+    },
+    {
       "title": "Ryzen搭載ミニPCが3万円台と激安！Amazonで期間限定セール中 [Sponsored]",
-      "raw_title": "Ryzen搭載ミニPCが3万円台と激安！Amazonで期間限定セール中 [Sponsored] - PC Watch",
+      "raw_title": "Ryzen搭載ミニPCが3万円台と激安！Amazonで期間限定セール中 [Sponsored] - pc.watch.impress.co.jp",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mLW1sZEpGRGJsT2twNDZwbFU1U3pJVVBqbURXdWVacHhPRmQ4VEE3b0NmOV9QMTQ3ZTdsUmNBZVREV0I5RHVqNzNpaEVLcHVRUG9TOEJmcGc4TGpVTlZqOXItd3pUWmZPdS0yUUEzRQ?oc=5",
-      "source": "PC Watch",
+      "source": "pc.watch.impress.co.jp",
       "published": "2026-08-04T11:00:00+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "limited"
