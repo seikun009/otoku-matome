@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T21:00:49.171198+09:00",
-  "count": 8,
+  "generated_at": "2026-08-06T08:04:07.754647+09:00",
+  "count": 7,
   "items": [
     {
       "title": "1個買うと1個もらえる！おトクなレシートクーポン 8月5日(水)から8月11日(火)まで",
@@ -31,9 +31,9 @@
     },
     {
       "title": "Ryzen搭載ミニPCが3万円台と激安！Amazonで期間限定セール中 [Sponsored]",
-      "raw_title": "Ryzen搭載ミニPCが3万円台と激安！Amazonで期間限定セール中 [Sponsored] - pc.watch.impress.co.jp",
+      "raw_title": "Ryzen搭載ミニPCが3万円台と激安！Amazonで期間限定セール中 [Sponsored] - PC Watch",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mLW1sZEpGRGJsT2twNDZwbFU1U3pJVVBqbURXdWVacHhPRmQ4VEE3b0NmOV9QMTQ3ZTdsUmNBZVREV0I5RHVqNzNpaEVLcHVRUG9TOEJmcGc4TGpVTlZqOXItd3pUWmZPdS0yUUEzRQ?oc=5",
-      "source": "pc.watch.impress.co.jp",
+      "source": "PC Watch",
       "published": "2026-08-04T11:00:00+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "limited"
@@ -64,15 +64,6 @@
       "published": "2026-08-03T12:12:33+09:00",
       "query": "ファミリーマート 期間限定 キャンペーン",
       "bucket": "limited"
-    },
-    {
-      "title": "[セブン‐イレブン] えらべるポイントが当たる POSAカード/スマホプリペイド/Appleアカウントチャージキャンペーン｜2026年8月30日（日）まで",
-      "raw_title": "[セブン‐イレブン] えらべるポイントが当たる POSAカード/スマホプリペイド/Appleアカウントチャージキャンペーン｜2026年8月30日（日）まで - Prepaid mania",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQTGVReFNtWnBjQU5iTlBHd1hXTWxSb0RoUW4wVUJEOWlpam1aS0Z5eWR5OXJsSGJKRENfMTN5R0pQSm50N1BiMVlpT1B5TzBsdElTVWNIVzZ4Z0F2bUZwdy04WVh4eU5WNTRTUE9EbnRQMjRDQTNDNHNvdFVpWTNNVnhuRjl4Q0RtM0xGU0pLTUxXanFiQU9EbHhEejRZYlBRU2dQTk5WQXRsV25YWExEeU5hTVhNOENXUW91cVMtbWZaZHZ3cUtOS1ZrY2JZU3B1Sy1tV0FsQXptM2E5MlJSQmdqRVVoOUItX0hFS3ItTnZLa2RNMWN0ejlkTkd4VlVjQVUxN1A5S2l0RVpPVFp1MnJzdHZUMmZpZmU0a1k0bGVGVGdXcWdTczlfb1BrTF9w?oc=5",
-      "source": "Prepaid mania",
-      "published": "2026-08-03T00:00:00+09:00",
-      "query": "セブンイレブン キャンペーン ポイント",
-      "bucket": "point"
     }
   ]
 }
