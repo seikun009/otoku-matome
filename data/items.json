@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-08-08T19:36:16.989739+09:00",
+  "generated_at": "2026-08-09T07:33:29.834150+09:00",
   "count": 7,
   "items": [
+    {
+      "title": "韓国旅行でau PAYを使うとPontaポイント最大20％還元！30万店舗以上が対象に【9月30日まで】",
+      "raw_title": "韓国旅行でau PAYを使うとPontaポイント最大20％還元！30万店舗以上が対象に【9月30日まで】 - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhdUJGVUNOY2xtMHlkbml1RXdYWlZ4Nm9MdTlvRll1MGRDdm9Wbld1aWJhd0lISlItNEV2clh3VktOOVdyV1A1bTdKUnRYX2FYWWUwOVNuQ3JLeUhzSENyV3pJR2FjRFnSAWdBVV95cUxQYXVCRlVDTmNsbTB5ZG5pdUV3WFpWeDZvTHU5b0ZZdTBkQ3ZvVm5XdWliYXdJSEpSLTRFdnJYd1ZLTjlXcldQNW03SlJ0WF9hWFllMDlTbkNyS3lIc0hDcld6SUdhY0RZ?oc=5",
+      "source": "Infoseek",
+      "published": "2026-08-08T20:00:32+09:00",
+      "query": "コンビニ ポイント還元 キャンペーン",
+      "bucket": "point"
+    },
     {
       "title": "【セール】Kindleストアで「白泉社 夏の大割引セール」が開催中 ｰ 期間限定70％オフや全巻50％オフなど",
       "raw_title": "【セール】Kindleストアで「白泉社 夏の大割引セール」が開催中 ｰ 期間限定70％オフや全巻50％オフなど - 気になる、記になる…",
@@ -22,9 +31,9 @@
     },
     {
       "title": "【12900円ゲット】Teclast 新発売Android 16 タブレット『M50T』を期間限定の低価格でお得に購入可能！ Amazonセール開催(6/24から6/30まで)",
-      "raw_title": "【12900円ゲット】Teclast 新発売Android 16 タブレット『M50T』を期間限定の低価格でお得に購入可能！ Amazonセール開催(6/24から6/30まで) - asahi.com",
+      "raw_title": "【12900円ゲット】Teclast 新発売Android 16 タブレット『M50T』を期間限定の低価格でお得に購入可能！ Amazonセール開催(6/24から6/30まで) - 朝日新聞",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKWFl2X2M0d3A0eHh0b1Nmc0lNSXVYc0piRmhPNHB1Zm5ZdU44SGI1QmhaQWZsNGE1WktjR2dVQVZTRFI5NXM2WDhJYzlpN2lsSFdONkpFMDEtajQ?oc=5",
-      "source": "asahi.com",
+      "source": "朝日新聞",
       "published": "2026-08-07T19:33:18+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "free"
@@ -48,19 +57,10 @@
       "bucket": "limited"
     },
     {
-      "title": "Aecooly Cold Air ミストファン、Amazon.co.jpで6月22日まで期間限定セール実施中",
-      "raw_title": "Aecooly Cold Air ミストファン、Amazon.co.jpで6月22日まで期間限定セール実施中 - asahi.com",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54enh1MU5FUl9CUEMwdmpUT1VqXzU4aFBMbmNxZ1ctRlprR1RHaHUyTGozSEZmai13RmRoVUVGaU9xVi1Yb19VdGNrN1VWWFhYVTRSaTZFaUdNaDg?oc=5",
-      "source": "asahi.com",
-      "published": "2026-08-07T06:03:31+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
       "title": "楽天モバイルのキャンペーンどれがお得？【2026年8月】乗り換え・新規向けや併用パターンも解説",
-      "raw_title": "楽天モバイルのキャンペーンどれがお得？【2026年8月】乗り換え・新規向けや併用パターンも解説 - pixela.co.jp",
+      "raw_title": "楽天モバイルのキャンペーンどれがお得？【2026年8月】乗り換え・新規向けや併用パターンも解説 - 株式会社ピクセラ",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkNExSYmg0azZ4QksxUE9IZHBrb1FyRWdaU3M3SEc0MGh0Q2RwNUNRRHdfYzF2MUdscUdFOXNwUlpiMVlpNDFsNFAyTlJ0NnBmRTNTRFd6U2NPUUN4cTRXNEtUUlkwM0k?oc=5",
-      "source": "pixela.co.jp",
+      "source": "株式会社ピクセラ",
       "published": "2026-08-06T16:00:00+09:00",
       "query": "楽天市場 ポイント還元 期間限定",
       "bucket": "limited"
