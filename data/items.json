@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-08-08T07:40:50.953523+09:00",
-  "count": 5,
+  "generated_at": "2026-08-08T19:36:16.989739+09:00",
+  "count": 7,
   "items": [
     {
+      "title": "【セール】Kindleストアで「白泉社 夏の大割引セール」が開催中 ｰ 期間限定70％オフや全巻50％オフなど",
+      "raw_title": "【セール】Kindleストアで「白泉社 夏の大割引セール」が開催中 ｰ 期間限定70％オフや全巻50％オフなど - 気になる、記になる…",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41SnRLT24xYXBuMWE5UWNxb21iM25zWnV0NUQybzViSDBnMGw3Ylpjb2dobTZjOFQyeU1WeHl6VGg3YUpXS1M4MGlXRTlSWllyLUdB?oc=5",
+      "source": "気になる、記になる…",
+      "published": "2026-08-08T08:30:00+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
+    },
+    {
+      "title": "【8月7日更新】SteamセールやPCゲームセール情報！次の大型セール時期もご紹介！【2026年最新版】",
+      "raw_title": "【8月7日更新】SteamセールやPCゲームセール情報！次の大型セール時期もご紹介！【2026年最新版】 - GameWith",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BN1JsTlpPcUZkQlFRSmVEVjFNemtlRkdVS1lDb1FCRlFocXlLR2dIY1JLdVZTT1VnRzFCVjl6OHM2ZTVXS0NsbjZYbmlJNVdPY0E?oc=5",
+      "source": "GameWith",
+      "published": "2026-08-07T22:44:58+09:00",
+      "query": "スーパー 特売 無料 プレゼント",
+      "bucket": "limited"
+    },
+    {
       "title": "【12900円ゲット】Teclast 新発売Android 16 タブレット『M50T』を期間限定の低価格でお得に購入可能！ Amazonセール開催(6/24から6/30まで)",
-      "raw_title": "【12900円ゲット】Teclast 新発売Android 16 タブレット『M50T』を期間限定の低価格でお得に購入可能！ Amazonセール開催(6/24から6/30まで) - 朝日新聞",
+      "raw_title": "【12900円ゲット】Teclast 新発売Android 16 タブレット『M50T』を期間限定の低価格でお得に購入可能！ Amazonセール開催(6/24から6/30まで) - asahi.com",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKWFl2X2M0d3A0eHh0b1Nmc0lNSXVYc0piRmhPNHB1Zm5ZdU44SGI1QmhaQWZsNGE1WktjR2dVQVZTRFI5NXM2WDhJYzlpN2lsSFdONkpFMDEtajQ?oc=5",
-      "source": "朝日新聞",
+      "source": "asahi.com",
       "published": "2026-08-07T19:33:18+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "free"
@@ -31,20 +49,20 @@
     },
     {
       "title": "Aecooly Cold Air ミストファン、Amazon.co.jpで6月22日まで期間限定セール実施中",
-      "raw_title": "Aecooly Cold Air ミストファン、Amazon.co.jpで6月22日まで期間限定セール実施中 - 朝日新聞",
+      "raw_title": "Aecooly Cold Air ミストファン、Amazon.co.jpで6月22日まで期間限定セール実施中 - asahi.com",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54enh1MU5FUl9CUEMwdmpUT1VqXzU4aFBMbmNxZ1ctRlprR1RHaHUyTGozSEZmai13RmRoVUVGaU9xVi1Yb19VdGNrN1VWWFhYVTRSaTZFaUdNaDg?oc=5",
-      "source": "朝日新聞",
+      "source": "asahi.com",
       "published": "2026-08-07T06:03:31+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "limited"
     },
     {
-      "title": "1個買うと1個もらえる！おトクなレシートクーポン 8月5日(水)から8月11日(火)まで",
-      "raw_title": "1個買うと1個もらえる！おトクなレシートクーポン 8月5日(水)から8月11日(火)まで - ローソンストア100",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BMHF1Sm1TRDBkNTFTaGVMdDRDc2JLMVl0Tjl4bzZWX1VLb252N1NOWk9yUm53elR2QVRiMnRDdWpoWXgwVUhyNHFqYW92YUJvZGd3SXROR0hGcElDdHpkWUphLS0xWHY5d1NCNmRCSnlLLWx5QUR3V3BR?oc=5",
-      "source": "ローソンストア100",
-      "published": "2026-08-05T09:09:14+09:00",
-      "query": "ローソン 無料 クーポン",
+      "title": "楽天モバイルのキャンペーンどれがお得？【2026年8月】乗り換え・新規向けや併用パターンも解説",
+      "raw_title": "楽天モバイルのキャンペーンどれがお得？【2026年8月】乗り換え・新規向けや併用パターンも解説 - pixela.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkNExSYmg0azZ4QksxUE9IZHBrb1FyRWdaU3M3SEc0MGh0Q2RwNUNRRHdfYzF2MUdscUdFOXNwUlpiMVlpNDFsNFAyTlJ0NnBmRTNTRFd6U2NPUUN4cTRXNEtUUlkwM0k?oc=5",
+      "source": "pixela.co.jp",
+      "published": "2026-08-06T16:00:00+09:00",
+      "query": "楽天市場 ポイント還元 期間限定",
       "bucket": "limited"
     }
   ]
