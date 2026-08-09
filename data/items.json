@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T07:33:29.834150+09:00",
-  "count": 7,
+  "generated_at": "2026-08-09T19:37:11.145990+09:00",
+  "count": 6,
   "items": [
     {
       "title": "韓国旅行でau PAYを使うとPontaポイント最大20％還元！30万店舗以上が対象に【9月30日まで】",
@@ -12,13 +12,13 @@
       "bucket": "point"
     },
     {
-      "title": "【セール】Kindleストアで「白泉社 夏の大割引セール」が開催中 ｰ 期間限定70％オフや全巻50％オフなど",
-      "raw_title": "【セール】Kindleストアで「白泉社 夏の大割引セール」が開催中 ｰ 期間限定70％オフや全巻50％オフなど - 気になる、記になる…",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41SnRLT24xYXBuMWE5UWNxb21iM25zWnV0NUQybzViSDBnMGw3Ylpjb2dobTZjOFQyeU1WeHl6VGg3YUpXS1M4MGlXRTlSWllyLUdB?oc=5",
-      "source": "気になる、記になる…",
-      "published": "2026-08-08T08:30:00+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
+      "title": "【1個無料】セブン・ローソン・ファミマで、アイスをもう1個もらう方法とは？ 対象に「爽」や「パルム」も（ハフポスト日本版）",
+      "raw_title": "【1個無料】セブン・ローソン・ファミマで、アイスをもう1個もらう方法とは？ 対象に「爽」や「パルム」も（ハフポスト日本版） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uMEd0R2E4c2VjZU1zN0ZUVjVhRURiekxiUUpfclFCVVRHR01temxTZzlYRkJBWi1CWllWUjNyUHduRkNuVVpJQmFMdlNoQmpkZlcxdVMyTE50S2VhTnNlaGtpRFgxZU1CT1ppalItd0ExWEMzY0diXzFNeGhFM1U?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-08-08T12:02:48+09:00",
+      "query": "ローソン 無料 クーポン",
+      "bucket": "free"
     },
     {
       "title": "【8月7日更新】SteamセールやPCゲームセール情報！次の大型セール時期もご紹介！【2026年最新版】",
@@ -54,15 +54,6 @@
       "source": "PR TIMES",
       "published": "2026-08-07T10:10:01+09:00",
       "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "楽天モバイルのキャンペーンどれがお得？【2026年8月】乗り換え・新規向けや併用パターンも解説",
-      "raw_title": "楽天モバイルのキャンペーンどれがお得？【2026年8月】乗り換え・新規向けや併用パターンも解説 - 株式会社ピクセラ",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkNExSYmg0azZ4QksxUE9IZHBrb1FyRWdaU3M3SEc0MGh0Q2RwNUNRRHdfYzF2MUdscUdFOXNwUlpiMVlpNDFsNFAyTlJ0NnBmRTNTRFd6U2NPUUN4cTRXNEtUUlkwM0k?oc=5",
-      "source": "株式会社ピクセラ",
-      "published": "2026-08-06T16:00:00+09:00",
-      "query": "楽天市場 ポイント還元 期間限定",
       "bucket": "limited"
     }
   ]
