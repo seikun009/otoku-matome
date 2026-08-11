@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-11T19:52:18.073492+09:00",
-  "count": 4,
+  "generated_at": "2026-08-12T07:48:58.230804+09:00",
+  "count": 6,
   "items": [
     {
       "title": "8月12日(水)スタート♪毎日1万名様に抽選で「対象のローソンオリジナルサラダチキンスティック」無料券をプレゼント！",
       "raw_title": "8月12日(水)スタート♪毎日1万名様に抽選で「対象のローソンオリジナルサラダチキンスティック」無料券をプレゼント！ - LAWSON",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82VmNtR3czRE1uaFZ1ZnhwQlZFMXh0ekJULTJ2SEk5Qkp2Tjh1X1luRkJGNExpZUZBQy1SMkdNWC1PRXRsdC1YNXRscHhQek1UdzVhVnUyUVNPcGVrc0Q0VGpOM3B3R2NOZHR3?oc=5",
       "source": "LAWSON",
-      "published": "2026-08-11T19:25:05+09:00",
+      "published": "2026-08-12T04:30:39+09:00",
       "query": "ローソン 無料 クーポン",
       "bucket": "free"
     },
@@ -28,6 +28,24 @@
       "published": "2026-08-10T11:30:00+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "free"
+    },
+    {
+      "title": "スマートディスプレイ「Echo Show」シリーズが安い！Amazonデバイスのサマーセール - 本日みつけたお買い得情報",
+      "raw_title": "スマートディスプレイ「Echo Show」シリーズが安い！Amazonデバイスのサマーセール - 本日みつけたお買い得情報 - 窓の杜",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQWjNrbk5UNzZPMy1OeV9OWGMzLXhINVdJdTNUOXBHRk5pZFFxcEVBNjBQMUwwaUc4SkZ5dTYwUXFWQVdETzl5YllCWW92VmFadnZRRkw3dk1kdTloc2FMWTQ4NUxaVGh1QUxxakRQQ2pGU1FEUmc?oc=5",
+      "source": "窓の杜",
+      "published": "2026-08-10T10:49:34+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
+    },
+    {
+      "title": "スマートスピーカー「Echo」シリーズがお買い得！Amazonデバイスのサマーセール - 本日みつけたお買い得情報",
+      "raw_title": "スマートスピーカー「Echo」シリーズがお買い得！Amazonデバイスのサマーセール - 本日みつけたお買い得情報 - 窓の杜",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRZU9ZNVRMX3gyaU96a0sxeWwwZUsySkZRalYwMW1HR05IcExoQUtwei1KdnpPeVV5aF83T3hFV1Z1dkRYMG81ZURFNXhFOXNYMWN5bS1ab1MwSUhlTDJDMjV2N1hDTU84S3VTZjRnZFJmT0FjNVE?oc=5",
+      "source": "窓の杜",
+      "published": "2026-08-10T10:43:30+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
     },
     {
       "title": "Amazonデバイスのサマーセール開催中！ 「Kindle Colorsoft」が3万1980円",
