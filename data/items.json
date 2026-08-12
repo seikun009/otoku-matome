@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-12T20:01:26.809809+09:00",
-  "count": 8,
+  "generated_at": "2026-08-13T07:45:51.509252+09:00",
+  "count": 10,
   "items": [
     {
-      "title": "8月12日(水)スタート♪毎日1万名様に抽選で「対象のローソンオリジナルサラダチキンスティック」無料券をプレゼント！",
-      "raw_title": "8月12日(水)スタート♪毎日1万名様に抽選で「対象のローソンオリジナルサラダチキンスティック」無料券をプレゼント！ - LAWSON",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82VmNtR3czRE1uaFZ1ZnhwQlZFMXh0ekJULTJ2SEk5Qkp2Tjh1X1luRkJGNExpZUZBQy1SMkdNWC1PRXRsdC1YNXRscHhQek1UdzVhVnUyUVNPcGVrc0Q0VGpOM3B3R2NOZHR3?oc=5",
-      "source": "LAWSON",
-      "published": "2026-08-12T19:33:26+09:00",
+      "title": "【ローソン】チキン購入でドリンク無料 合計413円→248円（進撃のグルメ） - エキスパート",
+      "raw_title": "【ローソン】チキン購入でドリンク無料 合計413円→248円（進撃のグルメ） - エキスパート - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeXl3bFNwUmY0RTdBTXE3d1FieUdpQllEWHduU3JDV0VwY3lNTkthRk01TFlOT213WXJENDZNLUpPeGM3dXYwUFhLTTFCWVNGdlRXV2UzZVdTeERWNHhsdU9ybTRhU2RwMU0wWnpDYlhyQ25HWTFkeENiNzdQbkRpSXJkTjVZbnpp?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-08-12T23:07:28+09:00",
       "query": "ローソン 無料 クーポン",
       "bucket": "free"
     },
@@ -21,11 +21,20 @@
       "bucket": "limited"
     },
     {
-      "title": "【宮崎】8月12日のお得情報！ローソン無料券・ファミマ45％増量・アミュ1000円クーポン｜ほんみや宮崎",
-      "raw_title": "【宮崎】8月12日のお得情報！ローソン無料券・ファミマ45％増量・アミュ1000円クーポン｜ほんみや宮崎 - ほんみや宮崎",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ERVlCZjZvNGtSS0hrbWozcDQ3NGhOMkVjYURBUnB5Tk54d0dYSGh1WUthWk9KS3d1YnBpUjJVcFFNVDZGNXkzRi1HM0drREV4d0o5SnZzZjdDakstTlFVUUVLRXdpeXYwaUJxSjhZaVkzWl92dHc?oc=5",
-      "source": "ほんみや宮崎",
-      "published": "2026-08-12T07:46:25+09:00",
+      "title": "コカ・コーラ「ドクターペッパー」がもらえる！おトクなレシートクーポン 8月12日(水)から8月18日(火)まで",
+      "raw_title": "コカ・コーラ「ドクターペッパー」がもらえる！おトクなレシートクーポン 8月12日(水)から8月18日(火)まで - ローソンストア100",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52MllWaEV5b2Vmd3pPMjZlU2p0cm1QWnFhVS1mWGVvQ3V4aVRReDJmUjY4NlpLeUlyUUFkczVYSm9OZjNleGp6bXNHcG1Zc0pFRVZaOUlmZTBhSjhrWnBoVnJ2TktaOXhlQUs5Y0VjVzNOZnlibmI5LW1R?oc=5",
+      "source": "ローソンストア100",
+      "published": "2026-08-12T10:42:39+09:00",
+      "query": "ローソン 無料 クーポン",
+      "bucket": "limited"
+    },
+    {
+      "title": "8月12日(水)スタート♪毎日1万名様に抽選で「対象のローソンオリジナルサラダチキンスティック」無料券をプレゼント！",
+      "raw_title": "8月12日(水)スタート♪毎日1万名様に抽選で「対象のローソンオリジナルサラダチキンスティック」無料券をプレゼント！ - LAWSON",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82VmNtR3czRE1uaFZ1ZnhwQlZFMXh0ekJULTJ2SEk5Qkp2Tjh1X1luRkJGNExpZUZBQy1SMkdNWC1PRXRsdC1YNXRscHhQek1UdzVhVnUyUVNPcGVrc0Q0VGpOM3B3R2NOZHR3?oc=5",
+      "source": "LAWSON",
+      "published": "2026-08-11T16:00:00+09:00",
       "query": "ローソン 無料 クーポン",
       "bucket": "free"
     },
@@ -62,6 +71,15 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQWjNrbk5UNzZPMy1OeV9OWGMzLXhINVdJdTNUOXBHRk5pZFFxcEVBNjBQMUwwaUc4SkZ5dTYwUXFWQVdETzl5YllCWW92VmFadnZRRkw3dk1kdTloc2FMWTQ4NUxaVGh1QUxxakRQQ2pGU1FEUmc?oc=5",
       "source": "窓の杜",
       "published": "2026-08-10T10:49:34+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
+    },
+    {
+      "title": "スマートスピーカー「Echo」シリーズがお買い得！Amazonデバイスのサマーセール - 本日みつけたお買い得情報",
+      "raw_title": "スマートスピーカー「Echo」シリーズがお買い得！Amazonデバイスのサマーセール - 本日みつけたお買い得情報 - 窓の杜",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRZU9ZNVRMX3gyaU96a0sxeWwwZUsySkZRalYwMW1HR05IcExoQUtwei1KdnpPeVV5aF83T3hFV1Z1dkRYMG81ZURFNXhFOXNYMWN5bS1ab1MwSUhlTDJDMjV2N1hDTU84S3VTZjRnZFJmT0FjNVE?oc=5",
+      "source": "窓の杜",
+      "published": "2026-08-10T10:43:30+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "limited"
     },
