@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T19:33:11.695853+09:00",
-  "count": 9,
+  "generated_at": "2026-08-21T07:31:27.359661+09:00",
+  "count": 10,
   "items": [
     {
       "title": "AGM初の8.68インチコンパクトタフネスタブレット「AGM PAD P3」、8月21日より日本で正式発売",
@@ -82,6 +82,15 @@
       "published": "2026-08-18T16:00:00+09:00",
       "query": "ローソン 無料 クーポン",
       "bucket": "free"
+    },
+    {
+      "title": "スマートニュース、第3弾「クーポン祭」を8月25日（火）より開催！｜ニュースルーム",
+      "raw_title": "スマートニュース、第3弾「クーポン祭」を8月25日（火）より開催！｜ニュースルーム - スマートニュース株式会社",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtN3B3a2NGaTVlS3gtcVJwTzVEbUhrTWN6LWxoWVNKNmt5UEhiQnlqaURtZk4wVmRxclV6X0UzRjVyRmZKZTFmWTJyUzMxYnY3LXNWd1pRYmQ?oc=5",
+      "source": "スマートニュース株式会社",
+      "published": "2026-08-18T11:04:22+09:00",
+      "query": "コンビニ 無料引換",
+      "bucket": "limited"
     }
   ]
 }
