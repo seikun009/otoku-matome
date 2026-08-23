@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-23T19:26:34.982997+09:00",
-  "count": 9,
+  "generated_at": "2026-08-24T07:26:33.553384+09:00",
+  "count": 10,
   "items": [
-    {
-      "title": "ポイントカード会員・先着40万枚限定！塩ハイレモン・スポドリパンチいずれか1つ無料クーポン配信！｜ローソン公式サイト",
-      "raw_title": "ポイントカード会員・先着40万枚限定！塩ハイレモン・スポドリパンチいずれか1つ無料クーポン配信！｜ローソン公式サイト - LAWSON",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53VVE2bk1Dc1BkSW1kSnhGcVlqTjR0bWZQVzZySm9kVm5DSjVyTEJrcU9nTnNDbERrM2VlU2VLN1V4bFRWVEVkNF9qNkNiQlJIZ1IxcWZ5OFltSHViSlpKOXZLZ2s?oc=5",
-      "source": "LAWSON",
-      "published": "2026-08-23T18:23:30+09:00",
-      "query": "ローソン 無料 クーポン",
-      "bucket": "free"
-    },
     {
       "title": "Amazon「スマイルSale」2026年8月28日（木）9時開始",
       "raw_title": "Amazon「スマイルSale」2026年8月28日（木）9時開始 - jetstream.blog",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SSTROamppd09iV0ZtWnJjNm9zaElaOUEyLVpHQTByaUdlV3RJNUdCb3N0aVBYYTlZUUo0ZXdURGFodXpsUjJBRWgzaTcyLWJTQkJadWpOVVZFLTlYUVdJNlUzRWZ3aFZHbDNRNkdIZmdtdw?oc=5",
+      "source": "jetstream.blog",
+      "published": "2026-08-23T13:53:27+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
+    },
+    {
+      "title": "Amazon「スマイルSale」2026年8月28日（金）開始",
+      "raw_title": "Amazon「スマイルSale」2026年8月28日（金）開始 - jetstream.blog",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RNnpRSFhwZjFYV0xkN3FNNm4wSWl0Y1VIM2szZVU1M0VaNFhpWTIyVkdid1A1LVFNUXppQzFOYlRVSkhmLS1BX3JBc2QyVWs1OFN6MkhKN3p4UGl4ekRLdlZGNnRVNzI5bUhhZzB3?oc=5",
       "source": "jetstream.blog",
       "published": "2026-08-23T13:53:27+09:00",
       "query": "Amazon セール 期間限定",
@@ -30,6 +30,15 @@
       "bucket": "limited"
     },
     {
+      "title": "ポイントカード会員・先着40万枚限定！塩ハイレモン・スポドリパンチいずれか1つ無料クーポン配信！｜ローソン公式サイト",
+      "raw_title": "ポイントカード会員・先着40万枚限定！塩ハイレモン・スポドリパンチいずれか1つ無料クーポン配信！｜ローソン公式サイト - LAWSON",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53VVE2bk1Dc1BkSW1kSnhGcVlqTjR0bWZQVzZySm9kVm5DSjVyTEJrcU9nTnNDbERrM2VlU2VLN1V4bFRWVEVkNF9qNkNiQlJIZ1IxcWZ5OFltSHViSlpKOXZLZ2s?oc=5",
+      "source": "LAWSON",
+      "published": "2026-08-22T16:00:00+09:00",
+      "query": "ローソン 無料 クーポン",
+      "bucket": "free"
+    },
+    {
       "title": "Amazon「スマイルSALE」8月28日9時スタート。4TB SSDやRingドアホンなどがセール対象に",
       "raw_title": "Amazon「スマイルSALE」8月28日9時スタート。4TB SSDやRingドアホンなどがセール対象に - corriente.jp",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aOEtMZ1JWLTlGOTZ2UFV6RmYzc3FhLUNaTkdBY2pBY0lOQWFiS1A5LWx5WTFXZTV0SXJ5VG5paDZUYmhxTUJWWk54b1k1blVTT3A4UGNJMGx4Tm9aYTBfNTBR0gFnQVVfeXFMTmFDazI4UkV2MktBWDJZaWItQi1wcGZzeU1JcS04OE9jR1BqSE16YTdvaDc3VHVBQVJwMW5aNGR1ZTlVTWJITEVwM3VzTzlsb0JfOHdPbDNIZjBBX203MTVfVW9iT0VlRQ?oc=5",
@@ -41,7 +50,7 @@
     {
       "title": "Amazon「スマイルSALE」8/28朝9時から。セール対象品情報が事前公開中（PHILE WEB）",
       "raw_title": "Amazon「スマイルSALE」8/28朝9時から。セール対象品情報が事前公開中（PHILE WEB） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oZDg5UjZyTG9YOXByOFRVbkZ5Y3h5TFREZDZITEg1YlVVV08zOXhpcXJHNm9wR2RDamxYdVN0cGgyNjNVSy12X3pmUmVsUkRqX29POTFmc2hub0txVTJfRHZUb2ZZS0dKUG9FZVRHNXExakw2MkpPejZCOWp0WDA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaGl1UnNRVFZmdnROR2RTRENtR19wcE5ESVRISWExdjdLZzdTZF91WDF3ZlR4N2pwS2hRa3htN2x1bWxvQ1M2V056VUYzeDBUcndCRE5tbFRqYkRGdzdXaWU5M09fa0RmQnd4UlQyQ1J6TUpvd0M3eVBteXg0SzJWemNfUGJaaHFDLWh2ZVpR?oc=5",
       "source": "Yahoo!ニュース",
       "published": "2026-08-21T19:07:45+09:00",
       "query": "Amazon セール 期間限定",
