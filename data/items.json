@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T07:30:35.167209+09:00",
+  "generated_at": "2026-08-25T19:35:31.758282+09:00",
   "count": 6,
   "items": [
     {
@@ -7,9 +7,27 @@
       "raw_title": "ローソンアプリに新規でポイントカードを連携すると、無料券がもらえる！さらに条件達成で値引券ももらえる！ - LAWSON",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBreVJnNzNqUTdTYTV4cDRYMkQ2Unl6UmxaanJqMXBheU9yaGFyTWN4bkNQRUFTU2NmX0Q5ZkNOXzQ2YWJXNHZTWHVDRWJ0c2VfT050Q0tDa0dfMU9UalZ1N2RTeFU?oc=5",
       "source": "LAWSON",
-      "published": "2026-08-24T21:43:00+09:00",
+      "published": "2026-08-25T17:25:27+09:00",
       "query": "ローソン 無料 クーポン",
       "bucket": "free"
+    },
+    {
+      "title": "楽天モバイルのクーポンコード解説【2026年8月最新】期間限定コードや適用条件まとめ",
+      "raw_title": "楽天モバイルのクーポンコード解説【2026年8月最新】期間限定コードや適用条件まとめ - BCN Retail",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nd0FMR2Nsa2FHMVFDMW8yMV9fd1RTOG90SEVWYnlsUjA2V0lacXMxMXRycU9xQzJHWlZkY2FUc2s1WlBOVWExMU1jMmlmbzJNTElySFJ6aGlzaEQwbnc?oc=5",
+      "source": "BCN Retail",
+      "published": "2026-08-25T08:52:00+09:00",
+      "query": "楽天市場 ポイント還元 期間限定",
+      "bucket": "limited"
+    },
+    {
+      "title": "「ちょいデリ」からたんぱく質が摂れるメニューが登場！｜キャンペーン",
+      "raw_title": "「ちょいデリ」からたんぱく質が摂れるメニューが登場！｜キャンペーン - family.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lSmFpQ0o3Zzl0cGtoWWhPY3cyTEpjQmNFUXlTbkxleEhBNDEwR05LamZnclNuUEtHUDdkOUNNZ3BwT202X3V4VmtIazhvSGNsakJmTjBCWmlKdmtWTUlXZzBYaHIwRXhJTDhKTA?oc=5",
+      "source": "family.co.jp",
+      "published": "2026-08-25T00:02:57+09:00",
+      "query": "ファミリーマート 期間限定 キャンペーン",
+      "bucket": "limited"
     },
     {
       "title": "Amazon「スマイルSale」2026年8月28日（木）9時開始",
@@ -35,24 +53,6 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oQUc3REh1UzQ3UHlrRnZyNk5EelJhQi1YVXhvWEpKR0lLX3pHTU9fdHZoY2puY25GSEJCb3JFZEo0ZW00cks1alBZQTNobmFCR192ZzZCSG9IcHRMdW1lOWFwUW5ac3BUTEE?oc=5",
       "source": "PR TIMES",
       "published": "2026-08-23T09:00:01+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "ポイントカード会員・先着40万枚限定！塩ハイレモン・スポドリパンチいずれか1つ無料クーポン配信！｜ローソン公式サイト",
-      "raw_title": "ポイントカード会員・先着40万枚限定！塩ハイレモン・スポドリパンチいずれか1つ無料クーポン配信！｜ローソン公式サイト - LAWSON",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53VVE2bk1Dc1BkSW1kSnhGcVlqTjR0bWZQVzZySm9kVm5DSjVyTEJrcU9nTnNDbERrM2VlU2VLN1V4bFRWVEVkNF9qNkNiQlJIZ1IxcWZ5OFltSHViSlpKOXZLZ2s?oc=5",
-      "source": "LAWSON",
-      "published": "2026-08-22T16:00:00+09:00",
-      "query": "ローソン 無料 クーポン",
-      "bucket": "free"
-    },
-    {
-      "title": "Amazon「スマイルSALE」8月28日9時スタート。4TB SSDやRingドアホンなどがセール対象に",
-      "raw_title": "Amazon「スマイルSALE」8月28日9時スタート。4TB SSDやRingドアホンなどがセール対象に - corriente.jp",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aOEtMZ1JWLTlGOTZ2UFV6RmYzc3FhLUNaTkdBY2pBY0lOQWFiS1A5LWx5WTFXZTV0SXJ5VG5paDZUYmhxTUJWWk54b1k1blVTT3A4UGNJMGx4Tm9aYTBfNTBR0gFnQVVfeXFMTmFDazI4UkV2MktBWDJZaWItQi1wcGZzeU1JcS04OE9jR1BqSE16YTdvaDc3VHVBQVJwMW5aNGR1ZTlVTWJITEVwM3VzTzlsb0JfOHdPbDNIZjBBX203MTVfVW9iT0VlRQ?oc=5",
-      "source": "corriente.jp",
-      "published": "2026-08-22T11:15:32+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "limited"
     }
