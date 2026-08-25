@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-08-25T19:35:31.758282+09:00",
-  "count": 6,
+  "generated_at": "2026-08-26T07:31:31.913750+09:00",
+  "count": 10,
   "items": [
+    {
+      "title": "スマートニュース、第3弾「クーポン祭」を8月25日（火）より開催！｜ニュースルーム",
+      "raw_title": "スマートニュース、第3弾「クーポン祭」を8月25日（火）より開催！｜ニュースルーム - スマートニュース株式会社",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtN3B3a2NGaTVlS3gtcVJwTzVEbUhrTWN6LWxoWVNKNmt5UEhiQnlqaURtZk4wVmRxclV6X0UzRjVyRmZKZTFmWTJyUzMxYnY3LXNWd1pRYmQ?oc=5",
+      "source": "スマートニュース株式会社",
+      "published": "2026-08-26T03:45:49+09:00",
+      "query": "コンビニ 無料引換",
+      "bucket": "limited"
+    },
+    {
+      "title": "楽天モバイルのキャンペーンどれがお得？【2026年8月】乗り換え・新規向けや併用パターンも解説",
+      "raw_title": "楽天モバイルのキャンペーンどれがお得？【2026年8月】乗り換え・新規向けや併用パターンも解説 - 株式会社ピクセラ",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkNExSYmg0azZ4QksxUE9IZHBrb1FyRWdaU3M3SEc0MGh0Q2RwNUNRRHdfYzF2MUdscUdFOXNwUlpiMVlpNDFsNFAyTlJ0NnBmRTNTRFd6U2NPUUN4cTRXNEtUUlkwM0k?oc=5",
+      "source": "株式会社ピクセラ",
+      "published": "2026-08-25T23:08:08+09:00",
+      "query": "楽天市場 ポイント還元 期間限定",
+      "bucket": "limited"
+    },
     {
       "title": "ローソンアプリに新規でポイントカードを連携すると、無料券がもらえる！さらに条件達成で値引券ももらえる！",
       "raw_title": "ローソンアプリに新規でポイントカードを連携すると、無料券がもらえる！さらに条件達成で値引券ももらえる！ - LAWSON",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBreVJnNzNqUTdTYTV4cDRYMkQ2Unl6UmxaanJqMXBheU9yaGFyTWN4bkNQRUFTU2NmX0Q5ZkNOXzQ2YWJXNHZTWHVDRWJ0c2VfT050Q0tDa0dfMU9UalZ1N2RTeFU?oc=5",
       "source": "LAWSON",
-      "published": "2026-08-25T17:25:27+09:00",
+      "published": "2026-08-25T20:28:10+09:00",
       "query": "ローソン 無料 クーポン",
+      "bucket": "free"
+    },
+    {
+      "title": "Teclast「P30T」期間限定セール開催！10.1インチ・Android 16搭載タブレットが22％OFF、13,900円に",
+      "raw_title": "Teclast「P30T」期間限定セール開催！10.1インチ・Android 16搭載タブレットが22％OFF、13,900円に - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Wd2piVEhIWUpyRTBkMkE2U3RNOEpVVVZwNjk0TkRYb2lfenhBSFNWWS00V0VNTE1BZExoUUpiSGN4Q3JiRjNuTDl6dEpZcm5SQmJ4SjVkdHNCZDFhM3Y0czM3bmdXaXJaRXc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-25T17:40:01+09:00",
+      "query": "Amazon セール 期間限定",
       "bucket": "free"
     },
     {
@@ -30,18 +57,27 @@
       "bucket": "limited"
     },
     {
-      "title": "Amazon「スマイルSale」2026年8月28日（木）9時開始",
-      "raw_title": "Amazon「スマイルSale」2026年8月28日（木）9時開始 - jetstream.blog",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SSTROamppd09iV0ZtWnJjNm9zaElaOUEyLVpHQTByaUdlV3RJNUdCb3N0aVBYYTlZUUo0ZXdURGFodXpsUjJBRWgzaTcyLWJTQkJadWpOVVZFLTlYUVdJNlUzRWZ3aFZHbDNRNkdIZmdtdw?oc=5",
-      "source": "jetstream.blog",
-      "published": "2026-08-23T13:53:27+09:00",
+      "title": "【2026年8月最新】三井住友カードのキャンペーンを紹介！新規入会でもらえる特典は？",
+      "raw_title": "【2026年8月最新】三井住友カードのキャンペーンを紹介！新規入会でもらえる特典は？ - マイベスト",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Jc0lJWTM5M3M5Z2d2TWxEU0owVjY5aUstUW0tX05GdU1WdVZnSm40Qk5HWVMwSVN0UWdUdjJnNFFqQWZLbEJVVw?oc=5",
+      "source": "マイベスト",
+      "published": "2026-08-25T00:00:00+09:00",
+      "query": "コンビニ ポイント還元 キャンペーン",
+      "bucket": "limited"
+    },
+    {
+      "title": "UQ mobileの契約事務手数料が不要に、AmazonでPrime会員限定セール",
+      "raw_title": "UQ mobileの契約事務手数料が不要に、AmazonでPrime会員限定セール - ケータイ Watch",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4TzZEYjE1eEFQTnpHMVRBNDd2TWtvcE5TNy1oZndkX3FKT2hvUDdFcDBQelFDcHJFZW5fbWVfb3hRaUdoNTRnd1RsMlhWTzgzaVVYUnBPNk1lckIzRmhoRnBac1NaVk50VGJ4YTJn?oc=5",
+      "source": "ケータイ Watch",
+      "published": "2026-08-24T19:19:48+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "limited"
     },
     {
-      "title": "Amazon「スマイルSale」2026年8月28日（金）開始",
-      "raw_title": "Amazon「スマイルSale」2026年8月28日（金）開始 - jetstream.blog",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RNnpRSFhwZjFYV0xkN3FNNm4wSWl0Y1VIM2szZVU1M0VaNFhpWTIyVkdid1A1LVFNUXppQzFOYlRVSkhmLS1BX3JBc2QyVWs1OFN6MkhKN3p4UGl4ekRLdlZGNnRVNzI5bUhhZzB3?oc=5",
+      "title": "Amazon「スマイルSale」2026年8月28日（木）9時開始",
+      "raw_title": "Amazon「スマイルSale」2026年8月28日（木）9時開始 - jetstream.blog",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SSTROamppd09iV0ZtWnJjNm9zaElaOUEyLVpHQTByaUdlV3RJNUdCb3N0aVBYYTlZUUo0ZXdURGFodXpsUjJBRWgzaTcyLWJTQkJadWpOVVZFLTlYUVdJNlUzRWZ3aFZHbDNRNkdIZmdtdw?oc=5",
       "source": "jetstream.blog",
       "published": "2026-08-23T13:53:27+09:00",
       "query": "Amazon セール 期間限定",
