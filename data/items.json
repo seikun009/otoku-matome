@@ -1,33 +1,60 @@
 {
-  "generated_at": "2026-08-26T07:31:31.913750+09:00",
-  "count": 10,
+  "generated_at": "2026-08-26T19:37:28.407820+09:00",
+  "count": 11,
   "items": [
     {
-      "title": "スマートニュース、第3弾「クーポン祭」を8月25日（火）より開催！｜ニュースルーム",
-      "raw_title": "スマートニュース、第3弾「クーポン祭」を8月25日（火）より開催！｜ニュースルーム - スマートニュース株式会社",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtN3B3a2NGaTVlS3gtcVJwTzVEbUhrTWN6LWxoWVNKNmt5UEhiQnlqaURtZk4wVmRxclV6X0UzRjVyRmZKZTFmWTJyUzMxYnY3LXNWd1pRYmQ?oc=5",
-      "source": "スマートニュース株式会社",
-      "published": "2026-08-26T03:45:49+09:00",
-      "query": "コンビニ 無料引換",
-      "bucket": "limited"
-    },
-    {
-      "title": "楽天モバイルのキャンペーンどれがお得？【2026年8月】乗り換え・新規向けや併用パターンも解説",
-      "raw_title": "楽天モバイルのキャンペーンどれがお得？【2026年8月】乗り換え・新規向けや併用パターンも解説 - 株式会社ピクセラ",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkNExSYmg0azZ4QksxUE9IZHBrb1FyRWdaU3M3SEc0MGh0Q2RwNUNRRHdfYzF2MUdscUdFOXNwUlpiMVlpNDFsNFAyTlJ0NnBmRTNTRFd6U2NPUUN4cTRXNEtUUlkwM0k?oc=5",
-      "source": "株式会社ピクセラ",
-      "published": "2026-08-25T23:08:08+09:00",
-      "query": "楽天市場 ポイント還元 期間限定",
-      "bucket": "limited"
+      "title": "Amazonスマイルセール期間限定！SEALIGHT「バックランプJ1」プレゼントキャンペーン開催 (画像No. 4",
+      "raw_title": "Amazonスマイルセール期間限定！SEALIGHT「バックランプJ1」プレゼントキャンペーン開催 (画像No. 4 - MOTA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SQ0I2bkNSdVJGcjRCdkJGbVFHNHlmaWxCVURreGRYRjlGQktybWdmdlZtZXBiQ2FSd2xkV2VnUS1mczRoWXR5dUxfYlJsb3RUTFpGZmVneVJPcktVLXc?oc=5",
+      "source": "MOTA",
+      "published": "2026-08-26T18:43:46+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "free"
     },
     {
       "title": "ローソンアプリに新規でポイントカードを連携すると、無料券がもらえる！さらに条件達成で値引券ももらえる！",
       "raw_title": "ローソンアプリに新規でポイントカードを連携すると、無料券がもらえる！さらに条件達成で値引券ももらえる！ - LAWSON",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBreVJnNzNqUTdTYTV4cDRYMkQ2Unl6UmxaanJqMXBheU9yaGFyTWN4bkNQRUFTU2NmX0Q5ZkNOXzQ2YWJXNHZTWHVDRWJ0c2VfT050Q0tDa0dfMU9UalZ1N2RTeFU?oc=5",
       "source": "LAWSON",
-      "published": "2026-08-25T20:28:10+09:00",
+      "published": "2026-08-26T17:43:09+09:00",
       "query": "ローソン 無料 クーポン",
       "bucket": "free"
+    },
+    {
+      "title": "楽天モバイルのキャンペーンどれがお得？【2026年8月】乗り換え・新規向けや併用パターンも解説",
+      "raw_title": "楽天モバイルのキャンペーンどれがお得？【2026年8月】乗り換え・新規向けや併用パターンも解説 - 株式会社ピクセラ",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkNExSYmg0azZ4QksxUE9IZHBrb1FyRWdaU3M3SEc0MGh0Q2RwNUNRRHdfYzF2MUdscUdFOXNwUlpiMVlpNDFsNFAyTlJ0NnBmRTNTRFd6U2NPUUN4cTRXNEtUUlkwM0k?oc=5",
+      "source": "株式会社ピクセラ",
+      "published": "2026-08-26T17:16:43+09:00",
+      "query": "楽天市場 ポイント還元 期間限定",
+      "bucket": "limited"
+    },
+    {
+      "title": "【読者限定＆期間限定で割引】はじめての1台から、プロの現場まで。用途別に選ぶ「UGREEN NASync」シリーズ徹底ガイド",
+      "raw_title": "【読者限定＆期間限定で割引】はじめての1台から、プロの現場まで。用途別に選ぶ「UGREEN NASync」シリーズ徹底ガイド - ASCII.jp",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aSHFTbTJIRFY5OVBFRF8xdnctR3UtV1VpQzhoUE5udDc5OS1vaVNpUFUxcnk3aGhBTGRfSEFISVdoNE1FeDVFWVpIYW9OUU9MLTNHVA?oc=5",
+      "source": "ASCII.jp",
+      "published": "2026-08-26T11:00:00+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
+    },
+    {
+      "title": "26年8月 キリンウイスキー 陸ハイボール コンビニ無料引き換えクーポンが当たる！キャンペーン",
+      "raw_title": "26年8月 キリンウイスキー 陸ハイボール コンビニ無料引き換えクーポンが当たる！キャンペーン - Koubo",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9fZ3JHMHhLdFZSU3dzWm5NeVI4eVFSVTRtcWZXZENqbm5qRVBMRlk2aTlsTWF5X1QzdTJRRDBuOUZQcHFvSnc?oc=5",
+      "source": "Koubo",
+      "published": "2026-08-26T09:44:50+09:00",
+      "query": "コンビニ 無料引換",
+      "bucket": "free"
+    },
+    {
+      "title": "【Amazonセール】MSIのゲーミングモニターがお買い得。Amazon限定34インチ湾曲モデル「MAG 342CQR E2」などがラインナップ",
+      "raw_title": "【Amazonセール】MSIのゲーミングモニターがお買い得。Amazon限定34インチ湾曲モデル「MAG 342CQR E2」などがラインナップ - GAME Watch",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16N3QwR1RXZjYwMDBzY1FSN1pMQ1J2YTllR0pBLTRQOEd6eWtOSTBTUE53Vk5nazRYb2hBMEZMd1R4NXlzek1YR05wVEh4elZQbE9TcU8yVGY2SHhTT1pxWDZWUWdZUQ?oc=5",
+      "source": "GAME Watch",
+      "published": "2026-08-26T00:05:00+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
     },
     {
       "title": "Teclast「P30T」期間限定セール開催！10.1インチ・Android 16搭載タブレットが22％OFF、13,900円に",
@@ -71,24 +98,6 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4TzZEYjE1eEFQTnpHMVRBNDd2TWtvcE5TNy1oZndkX3FKT2hvUDdFcDBQelFDcHJFZW5fbWVfb3hRaUdoNTRnd1RsMlhWTzgzaVVYUnBPNk1lckIzRmhoRnBac1NaVk50VGJ4YTJn?oc=5",
       "source": "ケータイ Watch",
       "published": "2026-08-24T19:19:48+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "Amazon「スマイルSale」2026年8月28日（木）9時開始",
-      "raw_title": "Amazon「スマイルSale」2026年8月28日（木）9時開始 - jetstream.blog",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SSTROamppd09iV0ZtWnJjNm9zaElaOUEyLVpHQTByaUdlV3RJNUdCb3N0aVBYYTlZUUo0ZXdURGFodXpsUjJBRWgzaTcyLWJTQkJadWpOVVZFLTlYUVdJNlUzRWZ3aFZHbDNRNkdIZmdtdw?oc=5",
-      "source": "jetstream.blog",
-      "published": "2026-08-23T13:53:27+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "【Teclast】13.4インチ大画面タブレット「T65」が期間限定セール！8月21日（金）より22％OFF、24,899円で販売",
-      "raw_title": "【Teclast】13.4インチ大画面タブレット「T65」が期間限定セール！8月21日（金）より22％OFF、24,899円で販売 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oQUc3REh1UzQ3UHlrRnZyNk5EelJhQi1YVXhvWEpKR0lLX3pHTU9fdHZoY2puY25GSEJCb3JFZEo0ZW00cks1alBZQTNobmFCR192ZzZCSG9IcHRMdW1lOWFwUW5ac3BUTEE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-23T09:00:01+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "limited"
     }
