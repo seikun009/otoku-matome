@@ -1,23 +1,14 @@
 {
-  "generated_at": "2026-08-26T19:37:28.407820+09:00",
-  "count": 11,
+  "generated_at": "2026-08-27T12:00:44.069839+09:00",
+  "count": 12,
   "items": [
     {
-      "title": "Amazonスマイルセール期間限定！SEALIGHT「バックランプJ1」プレゼントキャンペーン開催 (画像No. 4",
-      "raw_title": "Amazonスマイルセール期間限定！SEALIGHT「バックランプJ1」プレゼントキャンペーン開催 (画像No. 4 - MOTA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SQ0I2bkNSdVJGcjRCdkJGbVFHNHlmaWxCVURreGRYRjlGQktybWdmdlZtZXBiQ2FSd2xkV2VnUS1mczRoWXR5dUxfYlJsb3RUTFpGZmVneVJPcktVLXc?oc=5",
-      "source": "MOTA",
-      "published": "2026-08-26T18:43:46+09:00",
+      "title": "Amazonスマイルセール期間限定！SEALIGHT「バックランプJ1」プレゼントキャンペーン開催",
+      "raw_title": "Amazonスマイルセール期間限定！SEALIGHT「バックランプJ1」プレゼントキャンペーン開催 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vWmVFZ0VhYXpkRnZZSXNHMm9HcG9NSm1pN1RTUGkyay1kSGZSREF5OWJqTVhEb2lEeXdtWUw1REl1LXZxWjJ2UUtXZG9HODhGVkRTNjFZVzk2UnBDSUM5MjU4bzhNZG1iTzJxQXZhTVFNaXZtMFVfSk5pWQ?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-08-27T02:48:25+09:00",
       "query": "Amazon セール 期間限定",
-      "bucket": "free"
-    },
-    {
-      "title": "ローソンアプリに新規でポイントカードを連携すると、無料券がもらえる！さらに条件達成で値引券ももらえる！",
-      "raw_title": "ローソンアプリに新規でポイントカードを連携すると、無料券がもらえる！さらに条件達成で値引券ももらえる！ - LAWSON",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBreVJnNzNqUTdTYTV4cDRYMkQ2Unl6UmxaanJqMXBheU9yaGFyTWN4bkNQRUFTU2NmX0Q5ZkNOXzQ2YWJXNHZTWHVDRWJ0c2VfT050Q0tDa0dfMU9UalZ1N2RTeFU?oc=5",
-      "source": "LAWSON",
-      "published": "2026-08-26T17:43:09+09:00",
-      "query": "ローソン 無料 クーポン",
       "bucket": "free"
     },
     {
@@ -27,6 +18,24 @@
       "source": "株式会社ピクセラ",
       "published": "2026-08-26T17:16:43+09:00",
       "query": "楽天市場 ポイント還元 期間限定",
+      "bucket": "limited"
+    },
+    {
+      "title": "楽天モバイルのクーポンコード解説【2026年8月最新】期間限定コードや適用条件まとめ",
+      "raw_title": "楽天モバイルのクーポンコード解説【2026年8月最新】期間限定コードや適用条件まとめ - BCN Retail",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nd0FMR2Nsa2FHMVFDMW8yMV9fd1RTOG90SEVWYnlsUjA2V0lacXMxMXRycU9xQzJHWlZkY2FUc2s1WlBOVWExMU1jMmlmbzJNTElySFJ6aGlzaEQwbnc?oc=5",
+      "source": "BCN Retail",
+      "published": "2026-08-26T16:46:00+09:00",
+      "query": "楽天市場 ポイント還元 期間限定",
+      "bucket": "limited"
+    },
+    {
+      "title": "スマートニュース、第3弾「クーポン祭」を8月25日（火）より開催！｜ニュースルーム",
+      "raw_title": "スマートニュース、第3弾「クーポン祭」を8月25日（火）より開催！｜ニュースルーム - スマートニュース株式会社",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtN3B3a2NGaTVlS3gtcVJwTzVEbUhrTWN6LWxoWVNKNmt5UEhiQnlqaURtZk4wVmRxclV6X0UzRjVyRmZKZTFmWTJyUzMxYnY3LXNWd1pRYmQ?oc=5",
+      "source": "スマートニュース株式会社",
+      "published": "2026-08-26T16:38:09+09:00",
+      "query": "コンビニ 無料引換",
       "bucket": "limited"
     },
     {
@@ -48,12 +57,12 @@
       "bucket": "free"
     },
     {
-      "title": "【Amazonセール】MSIのゲーミングモニターがお買い得。Amazon限定34インチ湾曲モデル「MAG 342CQR E2」などがラインナップ",
-      "raw_title": "【Amazonセール】MSIのゲーミングモニターがお買い得。Amazon限定34インチ湾曲モデル「MAG 342CQR E2」などがラインナップ - GAME Watch",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16N3QwR1RXZjYwMDBzY1FSN1pMQ1J2YTllR0pBLTRQOEd6eWtOSTBTUE53Vk5nazRYb2hBMEZMd1R4NXlzek1YR05wVEh4elZQbE9TcU8yVGY2SHhTT1pxWDZWUWdZUQ?oc=5",
-      "source": "GAME Watch",
-      "published": "2026-08-26T00:05:00+09:00",
-      "query": "Amazon セール 期間限定",
+      "title": "サントリー「クラフトボスミルクラテ」がもらえる！おトクなレシートクーポン 8月26日(水)から",
+      "raw_title": "サントリー「クラフトボスミルクラテ」がもらえる！おトクなレシートクーポン 8月26日(水)から - ローソンストア100",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTWllCS05NNUFlaWc0RzVPMkxYSFZtVDVKdk1IazRrRjFzTnpWaGQtTWFxTG1UTmotQmtCWlB6a0ktdS1Oa1RIa2l1MzNhR2plQ1VSS091TFVZY3BVYk1oV2dJRFYxUzU0YjZ0UFBUcVpTT3RMSENnbmx3?oc=5",
+      "source": "ローソンストア100",
+      "published": "2026-08-26T09:10:12+09:00",
+      "query": "ローソン 無料 クーポン",
       "bucket": "limited"
     },
     {
@@ -66,13 +75,13 @@
       "bucket": "free"
     },
     {
-      "title": "楽天モバイルのクーポンコード解説【2026年8月最新】期間限定コードや適用条件まとめ",
-      "raw_title": "楽天モバイルのクーポンコード解説【2026年8月最新】期間限定コードや適用条件まとめ - BCN Retail",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nd0FMR2Nsa2FHMVFDMW8yMV9fd1RTOG90SEVWYnlsUjA2V0lacXMxMXRycU9xQzJHWlZkY2FUc2s1WlBOVWExMU1jMmlmbzJNTElySFJ6aGlzaEQwbnc?oc=5",
-      "source": "BCN Retail",
-      "published": "2026-08-25T08:52:00+09:00",
-      "query": "楽天市場 ポイント還元 期間限定",
-      "bucket": "limited"
+      "title": "ローソンアプリに新規でポイントカードを連携すると、無料券がもらえる！さらに条件達成で値引券ももらえる！",
+      "raw_title": "ローソンアプリに新規でポイントカードを連携すると、無料券がもらえる！さらに条件達成で値引券ももらえる！ - LAWSON",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBreVJnNzNqUTdTYTV4cDRYMkQ2Unl6UmxaanJqMXBheU9yaGFyTWN4bkNQRUFTU2NmX0Q5ZkNOXzQ2YWJXNHZTWHVDRWJ0c2VfT050Q0tDa0dfMU9UalZ1N2RTeFU?oc=5",
+      "source": "LAWSON",
+      "published": "2026-08-25T16:00:00+09:00",
+      "query": "ローソン 無料 クーポン",
+      "bucket": "free"
     },
     {
       "title": "「ちょいデリ」からたんぱく質が摂れるメニューが登場！｜キャンペーン",
