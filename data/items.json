@@ -1,114 +1,51 @@
 {
-  "generated_at": "2026-08-31T09:18:24.274987+09:00",
-  "count": 12,
+  "generated_at": "2026-09-01T02:26:53.635295+09:00",
+  "count": 5,
   "items": [
     {
-      "title": "ワイヤレスイヤホンが半額以下！Amazon スマイルSALE",
-      "raw_title": "ワイヤレスイヤホンが半額以下！Amazon スマイルSALE - PHILE WEB",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ORGtLWm9OaGZkWUx0TUJrUWUwbHhRZzRHM0VNUnNDVnBpWkE1VE5GdWR3VlZoblZlYU0wVlJFRDJQM3hNbnh1ekJCdm8zTzlMSVRuRjVhZ2t3bk9yazVadzNEM1hUZw?oc=5",
-      "source": "PHILE WEB",
-      "published": "2026-08-29T10:00:00+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "2026年の最新「Amazon スマイルセール」スタート！5月27日から6月2日までの約1週間【注目商品12選】",
-      "raw_title": "2026年の最新「Amazon スマイルセール」スタート！5月27日から6月2日までの約1週間【注目商品12選】 - ウォーカープラス",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LbUlwUjQ0SEFDQkIxZmYwNU5KQkRteDMxTE9sOXRZVDhyaEtPTlQ5Ukl6OFJWQVYxenRrYnJMOEtUakxzdFpRSDFYbXhlT2cwZWxuVzBn0gFbQVVfeXFMTTJOTG5lZVhDOXlzME1PbldzY05TYktCbloyYUh4ei1xUUJscmFSVmRJZ2ZiTUdlNFJMbGlWbWk0c3ZfSlZQMDI0SGxWcTFfeUpGS0dmMG0tcHNtcw?oc=5",
-      "source": "ウォーカープラス",
-      "published": "2026-08-29T00:45:18+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "ファミマで！「楽天市場」の「SPU」の条件達成と「楽天ペイ」での支払いで 「ラインソックス」がもらえるキャンペーンを実施",
-      "raw_title": "ファミマで！「楽天市場」の「SPU」の条件達成と「楽天ペイ」での支払いで 「ラインソックス」がもらえるキャンペーンを実施 - family.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lbWZOaE55MzBHUjNqZWMxaHVoR3I2WmlUa2d1azVkcE1jbTRfSDdiWEVkd3BUajJTUWhQdWRQWGJudlR1LUktVURqQzJNTkwwNXJXaFl0LThlT3dhbUFLZmhtb3dWUHdHNDBkUXhwdEV4b1J3M2FV?oc=5",
-      "source": "family.co.jp",
-      "published": "2026-08-28T16:34:45+09:00",
-      "query": "ファミリーマート 期間限定 キャンペーン",
-      "bucket": "limited"
-    },
-    {
-      "title": "【保存版】2026年Amazonセール完全攻略ガイド｜次のセールはいつ？お得な買い方＆年間スケジュールまとめ",
-      "raw_title": "【保存版】2026年Amazonセール完全攻略ガイド｜次のセールはいつ？お得な買い方＆年間スケジュールまとめ - アプリブ",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94QzFkcXVCMDBNOWYwQjhEQU1BTm8tdWRvaXNhUFQ4TG9zamFDR1ZMVU02aGg1ZHg5OFNVbG9ZU2tGd3RudjZrZGJhRDM0cEU?oc=5",
-      "source": "アプリブ",
-      "published": "2026-08-28T16:00:00+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "【知ってれば得する】AmazonスマイルSale2026完全攻略法 次のセールはいつ？何がおすすめで安い？",
-      "raw_title": "【知ってれば得する】AmazonスマイルSale2026完全攻略法 次のセールはいつ？何がおすすめで安い？ - アプリブ",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aVnppcktLdWwwaTVBQ1BUYzVoSnJDd3pOUGtWb0xYRXZ5WFAtd3M3bWJqdEd5My01MEpnMVBTaFdLUFc5ZElucU5YRE9mUGc?oc=5",
-      "source": "アプリブ",
-      "published": "2026-08-28T16:00:00+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "2ndfocus取扱いブランド商品が「Amazon スマイルSALE」にて期間限定価格で販売",
-      "raw_title": "2ndfocus取扱いブランド商品が「Amazon スマイルSALE」にて期間限定価格で販売 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Tc2JLZUFXNmV6TVZCUXlWQ19BdlRlZlgydFhFWVdVRFZEcUxEWGxLNnRKcU0wTzlrdG9TeTZuY2xTMDhlalBRU0JOeVFRVFV5MGpHRjlaY0Z2c0owbzF2MkRkcFN4RWVMdXc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-28T12:30:01+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "「Microsoft 365」がプライム会員向けにセール中！ Amazon スマイルSale",
-      "raw_title": "「Microsoft 365」がプライム会員向けにセール中！ Amazon スマイルSale - INTERNET Watch",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85V2V2cl9qWFVRdkFHTVZkM2xKNktjMEZxcEZ6cFlYYjRiRUNiZHdZM1FEdFdzSEF2M0dBcDQ0cllNNXQtX2V2VVZOcHFPSWZzQmVZWjZMN1h2RW9KNzBoRUNGVmFDLWFiLWxGNHpMMGY?oc=5",
-      "source": "INTERNET Watch",
-      "published": "2026-08-28T10:30:00+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "【Amazon 第5回スマイルSALE】残暑のポケ活は\"ひとりで頑張る\"から\"まとめておまかせ\"へ｜4台同時接続オートキャッチ『Ultra Catcher 4』が期間限定特別価格",
-      "raw_title": "【Amazon 第5回スマイルSALE】残暑のポケ活は\"ひとりで頑張る\"から\"まとめておまかせ\"へ｜4台同時接続オートキャッチ『Ultra Catcher 4』が期間限定特別価格 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhUmVPRUdCQUs0LXoyWXU5VEN4ek0tUndsVVpGRWN4SVdyYXlqa1gzckN3eDR0RWJSUUU1U1RhdWY3MlhwNUFrakZPUW9maWlTVDB1cHF5dWQyUi1iNEtpRExWOWQ0RU10VVE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-28T10:00:02+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "【第5回 Amazon スマイルSALE】残暑と新学期でポケ活が止まる季節に｜最大約17kmの広域カバー×26時間駆動、ポケモンGO®対応ARサポートツール「ARmate」が期間限定特価",
-      "raw_title": "【第5回 Amazon スマイルSALE】残暑と新学期でポケ活が止まる季節に｜最大約17kmの広域カバー×26時間駆動、ポケモンGO®対応ARサポートツール「ARmate」が期間限定特価 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VWjJuMUthSVVzY3lQcE9qbG5pWlVlczdWZ0JjRTFDcWhrNnZod3hUNVY0dTdmMlV0d3Q0UE43ZHI5WW9zaVIwQmozU0ZWeENMeGJjRnVDQ3ZOTWU3VnMyYW5Ua2EzQ1NpV1E?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-28T10:00:02+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "【Amazon 第5回スマイルSALE】迷ったらコレ！5gで腕に付けるだけの定番・ポケモンGO®対応オートキャッチデバイス「ポケットオートキャッチNEO」が期間限定特別価格",
-      "raw_title": "【Amazon 第5回スマイルSALE】迷ったらコレ！5gで腕に付けるだけの定番・ポケモンGO®対応オートキャッチデバイス「ポケットオートキャッチNEO」が期間限定特別価格 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fTnRmZDBicnB6ZmdodHhUdXRfUy1ROEx3SUZjbTdBWWNyWjV0OFEyYTNEejdFREROSFRMTUFJdzg1c2VESUZpX2VOdGQ4Z2pKZnlCUU5MdUFnUXBXTmJaZzFxSFdxYTVTaXc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-28T10:00:02+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "【第5回Amazon スマイルSALE】「たぶん大丈夫」から卒業！IRセンサー搭載弾速計「ACETECH AC5000」期間限定特別価格。初速管理を数字で確認できる！",
-      "raw_title": "【第5回Amazon スマイルSALE】「たぶん大丈夫」から卒業！IRセンサー搭載弾速計「ACETECH AC5000」期間限定特別価格。初速管理を数字で確認できる！ - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PRW1YT0ItNExkTzFfaEdxMlJrTmM0c0pGLVotbVZMVXgzZnNoOVFldG1FWEdJX0Q5QlBFR1lRc1FGWHcyYl9VME9yT25oUG9uTzZyNHA2UVZURFNwUkNsYU5yYlRDWlpOZWc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-28T10:00:02+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "【Amazonセール】G TUNEゲーミングPCが29万9980円、iiyamaモニターが1万6800円に",
-      "raw_title": "【Amazonセール】G TUNEゲーミングPCが29万9980円、iiyamaモニターが1万6800円に - ASCII.jp",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QM005RkxhNXhHOWwtejMwRi0wZzg0UWZIQWFuYVBXcEcxcTJJU2VTaFQtWXJGTGp0OWpEUDRERDR5M2M5TnllMkdGbldJTXlCLXEtbg?oc=5",
-      "source": "ASCII.jp",
-      "published": "2026-08-28T09:45:00+09:00",
-      "query": "Amazon セール 期間限定",
+      "title": "9月2日スタート♪毎日1万名様に抽選で「ローソンオリジナル冷凍食品 レンジで簡単！焼餃子」無料券をプレゼント！",
+      "raw_title": "9月2日スタート♪毎日1万名様に抽選で「ローソンオリジナル冷凍食品 レンジで簡単！焼餃子」無料券をプレゼント！ - LAWSON",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92UkpTYVRJWVRucVJ4QzlrOHZWTEhKYW13RnN4WGhhWF9tSDBGV0Q5RWZPb0taUTJsU0l4UXFsLUJpU3FoRVMtVExadW90LUQwZzNnUXhZMFZUODBaQUtTN2k2NE1uVHUtS2Iw?oc=5",
+      "source": "LAWSON",
+      "published": "2026-09-01T00:28:56+09:00",
+      "query": "ローソン 無料 クーポン",
       "bucket": "free"
+    },
+    {
+      "title": "セブン-イレブンでPayPayポイントを利用して対象商品を買うと最大30％戻ってくるキャンペーン",
+      "raw_title": "セブン-イレブンでPayPayポイントを利用して対象商品を買うと最大30％戻ってくるキャンペーン - PayPay",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HdGNYWDVoZzBITDhUbTlOUllGTHMwLTBpSUE4TWlDY0ZrcWxuakk5Y3NGN3Q0b2Q1bWY5LUIzaXJuUzdTX29DYXlHSkE0S2pWeElwM3BxNEJhUldRblE?oc=5",
+      "source": "PayPay",
+      "published": "2026-08-31T23:27:59+09:00",
+      "query": "セブンイレブン キャンペーン ポイント",
+      "bucket": "point"
+    },
+    {
+      "title": "【Amazon 第5回スマイルSALE】EVOアワード受賞の超低遅延コンバーター『Brook Wingman FGC2』が期間限定特別価格｜愛用アケコンがPS5でそのまま使える",
+      "raw_title": "【Amazon 第5回スマイルSALE】EVOアワード受賞の超低遅延コンバーター『Brook Wingman FGC2』が期間限定特別価格｜愛用アケコンがPS5でそのまま使える - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RM1VLU293ejU5cGlHQS1IekZjaDFobThleG5RZVFaTmtoUmlqMXNTWUJoVjViSWxWck93SVNWMlQ4bUV0Mms0RUg0TDB6ZjhERkg4TVVzMExpOTJZRHdpVEg5NjNXYVBoUmc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-31T13:00:01+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
+    },
+    {
+      "title": "【楽天限定・特別価格】9月のイベント準備に！ Switch 2対応×0.00262s超低遅延！ドリフト防止TMRセンサー搭載「GuliKit TT MAXコントローラー」期間限定セール",
+      "raw_title": "【楽天限定・特別価格】9月のイベント準備に！ Switch 2対応×0.00262s超低遅延！ドリフト防止TMRセンサー搭載「GuliKit TT MAXコントローラー」期間限定セール - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02VG5RV3VKRWNtem10Y1hNNmd5THludW5TN01JSjBvaVpUeXk2NnBuM1ppV0dkRWl0aVFkdUlzcWcxc3RsNGRvRGZlVkw3aVN5anJrQ1B2cVY3a1V2LTJwLU1iVmRXaU5kalE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-31T13:00:01+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
+    },
+    {
+      "title": "AirPods、iPhoneにApple Watchもお得。アップル製品、AmazonスマイルSALEで何が安い？",
+      "raw_title": "AirPods、iPhoneにApple Watchもお得。アップル製品、AmazonスマイルSALEで何が安い？ - PHILE WEB",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HeXctMVhYZnE2TVVEOWtnaFBHYmptLVRJc0VBTkRZZXZ5SFRRVktaeXBlem5vb1p6V0t6dzNXbmZ3aUZPRmhVMnpkM0ZyYUJDLWZBR1dQYkt0XzdoSlN1WW1pNnFpZw?oc=5",
+      "source": "PHILE WEB",
+      "published": "2026-08-29T08:00:00+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
     }
   ]
 }
