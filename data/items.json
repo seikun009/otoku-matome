@@ -1,23 +1,50 @@
 {
-  "generated_at": "2026-09-01T10:06:56.387276+09:00",
-  "count": 6,
+  "generated_at": "2026-09-01T23:36:44.502862+09:00",
+  "count": 10,
   "items": [
-    {
-      "title": "9月2日スタート♪毎日1万名様に抽選で「ローソンオリジナル冷凍食品 レンジで簡単！焼餃子」無料券をプレゼント！",
-      "raw_title": "9月2日スタート♪毎日1万名様に抽選で「ローソンオリジナル冷凍食品 レンジで簡単！焼餃子」無料券をプレゼント！ - LAWSON",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92UkpTYVRJWVRucVJ4QzlrOHZWTEhKYW13RnN4WGhhWF9tSDBGV0Q5RWZPb0taUTJsU0l4UXFsLUJpU3FoRVMtVExadW90LUQwZzNnUXhZMFZUODBaQUtTN2k2NE1uVHUtS2Iw?oc=5",
-      "source": "LAWSON",
-      "published": "2026-09-01T09:29:21+09:00",
-      "query": "ローソン 無料 クーポン",
-      "bucket": "free"
-    },
     {
       "title": "セブン-イレブンでPayPayポイントを利用して対象商品を買うと最大30％戻ってくるキャンペーン",
       "raw_title": "セブン-イレブンでPayPayポイントを利用して対象商品を買うと最大30％戻ってくるキャンペーン - PayPay",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HdGNYWDVoZzBITDhUbTlOUllGTHMwLTBpSUE4TWlDY0ZrcWxuakk5Y3NGN3Q0b2Q1bWY5LUIzaXJuUzdTX29DYXlHSkE0S2pWeElwM3BxNEJhUldRblE?oc=5",
       "source": "PayPay",
-      "published": "2026-09-01T08:30:28+09:00",
+      "published": "2026-09-01T23:35:35+09:00",
       "query": "セブンイレブン キャンペーン ポイント",
+      "bucket": "point"
+    },
+    {
+      "title": "9月2日スタート♪毎日1万名様に抽選で「ローソンオリジナル冷凍食品 レンジで簡単！焼餃子」無料券をプレゼント！",
+      "raw_title": "9月2日スタート♪毎日1万名様に抽選で「ローソンオリジナル冷凍食品 レンジで簡単！焼餃子」無料券をプレゼント！ - LAWSON",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92UkpTYVRJWVRucVJ4QzlrOHZWTEhKYW13RnN4WGhhWF9tSDBGV0Q5RWZPb0taUTJsU0l4UXFsLUJpU3FoRVMtVExadW90LUQwZzNnUXhZMFZUODBaQUtTN2k2NE1uVHUtS2Iw?oc=5",
+      "source": "LAWSON",
+      "published": "2026-09-01T21:31:00+09:00",
+      "query": "ローソン 無料 クーポン",
+      "bucket": "free"
+    },
+    {
+      "title": "楽天モバイルのキャンペーンどれがお得？【2026年9月】乗り換え・新規向けや併用パターンも解説",
+      "raw_title": "楽天モバイルのキャンペーンどれがお得？【2026年9月】乗り換え・新規向けや併用パターンも解説 - 株式会社ピクセラ",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkNExSYmg0azZ4QksxUE9IZHBrb1FyRWdaU3M3SEc0MGh0Q2RwNUNRRHdfYzF2MUdscUdFOXNwUlpiMVlpNDFsNFAyTlJ0NnBmRTNTRFd6U2NPUUN4cTRXNEtUUlkwM0k?oc=5",
+      "source": "株式会社ピクセラ",
+      "published": "2026-09-01T21:05:23+09:00",
+      "query": "楽天市場 ポイント還元 期間限定",
+      "bucket": "limited"
+    },
+    {
+      "title": "マウスコンピューター、Amazonにてパソコン＆液晶の期間限定セール",
+      "raw_title": "マウスコンピューター、Amazonにてパソコン＆液晶の期間限定セール - news.mynavi.jp",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZT0NkRjdaMjVtN0FQOXh0Zng5NHItWFBoWDhpQUpEYnVlSl9UU19DYU1DdlVQdllFM0M0c3VlMVpnZW1JeEtVNUptQklPWFVVdFIyZll2Y0t0Y2RQ?oc=5",
+      "source": "news.mynavi.jp",
+      "published": "2026-09-01T16:27:19+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
+    },
+    {
+      "title": "ファミペイ翌月払い登録者限定！【もれなく半額還元】キャンペーン開催",
+      "raw_title": "ファミペイ翌月払い登録者限定！【もれなく半額還元】キャンペーン開催 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjRU8yNnhhdExkcG1BSWxvM1B3eDRKcllfRU1BSDJFbm1pZm1GWnRyVWxIN25BbXZnZlVjQ0J1aGFGZ2xrbjdlQmpPRTFqYkd0aEdLcTdsUUp5RWF1UDV4MFVteDVHcGVaT3c?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-09-01T10:30:01+09:00",
+      "query": "ファミリーマート 期間限定 キャンペーン",
       "bucket": "point"
     },
     {
@@ -30,9 +57,27 @@
       "bucket": "free"
     },
     {
+      "title": "【知ってれば得する】AmazonスマイルSale2026完全攻略法 次のセールはいつ？何がおすすめで安い？ - mag.app",
+      "raw_title": "【知ってれば得する】AmazonスマイルSale2026完全攻略法 次のセールはいつ？何がおすすめで安い？ - mag.app-liv.jp",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aVnppcktLdWwwaTVBQ1BUYzVoSnJDd3pOUGtWb0xYRXZ5WFAtd3M3bWJqdEd5My01MEpnMVBTaFdLUFc5ZElucU5YRE9mUGc?oc=5",
+      "source": "mag.app-liv.jp",
+      "published": "2026-08-31T16:00:00+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
+    },
+    {
       "title": "【Amazon 第5回スマイルSALE】EVOアワード受賞の超低遅延コンバーター『Brook Wingman FGC2』が期間限定特別価格｜愛用アケコンがPS5でそのまま使える",
       "raw_title": "【Amazon 第5回スマイルSALE】EVOアワード受賞の超低遅延コンバーター『Brook Wingman FGC2』が期間限定特別価格｜愛用アケコンがPS5でそのまま使える - PR TIMES",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RM1VLU293ejU5cGlHQS1IekZjaDFobThleG5RZVFaTmtoUmlqMXNTWUJoVjViSWxWck93SVNWMlQ4bUV0Mms0RUg0TDB6ZjhERkg4TVVzMExpOTJZRHdpVEg5NjNXYVBoUmc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-31T13:00:01+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
+    },
+    {
+      "title": "【楽天限定・特別価格】9月のイベント準備に！ Switch 2対応×0.00262s超低遅延！ドリフト防止TMRセンサー搭載「GuliKit TT MAXコントローラー」期間限定セール",
+      "raw_title": "【楽天限定・特別価格】9月のイベント準備に！ Switch 2対応×0.00262s超低遅延！ドリフト防止TMRセンサー搭載「GuliKit TT MAXコントローラー」期間限定セール - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02VG5RV3VKRWNtem10Y1hNNmd5THludW5TN01JSjBvaVpUeXk2NnBuM1ppV0dkRWl0aVFkdUlzcWcxc3RsNGRvRGZlVkw3aVN5anJrQ1B2cVY3a1V2LTJwLU1iVmRXaU5kalE?oc=5",
       "source": "PR TIMES",
       "published": "2026-08-31T13:00:01+09:00",
       "query": "Amazon セール 期間限定",
@@ -45,15 +90,6 @@
       "source": "BCN Retail",
       "published": "2026-08-31T08:57:00+09:00",
       "query": "楽天市場 ポイント還元 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "USB-CイヤホンがAmazonでお得！［スマイルSALE］",
-      "raw_title": "USB-CイヤホンがAmazonでお得！［スマイルSALE］ - PHILE WEB",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45UEZFWHE1YUswcUhtS0ZHcU16M1BldG9jT2Q4NUkyUVJQRl9EcGpMbmpza2lJSWdSdGdXd3pra1htdFJhX3hPQXI1bG4yRnlWN1RsVTRKRzU3TVpIbGNXTVd5RzNNZw?oc=5",
-      "source": "PHILE WEB",
-      "published": "2026-08-29T12:00:00+09:00",
-      "query": "Amazon セール 期間限定",
       "bucket": "limited"
     }
   ]
