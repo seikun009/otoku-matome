@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-01T23:36:44.502862+09:00",
-  "count": 10,
+  "generated_at": "2026-09-02T08:53:05.705652+09:00",
+  "count": 11,
   "items": [
     {
       "title": "セブン-イレブンでPayPayポイントを利用して対象商品を買うと最大30％戻ってくるキャンペーン",
       "raw_title": "セブン-イレブンでPayPayポイントを利用して対象商品を買うと最大30％戻ってくるキャンペーン - PayPay",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HdGNYWDVoZzBITDhUbTlOUllGTHMwLTBpSUE4TWlDY0ZrcWxuakk5Y3NGN3Q0b2Q1bWY5LUIzaXJuUzdTX29DYXlHSkE0S2pWeElwM3BxNEJhUldRblE?oc=5",
       "source": "PayPay",
-      "published": "2026-09-01T23:35:35+09:00",
+      "published": "2026-09-02T08:38:44+09:00",
       "query": "セブンイレブン キャンペーン ポイント",
       "bucket": "point"
     },
@@ -16,7 +16,7 @@
       "raw_title": "9月2日スタート♪毎日1万名様に抽選で「ローソンオリジナル冷凍食品 レンジで簡単！焼餃子」無料券をプレゼント！ - LAWSON",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92UkpTYVRJWVRucVJ4QzlrOHZWTEhKYW13RnN4WGhhWF9tSDBGV0Q5RWZPb0taUTJsU0l4UXFsLUJpU3FoRVMtVExadW90LUQwZzNnUXhZMFZUODBaQUtTN2k2NE1uVHUtS2Iw?oc=5",
       "source": "LAWSON",
-      "published": "2026-09-01T21:31:00+09:00",
+      "published": "2026-09-02T06:35:59+09:00",
       "query": "ローソン 無料 クーポン",
       "bucket": "free"
     },
@@ -30,10 +30,19 @@
       "bucket": "limited"
     },
     {
+      "title": "【ローソン】新作「伊右衛門」や「チキンラーメン」などの無料券が登場！週末限定でウチカフェスイーツのまとめ買いがお得。",
+      "raw_title": "【ローソン】新作「伊右衛門」や「チキンラーメン」などの無料券が登場！週末限定でウチカフェスイーツのまとめ買いがお得。 - 東京バーゲンマニア",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yWVlJWlV3QUlLN3MwRW9sM2NwWkxkampOb3UybTZqbDVWalRtdDdIUl94Q2FlY0Z3bmNUMzBSMWxMRHlLTlQwVWJuZHl2dU1DSFR3?oc=5",
+      "source": "東京バーゲンマニア",
+      "published": "2026-09-01T18:35:00+09:00",
+      "query": "ローソン 無料 クーポン",
+      "bucket": "free"
+    },
+    {
       "title": "マウスコンピューター、Amazonにてパソコン＆液晶の期間限定セール",
-      "raw_title": "マウスコンピューター、Amazonにてパソコン＆液晶の期間限定セール - news.mynavi.jp",
+      "raw_title": "マウスコンピューター、Amazonにてパソコン＆液晶の期間限定セール - マイナビニュース",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZT0NkRjdaMjVtN0FQOXh0Zng5NHItWFBoWDhpQUpEYnVlSl9UU19DYU1DdlVQdllFM0M0c3VlMVpnZW1JeEtVNUptQklPWFVVdFIyZll2Y0t0Y2RQ?oc=5",
-      "source": "news.mynavi.jp",
+      "source": "マイナビニュース",
       "published": "2026-09-01T16:27:19+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "limited"
@@ -48,19 +57,10 @@
       "bucket": "point"
     },
     {
-      "title": "【抽選5,000名！マチカフェ(S)無料券プレゼント！】英会話に関するアンケートキャンペーン｜ローソン公式サイト",
-      "raw_title": "【抽選5,000名！マチカフェ(S)無料券プレゼント！】英会話に関するアンケートキャンペーン｜ローソン公式サイト - LAWSON",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5aFRobnZ5QUV1SUp3S3NOWllqck9RX29DQmR3b3p3MWp5RVpGTGIwM2J5c1hBbE9kcUVvdEpqeml1Si1oNWtpQlZQdHdxN05nZm93WnpjUVJBRy1SeHVKdWtENUVHU21Bb01z?oc=5",
-      "source": "LAWSON",
-      "published": "2026-08-31T23:30:36+09:00",
-      "query": "ローソン 無料 クーポン",
-      "bucket": "free"
-    },
-    {
-      "title": "【知ってれば得する】AmazonスマイルSale2026完全攻略法 次のセールはいつ？何がおすすめで安い？ - mag.app",
-      "raw_title": "【知ってれば得する】AmazonスマイルSale2026完全攻略法 次のセールはいつ？何がおすすめで安い？ - mag.app-liv.jp",
+      "title": "【知ってれば得する】AmazonスマイルSale2026完全攻略法 次のセールはいつ？何がおすすめで安い？",
+      "raw_title": "【知ってれば得する】AmazonスマイルSale2026完全攻略法 次のセールはいつ？何がおすすめで安い？ - アプリブ",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aVnppcktLdWwwaTVBQ1BUYzVoSnJDd3pOUGtWb0xYRXZ5WFAtd3M3bWJqdEd5My01MEpnMVBTaFdLUFc5ZElucU5YRE9mUGc?oc=5",
-      "source": "mag.app-liv.jp",
+      "source": "アプリブ",
       "published": "2026-08-31T16:00:00+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "limited"
@@ -82,6 +82,15 @@
       "published": "2026-08-31T13:00:01+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "limited"
+    },
+    {
+      "title": "NAS向けHDDが安い！2TBが19,980円、20TBが129,580円など【本日みつけたお買い得情報】",
+      "raw_title": "NAS向けHDDが安い！2TBが19,980円、20TBが129,580円など【本日みつけたお買い得情報】 - forest.watch.impress.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EbXlHY084OW9GREc2QXZkdWdzYm9HTHh3NG50Tk44WkNhOHNucFJRNUdkSllIS2N3aWNZZWFfeUJmT1dXT0w1c1pmdlZJQlNCRXZjT1JBWUpXR2ctbGpISWk5aENzUnoxQ29DR0tVcG5wQzR6TWc?oc=5",
+      "source": "forest.watch.impress.co.jp",
+      "published": "2026-08-31T10:12:09+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "free"
     },
     {
       "title": "楽天モバイルのクーポンコード解説【2026年8月最新】期間限定コードや適用条件まとめ",
