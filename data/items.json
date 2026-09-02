@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-09-02T23:10:50.145026+09:00",
-  "count": 10,
+  "generated_at": "2026-09-03T08:55:27.100301+09:00",
+  "count": 8,
   "items": [
-    {
-      "title": "【保存版】2026年Amazonセール完全攻略ガイド｜次のセールはいつ？お得な買い方＆年間スケジュールまとめ",
-      "raw_title": "【保存版】2026年Amazonセール完全攻略ガイド｜次のセールはいつ？お得な買い方＆年間スケジュールまとめ - アプリブ",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94QzFkcXVCMDBNOWYwQjhEQU1BTm8tdWRvaXNhUFQ4TG9zamFDR1ZMVU02aGg1ZHg5OFNVbG9ZU2tGd3RudjZrZGJhRDM0cEU?oc=5",
-      "source": "アプリブ",
-      "published": "2026-09-02T19:10:53+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "1個買うと1個もらえる！おトクなレシートクーポン 9月2日(水)から9月8日(火)まで",
-      "raw_title": "1個買うと1個もらえる！おトクなレシートクーポン 9月2日(水)から9月8日(火)まで - ローソンストア100",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDemwtQ0s3MjVGWnVVbE11c095aDd3QXVKNEcxcjFqODlpa3JjeHNGUXMtVHR3WkNMTllTWlBmcWlpTWZoWElRa3FOdS10Mkhib3hyZEtlVENFNjF6ci1rUlJaZXpSaE1YZEptYXhTV2k2RTgtdzNMc3JR?oc=5",
-      "source": "ローソンストア100",
-      "published": "2026-09-02T09:26:56+09:00",
-      "query": "ローソン 無料 クーポン",
-      "bucket": "limited"
-    },
     {
       "title": "楽天モバイルのキャンペーンどれがお得？【2026年9月】乗り換え・新規向けや併用パターンも解説",
       "raw_title": "楽天モバイルのキャンペーンどれがお得？【2026年9月】乗り換え・新規向けや併用パターンも解説 - 株式会社ピクセラ",
@@ -31,21 +13,12 @@
     },
     {
       "title": "マウスコンピューター、Amazonにてパソコン＆液晶の期間限定セール",
-      "raw_title": "マウスコンピューター、Amazonにてパソコン＆液晶の期間限定セール - news.mynavi.jp",
+      "raw_title": "マウスコンピューター、Amazonにてパソコン＆液晶の期間限定セール - マイナビニュース",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZT0NkRjdaMjVtN0FQOXh0Zng5NHItWFBoWDhpQUpEYnVlSl9UU19DYU1DdlVQdllFM0M0c3VlMVpnZW1JeEtVNUptQklPWFVVdFIyZll2Y0t0Y2RQ?oc=5",
-      "source": "news.mynavi.jp",
+      "source": "マイナビニュース",
       "published": "2026-09-01T16:27:19+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "limited"
-    },
-    {
-      "title": "セブン-イレブンでPayPayポイントを利用して対象商品を買うと最大30％戻ってくるキャンペーン",
-      "raw_title": "セブン-イレブンでPayPayポイントを利用して対象商品を買うと最大30％戻ってくるキャンペーン - PayPay",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HdGNYWDVoZzBITDhUbTlOUllGTHMwLTBpSUE4TWlDY0ZrcWxuakk5Y3NGN3Q0b2Q1bWY5LUIzaXJuUzdTX29DYXlHSkE0S2pWeElwM3BxNEJhUldRblE?oc=5",
-      "source": "PayPay",
-      "published": "2026-09-01T16:00:00+09:00",
-      "query": "セブンイレブン キャンペーン ポイント",
-      "bucket": "point"
     },
     {
       "title": "ファミペイ翌月払い登録者限定！【もれなく半額還元】キャンペーン開催",
@@ -90,6 +63,15 @@
       "source": "funliday.com",
       "published": "2026-08-31T14:35:00+09:00",
       "query": "スーパー 特売 無料 プレゼント",
+      "bucket": "limited"
+    },
+    {
+      "title": "【楽天限定・特別価格】9月のイベント準備に！ Switch 2対応×0.00262s超低遅延！ドリフト防止TMRセンサー搭載「GuliKit TT MAXコントローラー」期間限定セール",
+      "raw_title": "【楽天限定・特別価格】9月のイベント準備に！ Switch 2対応×0.00262s超低遅延！ドリフト防止TMRセンサー搭載「GuliKit TT MAXコントローラー」期間限定セール - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02VG5RV3VKRWNtem10Y1hNNmd5THludW5TN01JSjBvaVpUeXk2NnBuM1ppV0dkRWl0aVFkdUlzcWcxc3RsNGRvRGZlVkw3aVN5anJrQ1B2cVY3a1V2LTJwLU1iVmRXaU5kalE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-31T13:00:01+09:00",
+      "query": "Amazon セール 期間限定",
       "bucket": "limited"
     }
   ]
