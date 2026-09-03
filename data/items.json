@@ -1,5 +1,78 @@
 {
-  "generated_at": "2026-09-03T23:13:55.073435+09:00",
-  "count": 0,
-  "items": []
+  "generated_at": "2026-09-04T08:52:13.203874+09:00",
+  "count": 8,
+  "items": [
+    {
+      "title": "楽天市場での端末購入と楽天モバイル申込で最大10,000ポイント還元 ― 新規やMNPが対象",
+      "raw_title": "楽天市場での端末購入と楽天モバイル申込で最大10,000ポイント還元 ― 新規やMNPが対象 - OREFOLDER",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJNU15M0VpT05xeXNOQTJaVkY2MHFmckd3Y1NuMTdJeEpRUWpYRC12VmpkbEtibVhOOWlSRkl1YnNRSWtVNF9FbWMxRG9VSUJjb0NDVHFnMjJmcnNzdmxJNlhuUkpRdkdnUDY1RG9zQQ?oc=5",
+      "source": "OREFOLDER",
+      "published": "2026-09-03T18:13:21+09:00",
+      "query": "楽天市場 ポイント還元 期間限定",
+      "bucket": "point"
+    },
+    {
+      "title": "6000円台で14日間使える！ 約16gの「HUAWEI Band 11」がセール中",
+      "raw_title": "6000円台で14日間使える！ 約16gの「HUAWEI Band 11」がセール中 - ASCII.jp",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJaTFuYzNPSjZnQXRqWnR5dHFZZzhMcDNkU2hhQ1dCS01GeUpkYmRPN09vdENoR0tqXzktbjQ1Q0RsRDJxMVQ3ZEp2WWRNTXgzbnliMA?oc=5",
+      "source": "ASCII.jp",
+      "published": "2026-09-03T17:00:00+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "free"
+    },
+    {
+      "title": "セブン-イレブンで対象商品を「PayPayポイント」で支払うと最大30%還元 - 9月20日までキャンペーン",
+      "raw_title": "セブン-イレブンで対象商品を「PayPayポイント」で支払うと最大30%還元 - 9月20日までキャンペーン - マイナビニュース",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WTXoyTnY1UW1FSmEzbzRJYXh3Rll3d2V5ZnRyVnRjWWtKUXBkVmNlbmZGU19DVkFSVzFzSE9lNHlEYjlZeXlTd1ZzenJFNWFIQlNMZHU2bVNTbHE1?oc=5",
+      "source": "マイナビニュース",
+      "published": "2026-09-03T15:22:54+09:00",
+      "query": "セブンイレブン キャンペーン ポイント",
+      "bucket": "point"
+    },
+    {
+      "title": "【アマゾン30％OFFタイムセール】11インチ Android 16 タブレット「P11」が19,900円。Gemini AI・90Hz、キーボード付きセットが7月22日までの期間限定セール",
+      "raw_title": "【アマゾン30％OFFタイムセール】11インチ Android 16 タブレット「P11」が19,900円。Gemini AI・90Hz、キーボード付きセットが7月22日までの期間限定セール - 朝日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iQ05xczRwZmlXR0UwUHdKTlg2eExoLTY5ekFveElnSS1pTXhFclBLWGZGMmJPS2J4QzJwRzRBUmhhS0hVSW9xTmhiY3Q3NVJ5c0phR1VsWkxOdlE?oc=5",
+      "source": "朝日新聞",
+      "published": "2026-09-02T22:30:59+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "free"
+    },
+    {
+      "title": "1個買うと1個もらえる！おトクなレシートクーポン 9月2日(水)から9月8日(火)まで",
+      "raw_title": "1個買うと1個もらえる！おトクなレシートクーポン 9月2日(水)から9月8日(火)まで - ローソンストア100",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDemwtQ0s3MjVGWnVVbE11c095aDd3QXVKNEcxcjFqODlpa3JjeHNGUXMtVHR3WkNMTllTWlBmcWlpTWZoWElRa3FOdS10Mkhib3hyZEtlVENFNjF6ci1rUlJaZXpSaE1YZEptYXhTV2k2RTgtdzNMc3JR?oc=5",
+      "source": "ローソンストア100",
+      "published": "2026-09-02T09:26:56+09:00",
+      "query": "ローソン 無料 クーポン",
+      "bucket": "limited"
+    },
+    {
+      "title": "マウスコンピューター、Amazonにてパソコン＆液晶の期間限定セール",
+      "raw_title": "マウスコンピューター、Amazonにてパソコン＆液晶の期間限定セール - マイナビニュース",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZT0NkRjdaMjVtN0FQOXh0Zng5NHItWFBoWDhpQUpEYnVlSl9UU19DYU1DdlVQdllFM0M0c3VlMVpnZW1JeEtVNUptQklPWFVVdFIyZll2Y0t0Y2RQ?oc=5",
+      "source": "マイナビニュース",
+      "published": "2026-09-01T16:27:19+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
+    },
+    {
+      "title": "セブン-イレブンでPayPayポイントを利用して対象商品を買うと最大30％戻ってくるキャンペーン",
+      "raw_title": "セブン-イレブンでPayPayポイントを利用して対象商品を買うと最大30％戻ってくるキャンペーン - PayPay",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HdGNYWDVoZzBITDhUbTlOUllGTHMwLTBpSUE4TWlDY0ZrcWxuakk5Y3NGN3Q0b2Q1bWY5LUIzaXJuUzdTX29DYXlHSkE0S2pWeElwM3BxNEJhUldRblE?oc=5",
+      "source": "PayPay",
+      "published": "2026-09-01T16:00:00+09:00",
+      "query": "セブンイレブン キャンペーン ポイント",
+      "bucket": "point"
+    },
+    {
+      "title": "ファミペイ翌月払い登録者限定！【もれなく半額還元】キャンペーン開催",
+      "raw_title": "ファミペイ翌月払い登録者限定！【もれなく半額還元】キャンペーン開催 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjRU8yNnhhdExkcG1BSWxvM1B3eDRKcllfRU1BSDJFbm1pZm1GWnRyVWxIN25BbXZnZlVjQ0J1aGFGZ2xrbjdlQmpPRTFqYkd0aEdLcTdsUUp5RWF1UDV4MFVteDVHcGVaT3c?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-09-01T10:30:01+09:00",
+      "query": "ファミリーマート 期間限定 キャンペーン",
+      "bucket": "point"
+    }
+  ]
 }
