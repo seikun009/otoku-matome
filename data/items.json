@@ -1,21 +1,39 @@
 {
-  "generated_at": "2026-09-07T08:37:56.665422+09:00",
-  "count": 7,
+  "generated_at": "2026-09-08T00:35:58.328808+09:00",
+  "count": 5,
   "items": [
     {
-      "title": "【30%OFF・23,999円】LZF ZPad1AがAmazonでセール！8.8インチ・T7300搭載タブレット",
-      "raw_title": "【30%OFF・23,999円】LZF ZPad1AがAmazonでセール！8.8インチ・T7300搭載タブレット - TikGadget",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kUWJEQ1d5OFpITDRRMUFPNTd0LXpSYTY0LUwtdmhPSWhmanJZT3ZUdVp6UVdwQlVwcG1pQ3RXUjNYN01ySENUQ3cxMHBCMGd0dWF2RFBOT0ZUZks1?oc=5",
-      "source": "TikGadget",
-      "published": "2026-09-06T10:33:02+09:00",
+      "title": "9月9日(水)スタート♪毎日1万名様に抽選で「マチカフェ コーヒーS(ホット・アイス)」無料券をプレゼント！｜ローソン公式サイト",
+      "raw_title": "9月9日(水)スタート♪毎日1万名様に抽選で「マチカフェ コーヒーS(ホット・アイス)」無料券をプレゼント！｜ローソン公式サイト - LAWSON",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyUUlFVzZXV1dKU1M5TFJsbGlJc0h4ck1SUV9jd3JnVXQ4QzhLUjUtQ1JCbGtpV21TdHFfUHJYSlYyS3pUakdjQVVXSFZBeDhwenBVbnpqSTBHSExjOFFRLWsxcmJTNmIzMjRv?oc=5",
+      "source": "LAWSON",
+      "published": "2026-09-07T22:59:14+09:00",
+      "query": "ローソン 無料 クーポン",
+      "bucket": "free"
+    },
+    {
+      "title": "【アマゾン27％OFFタイムセール】Android 16搭載「P10 Pro」10インチタブレットが限定価格に。Gemini AI・120Hz高リフレッシュレート、キーボードやマウスなど豪華セット",
+      "raw_title": "【アマゾン27％OFFタイムセール】Android 16搭載「P10 Pro」10インチタブレットが限定価格に。Gemini AI・120Hz高リフレッシュレート、キーボードやマウスなど豪華セット - 時事ドットコム",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44UUhVaF91bkljWC0wd04yMVhjQ1hFMzNnLXUxV1RQVGpVUVhYbXpWNUhtemJRSjV4WS1JTVkybnRUMjR4SWk2OXRCYl9LendVYmxDVHI3bVdYckU2dl9TLWdXZlhIVTVYYlVB?oc=5",
+      "source": "時事ドットコム",
+      "published": "2026-09-07T17:46:00+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "limited"
     },
     {
-      "title": "「Adobe Creative Cloud PRO」12か月版が25%ポイント還元、フォトプランも対象！楽天スーパーSALE - akiba",
-      "raw_title": "「Adobe Creative Cloud PRO」12か月版が25%ポイント還元、フォトプランも対象！楽天スーパーSALE - akiba-pc.watch.impress.co.jp",
+      "title": "楽天モバイル、Google Pixel 10 Pro FoldやOPPO Find X9購入で最大10,000ポイント還元キャンペーンを実施",
+      "raw_title": "楽天モバイル、Google Pixel 10 Pro FoldやOPPO Find X9購入で最大10,000ポイント還元キャンペーンを実施 - AppBank",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TRVJLNVpaUGc2TnRyX29qLTJQd3hSX3RQQ1VlNVM3S3dhZFJNZkZaOWtxTXNIN3VvdUFMaVNYMl9waUNHMzhGal9HZzRrcjFsZDI5UXY2QlFzdlNGQjI1RzlhMHhNX1V5RlE?oc=5",
+      "source": "AppBank",
+      "published": "2026-09-07T15:35:25+09:00",
+      "query": "楽天市場 ポイント還元 期間限定",
+      "bucket": "point"
+    },
+    {
+      "title": "「Adobe Creative Cloud PRO」12か月版が25%ポイント還元、フォトプランも対象！楽天スーパーSALE",
+      "raw_title": "「Adobe Creative Cloud PRO」12か月版が25%ポイント還元、フォトプランも対象！楽天スーパーSALE - AKIBA PC Hotline!",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeklCR2hwMWxaUU01UlhfTFZsNWZlQTNJZ0I2Y1ByNnh4cXZSNTZ0VVI5dGREWHVtZ2J3cFhpcV80MkZ6TEdsSjAwM1RNME1WUGtyLV9sdEZ6Vmw4RndwV0VOaEJ6Tmt4Nnp2WlRqelNqWlFZTkpxQjItOWh5MGNQbA?oc=5",
-      "source": "akiba-pc.watch.impress.co.jp",
+      "source": "AKIBA PC Hotline!",
       "published": "2026-09-05T10:30:00+09:00",
       "query": "楽天市場 ポイント還元 期間限定",
       "bucket": "point"
@@ -26,42 +44,6 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrcjJhd2ZZd1A3U2FTYV9HSlJCajQzM0FOaUVSemNpelBWZmpRWGRBTDhsWHJsVFFuZUs5bVBUdjR6eWpkbFpRc2NaZm9xV3pueVZzQkJYbGlyUEk?oc=5",
       "source": "朝日新聞",
       "published": "2026-09-05T07:53:41+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "Amazonセール2026【最新】次のセールはいつ？年間スケジュール・一番安い時期を解説",
-      "raw_title": "Amazonセール2026【最新】次のセールはいつ？年間スケジュール・一番安い時期を解説 - funq.jp",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyb2FzN3hhbmpROFFZVndxbEYxSU51dno4RG16MHBqQVFLMEJnV2ZxR1IxdnhPSnEzQTVnS2pPYXA0UkVVR015TVFFa3dYd3hBNC02TA?oc=5",
-      "source": "funq.jp",
-      "published": "2026-09-04T16:00:00+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "【保存版】2026年Amazonセール完全攻略ガイド｜次のセールはいつ？お得な買い方＆年間スケジュールまとめ",
-      "raw_title": "【保存版】2026年Amazonセール完全攻略ガイド｜次のセールはいつ？お得な買い方＆年間スケジュールまとめ - アプリブ",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94QzFkcXVCMDBNOWYwQjhEQU1BTm8tdWRvaXNhUFQ4TG9zamFDR1ZMVU02aGg1ZHg5OFNVbG9ZU2tGd3RudjZrZGJhRDM0cEU?oc=5",
-      "source": "アプリブ",
-      "published": "2026-09-04T16:00:00+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "Amazonで「Kindle本 高価格帯タイトルセール」実施中！ 最大50％OFF シリーズ完結編「数学ガール／リーマン予想」は1210円",
-      "raw_title": "Amazonで「Kindle本 高価格帯タイトルセール」実施中！ 最大50％OFF シリーズ完結編「数学ガール／リーマン予想」は1210円 - INTERNET Watch",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FZTBtc0hwZ08xdUhSUk9TSGZ5WEw4UzUtdzIzM2V4MUZXRUVNNkJCeFBMWEtZcC03OU5tenBFYldQTFQ4WWtTczNjVU1XZGp3UnotbTd2cUxFWTJENXpUa0lIQmw5M3RDRTV2YlBvQXU?oc=5",
-      "source": "INTERNET Watch",
-      "published": "2026-09-04T10:30:00+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "free"
-    },
-    {
-      "title": "エコバックス、楽天スーパーSALEで最大65％オフを実施DEEBOTシリーズを期間限定の特別価格で販売",
-      "raw_title": "エコバックス、楽天スーパーSALEで最大65％オフを実施DEEBOTシリーズを期間限定の特別価格で販売 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ieUY5ZTBPb0VoWnRYd211Wk5nWmd2ekQ2N3gyTW5EelVLZHNLODBxU0RtdTRmMW94cFFFZFJkRWVETjdfeFh6Wlp1eVFzQlFET1ROQVE5RWJnOUZ1Q3Vtalg3OGtQbnhNZmc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-09-04T10:00:02+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "limited"
     }
