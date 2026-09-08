@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-09-08T23:14:15.599446+09:00",
-  "count": 6,
+  "generated_at": "2026-09-09T08:56:32.333636+09:00",
+  "count": 7,
   "items": [
-    {
-      "title": "Headwolfタブレットが13,998円から！Titan 1など4機種がAmazonでセール【9/17まで】",
-      "raw_title": "Headwolfタブレットが13,998円から！Titan 1など4機種がAmazonでセール【9/17まで】 - tikgadget.jp",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tUURLZzhUTDhiR2Q0Vm9sNUdMU1pZT091Q1VwVXplTWJPalBRZ1QzMXUyTUZEcVNTd0ltS2YtVDBSYXFwckJhU01aa1gwM1U2SGVpaklBd09KVGJVbkJIWDVOUUlDZ1ZhWjlUUWpn?oc=5",
-      "source": "tikgadget.jp",
-      "published": "2026-09-08T21:06:07+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
     {
       "title": "9月9日(水)スタート♪毎日1万名様に抽選で「マチカフェ コーヒーS(ホット・アイス)」無料券をプレゼント！｜ローソン公式サイト",
       "raw_title": "9月9日(水)スタート♪毎日1万名様に抽選で「マチカフェ コーヒーS(ホット・アイス)」無料券をプレゼント！｜ローソン公式サイト - LAWSON",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyUUlFVzZXV1dKU1M5TFJsbGlJc0h4ck1SUV9jd3JnVXQ4QzhLUjUtQ1JCbGtpV21TdHFfUHJYSlYyS3pUakdjQVVXSFZBeDhwenBVbnpqSTBHSExjOFFRLWsxcmJTNmIzMjRv?oc=5",
       "source": "LAWSON",
-      "published": "2026-09-08T20:01:15+09:00",
+      "published": "2026-09-09T08:10:20+09:00",
       "query": "ローソン 無料 クーポン",
       "bucket": "free"
+    },
+    {
+      "title": "Headwolfタブレットが13,998円から！Titan 1など4機種がAmazonでセール【9/17まで】",
+      "raw_title": "Headwolfタブレットが13,998円から！Titan 1など4機種がAmazonでセール【9/17まで】 - TikGadget",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tUURLZzhUTDhiR2Q0Vm9sNUdMU1pZT091Q1VwVXplTWJPalBRZ1QzMXUyTUZEcVNTd0ltS2YtVDBSYXFwckJhU01aa1gwM1U2SGVpaklBd09KVGJVbkJIWDVOUUlDZ1ZhWjlUUWpn?oc=5",
+      "source": "TikGadget",
+      "published": "2026-09-08T21:06:07+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
     },
     {
       "title": "ベアリング採用トラックボールマウスなどエレコム製品がポイント最大15倍！楽天スーパーSALE",
@@ -48,10 +48,19 @@
       "bucket": "limited"
     },
     {
+      "title": "【2026年9月最新】三井住友カードのキャンペーンを紹介！新規入会でもらえる特典は？ - my",
+      "raw_title": "【2026年9月最新】三井住友カードのキャンペーンを紹介！新規入会でもらえる特典は？ - my-best.com",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Jc0lJWTM5M3M5Z2d2TWxEU0owVjY5aUstUW0tX05GdU1WdVZnSm40Qk5HWVMwSVN0UWdUdjJnNFFqQWZLbEJVVw?oc=5",
+      "source": "my-best.com",
+      "published": "2026-09-07T00:00:00+09:00",
+      "query": "コンビニ ポイント還元 キャンペーン",
+      "bucket": "limited"
+    },
+    {
       "title": "【30%OFF・23,999円】LZF ZPad1AがAmazonでセール！8.8インチ・T7300搭載タブレット",
-      "raw_title": "【30%OFF・23,999円】LZF ZPad1AがAmazonでセール！8.8インチ・T7300搭載タブレット - tikgadget.jp",
+      "raw_title": "【30%OFF・23,999円】LZF ZPad1AがAmazonでセール！8.8インチ・T7300搭載タブレット - TikGadget",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kUWJEQ1d5OFpITDRRMUFPNTd0LXpSYTY0LUwtdmhPSWhmanJZT3ZUdVp6UVdwQlVwcG1pQ3RXUjNYN01ySENUQ3cxMHBCMGd0dWF2RFBOT0ZUZks1?oc=5",
-      "source": "tikgadget.jp",
+      "source": "TikGadget",
       "published": "2026-09-06T10:33:02+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "limited"
