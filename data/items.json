@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-08T00:35:58.328808+09:00",
-  "count": 5,
+  "generated_at": "2026-09-08T09:04:49.125464+09:00",
+  "count": 4,
   "items": [
     {
       "title": "9月9日(水)スタート♪毎日1万名様に抽選で「マチカフェ コーヒーS(ホット・アイス)」無料券をプレゼント！｜ローソン公式サイト",
       "raw_title": "9月9日(水)スタート♪毎日1万名様に抽選で「マチカフェ コーヒーS(ホット・アイス)」無料券をプレゼント！｜ローソン公式サイト - LAWSON",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyUUlFVzZXV1dKU1M5TFJsbGlJc0h4ck1SUV9jd3JnVXQ4QzhLUjUtQ1JCbGtpV21TdHFfUHJYSlYyS3pUakdjQVVXSFZBeDhwenBVbnpqSTBHSExjOFFRLWsxcmJTNmIzMjRv?oc=5",
       "source": "LAWSON",
-      "published": "2026-09-07T22:59:14+09:00",
+      "published": "2026-09-08T07:59:43+09:00",
       "query": "ローソン 無料 クーポン",
       "bucket": "free"
     },
@@ -30,22 +30,13 @@
       "bucket": "point"
     },
     {
-      "title": "「Adobe Creative Cloud PRO」12か月版が25%ポイント還元、フォトプランも対象！楽天スーパーSALE",
-      "raw_title": "「Adobe Creative Cloud PRO」12か月版が25%ポイント還元、フォトプランも対象！楽天スーパーSALE - AKIBA PC Hotline!",
+      "title": "「Adobe Creative Cloud PRO」12か月版が25%ポイント還元、フォトプランも対象！楽天スーパーSALE - akiba",
+      "raw_title": "「Adobe Creative Cloud PRO」12か月版が25%ポイント還元、フォトプランも対象！楽天スーパーSALE - akiba-pc.watch.impress.co.jp",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeklCR2hwMWxaUU01UlhfTFZsNWZlQTNJZ0I2Y1ByNnh4cXZSNTZ0VVI5dGREWHVtZ2J3cFhpcV80MkZ6TEdsSjAwM1RNME1WUGtyLV9sdEZ6Vmw4RndwV0VOaEJ6Tmt4Nnp2WlRqelNqWlFZTkpxQjItOWh5MGNQbA?oc=5",
-      "source": "AKIBA PC Hotline!",
+      "source": "akiba-pc.watch.impress.co.jp",
       "published": "2026-09-05T10:30:00+09:00",
       "query": "楽天市場 ポイント還元 期間限定",
       "bucket": "point"
-    },
-    {
-      "title": "【Primeday期間限定ビッグセール】 Teclast新発売タブレット『M50T』を期間限定の低価格でお得に購入可能！ Amazon Primeday開催中(7/7から7/13まで)",
-      "raw_title": "【Primeday期間限定ビッグセール】 Teclast新発売タブレット『M50T』を期間限定の低価格でお得に購入可能！ Amazon Primeday開催中(7/7から7/13まで) - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrcjJhd2ZZd1A3U2FTYV9HSlJCajQzM0FOaUVSemNpelBWZmpRWGRBTDhsWHJsVFFuZUs5bVBUdjR6eWpkbFpRc2NaZm9xV3pueVZzQkJYbGlyUEk?oc=5",
-      "source": "朝日新聞",
-      "published": "2026-09-05T07:53:41+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
     }
   ]
 }
