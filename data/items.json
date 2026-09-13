@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-09-13T08:52:10.434175+09:00",
+  "generated_at": "2026-09-13T23:09:59.122832+09:00",
   "count": 8,
   "items": [
     {
+      "title": "「楽天カード＋楽天ペイ」を利用すると、20％還元になる“25歳以下限定”のお得なキャンペーンが開催中！最大1万円相当の楽天ポイントを獲得できるチャンス！",
+      "raw_title": "「楽天カード＋楽天ペイ」を利用すると、20％還元になる“25歳以下限定”のお得なキャンペーンが開催中！最大1万円相当の楽天ポイントを獲得できるチャンス！ - ダイヤモンド・オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05Rldoc3VpSVc3LV9Da19aWjJrNEhIMkJCUzNfQUNCX2d4dzVGa25FYWpMZzJqcnNqREVaRzdtdTBnTVZ6SmotT1VndThPUV8ybGx3?oc=5",
+      "source": "ダイヤモンド・オンライン",
+      "published": "2026-09-13T11:00:00+09:00",
+      "query": "楽天市場 ポイント還元 期間限定",
+      "bucket": "point"
+    },
+    {
       "title": "【Amazonタイムセール】6.56インチ90Hz大画面・Android16搭載・24GB RAM＋64GB ROM(2TB拡張)＆6150mAhの「Note56X」が16,900円 | 深圳市道格创想电子商务有限公司のプレスリリース",
-      "raw_title": "【Amazonタイムセール】6.56インチ90Hz大画面・Android16搭載・24GB RAM＋64GB ROM(2TB拡張)＆6150mAhの「Note56X」が16,900円 | 深圳市道格创想电子商务有限公司のプレスリリース - PR TIMES",
+      "raw_title": "【Amazonタイムセール】6.56インチ90Hz大画面・Android16搭載・24GB RAM＋64GB ROM(2TB拡張)＆6150mAhの「Note56X」が16,900円 | 深圳市道格创想电子商务有限公司のプレスリリース - prtimes.jp",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54TUw2VVVTZmhUTllwUU52bXI0MFh4N3RIcEdzM201NThDTWJPb3VCZk8wQ2w0N2poYnhxYnptUTNkRnVqd013eVg3QzJKUkFWZ1ZCOG43dzY3VHRKTXFMVnFDVnpkRWZWVmc?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "published": "2026-09-12T17:53:28+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "free"
@@ -22,18 +31,18 @@
     },
     {
       "title": "セブンイレブン「最大30％分ポイント付与」対象商品が9月11日から変更 何を買えば対象？",
-      "raw_title": "セブンイレブン「最大30％分ポイント付与」対象商品が9月11日から変更 何を買えば対象？ - dxmagazine.jp",
+      "raw_title": "セブンイレブン「最大30％分ポイント付与」対象商品が9月11日から変更 何を買えば対象？ - DXマガジン",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUdGJiWXNJQW1VNUpHcncxYmFoQUJyejJ2NDVZWjNYVDh1X0tkV1ZNTlRzdG5JMTdndGhGcDlON21WT3dkX2Fla0Q5WQ?oc=5",
-      "source": "dxmagazine.jp",
+      "source": "DXマガジン",
       "published": "2026-09-11T18:23:54+09:00",
       "query": "セブンイレブン キャンペーン ポイント",
       "bucket": "point"
     },
     {
       "title": "【Amazonタイムセール】Android16搭載・32GB RAM＋128GB ROM(2TB拡張)＆6150mAhバッテリーの「Note56Pro」が21,899円 | 深圳市道格创想电子商务有限公司のプレスリリース",
-      "raw_title": "【Amazonタイムセール】Android16搭載・32GB RAM＋128GB ROM(2TB拡張)＆6150mAhバッテリーの「Note56Pro」が21,899円 | 深圳市道格创想电子商务有限公司のプレスリリース - PR TIMES",
+      "raw_title": "【Amazonタイムセール】Android16搭載・32GB RAM＋128GB ROM(2TB拡張)＆6150mAhバッテリーの「Note56Pro」が21,899円 | 深圳市道格创想电子商务有限公司のプレスリリース - prtimes.jp",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHeDVSMklCV1V4UVgwT3cxLXpXRFdfS2RpUEhjUGxRQjA2NndZT1pOOTVPN05nZEs4UGNkVW9NX20tZEE1aTZxazFPZWU4QUc2UTJ4QVZCNWNnaVlKNzlITjRHcGo5Umppdnc?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "published": "2026-09-11T16:23:07+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "limited"
@@ -64,15 +73,6 @@
       "published": "2026-09-11T00:00:00+09:00",
       "query": "楽天市場 ポイント還元 期間限定",
       "bucket": "point"
-    },
-    {
-      "title": "【ローソンストア100】伊藤園「玄米茶」買うと「黒豆茶」無料券がもらえる！お得なクーポンは9月15日まで。",
-      "raw_title": "【ローソンストア100】伊藤園「玄米茶」買うと「黒豆茶」無料券がもらえる！お得なクーポンは9月15日まで。 - 東京バーゲンマニア",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LNGVrNEJ4dEd0Wkc3QUo2d2o4Uml5bW1sTDl5WVNYM0o0LVR1OTNGVU9GRFpaaU50MTRIY1AyenZJQnpuc200SVBnX09TSVdXbmhn?oc=5",
-      "source": "東京バーゲンマニア",
-      "published": "2026-09-10T16:38:00+09:00",
-      "query": "ローソン 無料 クーポン",
-      "bucket": "free"
     }
   ]
 }
