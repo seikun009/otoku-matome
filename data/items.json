@@ -1,33 +1,42 @@
 {
-  "generated_at": "2026-09-15T01:13:29.337427+09:00",
-  "count": 4,
+  "generated_at": "2026-09-15T09:24:16.225507+09:00",
+  "count": 5,
   "items": [
     {
       "title": "9/15(火)より、ハピとく祭開催！｜ローソン公式サイト",
       "raw_title": "9/15(火)より、ハピとく祭開催！｜ローソン公式サイト - LAWSON",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GOS0yS2V0NVRIdjBLM09GSXRMWlZ0cVE0TUh4UVNLRE5xRTdvRVMtX3I1R1ctTWp1VTVob2RvSFZHQzU5cXV0SFlkYjJWVVlDNDhjMkIxeXVHSEpYZmI1UWxSN2tsTlpyMkNJ?oc=5",
       "source": "LAWSON",
-      "published": "2026-09-15T00:21:57+09:00",
+      "published": "2026-09-15T06:23:43+09:00",
       "query": "ローソン 無料 クーポン",
       "bucket": "limited"
     },
     {
+      "title": "【今日から】ファミマ おむすび＋ドリンク、セット“250円” パンも 全22商品が対象",
+      "raw_title": "【今日から】ファミマ おむすび＋ドリンク、セット“250円” パンも 全22商品が対象 - オトナンサー",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBkUGNFRGlBazdndGxYUGZlX1VfNDFfZlhJbWxDZEFKX2hra1RNX0xlcEFpcjAxbmIzNkJoWmJ3cktVTU10aHpsc0xn?oc=5",
+      "source": "オトナンサー",
+      "published": "2026-09-15T05:03:45+09:00",
+      "query": "ファミリーマート 期間限定 キャンペーン",
+      "bucket": "free"
+    },
+    {
       "title": "「楽天カード＋楽天ペイ」を利用すると、20％還元になる“25歳以下限定”のお得なキャンペーンが開催中！最大1万円相当の楽天ポイントを獲得できるチャンス！",
-      "raw_title": "「楽天カード＋楽天ペイ」を利用すると、20％還元になる“25歳以下限定”のお得なキャンペーンが開催中！最大1万円相当の楽天ポイントを獲得できるチャンス！ - diamond.jp",
+      "raw_title": "「楽天カード＋楽天ペイ」を利用すると、20％還元になる“25歳以下限定”のお得なキャンペーンが開催中！最大1万円相当の楽天ポイントを獲得できるチャンス！ - ダイヤモンド・オンライン",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05Rldoc3VpSVc3LV9Da19aWjJrNEhIMkJCUzNfQUNCX2d4dzVGa25FYWpMZzJqcnNqREVaRzdtdTBnTVZ6SmotT1VndThPUV8ybGx3?oc=5",
-      "source": "diamond.jp",
+      "source": "ダイヤモンド・オンライン",
       "published": "2026-09-14T23:09:17+09:00",
       "query": "楽天市場 ポイント還元 期間限定",
       "bucket": "point"
     },
     {
-      "title": "【Amazonタイムセール】Android 16・90Hz・6150mAh・最大24GB",
-      "raw_title": "【Amazonタイムセール】Android 16・90Hz・6150mAh・最大24GB - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qcEFNQmlQMk42RmhwdlRIcXlPaGUtT09xd1NnRlMxSmk1eDBvWUo1QW9rbjdkZUdQN09Sb2lsTW5jb1NITExnRkFXQk5qRk8tNDNYTw?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-09-14T17:15:36+09:00",
+      "title": "【Amazonタイムセール】Android 16・90Hz・6150mAh・最大24GB RAM搭載の「Note56X」が16,900円。期間限定でケース＆保護フィルム付き",
+      "raw_title": "【Amazonタイムセール】Android 16・90Hz・6150mAh・最大24GB RAM搭載の「Note56X」が16,900円。期間限定でケース＆保護フィルム付き - AERA DIGITAL",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Jc2FuUFZsMnlRSDR6MkNjY3VWN2llX1J0cEdrcDZfSlpaNlRkTi1Fd09KeGcyUEpUeDJhTlVPZmdUUTcySS1fUlZkNUNMd3l1?oc=5",
+      "source": "AERA DIGITAL",
+      "published": "2026-09-14T19:16:44+09:00",
       "query": "Amazon セール 期間限定",
-      "bucket": "limited"
+      "bucket": "free"
     },
     {
       "title": "【Amazonタイムセール】6.56インチ90Hz大画面・Android16搭載・24GB RAM＋64GB ROM(2TB拡張)＆6150mAhの「Note56X」が16,900円 | 深圳市道格创想电子商务有限公司のプレスリリース",
