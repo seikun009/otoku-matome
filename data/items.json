@@ -1,21 +1,30 @@
 {
-  "generated_at": "2026-09-16T09:03:40.606578+09:00",
+  "generated_at": "2026-09-16T23:41:44.478029+09:00",
   "count": 5,
   "items": [
+    {
+      "title": "１．サンガリア「まろやかバナナ＆ミルク 420ml」が１本もらえる",
+      "raw_title": "１．サンガリア「まろやかバナナ＆ミルク 420ml」が１本もらえる - ローソンストア100",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FcE9tMVoxclk1SlRKYVlDems0T1ljb05MbzRMWjNnOWxYRjMxZ1h4SHdySjBvRHMyNEo5RUQ4d3pqVkFoNDNxV1FacnJNX1UwdFRXZUhQRng0WXl5Qy16QjhkZFZtWjRmeElzT1lRREVuRFh5V0hDb2p3?oc=5",
+      "source": "ローソンストア100",
+      "published": "2026-09-16T11:22:07+09:00",
+      "query": "ローソン 無料 クーポン",
+      "bucket": "limited"
+    },
     {
       "title": "9/15(火)より、ハピとく祭開催！｜ローソン公式サイト",
       "raw_title": "9/15(火)より、ハピとく祭開催！｜ローソン公式サイト - LAWSON",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GOS0yS2V0NVRIdjBLM09GSXRMWlZ0cVE0TUh4UVNLRE5xRTdvRVMtX3I1R1ctTWp1VTVob2RvSFZHQzU5cXV0SFlkYjJWVVlDNDhjMkIxeXVHSEpYZmI1UWxSN2tsTlpyMkNJ?oc=5",
       "source": "LAWSON",
-      "published": "2026-09-16T06:29:11+09:00",
-      "query": "ローソン 無料 クーポン",
+      "published": "2026-09-15T16:00:00+09:00",
+      "query": "コンビニ 無料引換",
       "bucket": "limited"
     },
     {
       "title": "【今日から】ファミマ おむすび＋ドリンク、セット“250円” パンも 全22商品が対象",
-      "raw_title": "【今日から】ファミマ おむすび＋ドリンク、セット“250円” パンも 全22商品が対象 - オトナンサー",
+      "raw_title": "【今日から】ファミマ おむすび＋ドリンク、セット“250円” パンも 全22商品が対象 - otonanswer.jp",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBkUGNFRGlBazdndGxYUGZlX1VfNDFfZlhJbWxDZEFKX2hra1RNX0xlcEFpcjAxbmIzNkJoWmJ3cktVTU10aHpsc0xn?oc=5",
-      "source": "オトナンサー",
+      "source": "otonanswer.jp",
       "published": "2026-09-15T05:11:04+09:00",
       "query": "ファミリーマート 期間限定 キャンペーン",
       "bucket": "free"
@@ -37,15 +46,6 @@
       "published": "2026-09-14T14:29:37+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "free"
-    },
-    {
-      "title": "「楽天カード＋楽天ペイ」を利用すると、20％還元になる“25歳以下限定”のお得なキャンペーンが開催中！最大1万円相当の楽天ポイントを獲得できるチャンス！",
-      "raw_title": "「楽天カード＋楽天ペイ」を利用すると、20％還元になる“25歳以下限定”のお得なキャンペーンが開催中！最大1万円相当の楽天ポイントを獲得できるチャンス！ - ダイヤモンド・オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05Rldoc3VpSVc3LV9Da19aWjJrNEhIMkJCUzNfQUNCX2d4dzVGa25FYWpMZzJqcnNqREVaRzdtdTBnTVZ6SmotT1VndThPUV8ybGx3?oc=5",
-      "source": "ダイヤモンド・オンライン",
-      "published": "2026-09-13T11:00:00+09:00",
-      "query": "楽天市場 ポイント還元 期間限定",
-      "bucket": "point"
     }
   ]
 }
