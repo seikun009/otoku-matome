@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-09-16T23:41:44.478029+09:00",
-  "count": 5,
+  "generated_at": "2026-09-17T09:13:17.369714+09:00",
+  "count": 7,
   "items": [
+    {
+      "title": "【Amazonタイムセール最終日】 「NOTE59 Pro」が29,898円 5G Android16＆Gemini",
+      "raw_title": "【Amazonタイムセール最終日】 「NOTE59 Pro」が29,898円 5G Android16＆Gemini - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Vampjb0F6MW03RzBaRURGekFIanVWMi04LXdrZmhaWjZBN1Z6ellXYVdtUUY4MlB4dldBbmFPYnlielVaYjFaUFlfeDNGbXdDUkY5T29od1pMOHR6S25DVWJ5SDdSUW9KTWg1MjJLSWRHY3NCUnM2WWM5WQ?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-09-17T06:00:30+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
+    },
     {
       "title": "１．サンガリア「まろやかバナナ＆ミルク 420ml」が１本もらえる",
       "raw_title": "１．サンガリア「まろやかバナナ＆ミルク 420ml」が１本もらえる - ローソンストア100",
@@ -21,22 +30,31 @@
       "bucket": "limited"
     },
     {
+      "title": "Kindle本が最大12％還元！Amazonで「Kindle本 まとめ買いキャンペーン」",
+      "raw_title": "Kindle本が最大12％還元！Amazonで「Kindle本 まとめ買いキャンペーン」 - 窓の杜",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yY0ZSZ3p1dGxEWFpIQVFYbFl5SU5rM2JDYm1NcTVLd19POEU1ZTFELTZQMHlzdktvcE9qNzJXTEdPQmRIUDg2MEtWLXBjemxYdDM1VFhoQ3Q0MXg2N3pEbkVQZlBWTWpNS2RhTW1QUFN0aGhBeVE?oc=5",
+      "source": "窓の杜",
+      "published": "2026-09-15T10:15:57+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "point"
+    },
+    {
       "title": "【今日から】ファミマ おむすび＋ドリンク、セット“250円” パンも 全22商品が対象",
-      "raw_title": "【今日から】ファミマ おむすび＋ドリンク、セット“250円” パンも 全22商品が対象 - otonanswer.jp",
+      "raw_title": "【今日から】ファミマ おむすび＋ドリンク、セット“250円” パンも 全22商品が対象 - オトナンサー",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBkUGNFRGlBazdndGxYUGZlX1VfNDFfZlhJbWxDZEFKX2hra1RNX0xlcEFpcjAxbmIzNkJoWmJ3cktVTU10aHpsc0xn?oc=5",
-      "source": "otonanswer.jp",
+      "source": "オトナンサー",
       "published": "2026-09-15T05:11:04+09:00",
       "query": "ファミリーマート 期間限定 キャンペーン",
       "bucket": "free"
     },
     {
-      "title": "【Amazonタイムセール】Android 16・90Hz・6150mAh・最大24GB",
-      "raw_title": "【Amazonタイムセール】Android 16・90Hz・6150mAh・最大24GB - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qcEFNQmlQMk42RmhwdlRIcXlPaGUtT09xd1NnRlMxSmk1eDBvWUo1QW9rbjdkZUdQN09Sb2lsTW5jb1NITExnRkFXQk5qRk8tNDNYTw?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-09-14T17:15:36+09:00",
+      "title": "【Amazonタイムセール】Android 16・90Hz・6150mAh・最大24GB RAM搭載の「Note56X」が16,900円。期間限定でケース＆保護フィルム付き",
+      "raw_title": "【Amazonタイムセール】Android 16・90Hz・6150mAh・最大24GB RAM搭載の「Note56X」が16,900円。期間限定でケース＆保護フィルム付き - Mantan Web",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yM3BJWFhDT3AyNlEwUmg1Si1sVC1PaVNwVm1lcl9BQWFOQTQwOXY4bnJ3NFIxcjNmaGtTQWdLVDVzcXVNRl9uOFhVUlp0MC11Z2hreWI0RTRTNHg2bXJQamplRjFNU1I5ZFh4TnRMWnNuanlMY1E?oc=5",
+      "source": "Mantan Web",
+      "published": "2026-09-15T03:36:39+09:00",
       "query": "Amazon セール 期間限定",
-      "bucket": "limited"
+      "bucket": "free"
     },
     {
       "title": "東京ゲームショウ2026記念セール開始！ PS VR2が期間限定で税込47,980円で販売",
