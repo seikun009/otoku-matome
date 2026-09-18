@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-09-18T09:00:15.033537+09:00",
+  "generated_at": "2026-09-18T23:12:24.218891+09:00",
   "count": 6,
   "items": [
+    {
+      "title": "【Amazon限定期間価格】Android16&Gemini AI搭載！DOOGEE Note56X Pro、限定値下げキャンペーン実施中【残り3日】",
+      "raw_title": "【Amazon限定期間価格】Android16&Gemini AI搭載！DOOGEE Note56X Pro、限定値下げキャンペーン実施中【残り3日】 - news.nicovideo.jp",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwQjBpMjJMS2NjMFNGMVdHa0tFblJ6S0lXam9zRE9saVJyYk5reG1VWWFpN0w2N3F0ZUtOSTNLa0xYQXNrOVRZMGFXYTJoOHNkQW8yTnJpcWx5MlFibW8yNlJmTXVwcXVs?oc=5",
+      "source": "news.nicovideo.jp",
+      "published": "2026-09-18T21:15:29+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
+    },
+    {
+      "title": "セブンイレブン、「セブンカフェスムージー1杯買うと、購入商品と同じスムージー“無料”クーポン プレゼント」キャンペーンを2026年9月21日から開催、三重県限定",
+      "raw_title": "セブンイレブン、「セブンカフェスムージー1杯買うと、購入商品と同じスムージー“無料”クーポン プレゼント」キャンペーンを2026年9月21日から開催、三重県限定 - コンビニ チェッカー",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aWEEtTnBZaWRONVQ2RTByTWNkc2RnNWhPTDFKZ0dURFZ6OU0wQ2RCaGxVZmNnT1YtRHJrbnFEUnVlaXJXQWtaSXhSRTMxQ3oxUmRtQUJtdV9BS25uSUNhMjdB?oc=5",
+      "source": "コンビニ チェッカー",
+      "published": "2026-09-18T19:40:06+09:00",
+      "query": "スーパー 特売 無料 プレゼント",
+      "bucket": "free"
+    },
+    {
+      "title": "【ファミマ】“おいもキャンペーン”今年も 芋＆キャラメルの新作4種、「ザクほろシュー」新商品が登場",
+      "raw_title": "【ファミマ】“おいもキャンペーン”今年も 芋＆キャラメルの新作4種、「ザクほろシュー」新商品が登場 - オトナンサー",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9nM0xQVjJ3Q0NEVHNSWS1CRWEyZ0RZZm1tbElzcGtXZ0llX05SM1c0YUs3N1lOTlhHMV9GTV9UemhORTlDVmxwNHVn?oc=5",
+      "source": "オトナンサー",
+      "published": "2026-09-18T11:33:47+09:00",
+      "query": "ファミリーマート 期間限定 キャンペーン",
+      "bucket": "limited"
+    },
     {
       "title": "【Amazonタイムセール最終日】 「NOTE59 Pro」が29,898円 5G Android16＆Gemini AI搭載・最大32GB RAM＋256GB ROM（2TB拡張）＆6250mAh",
       "raw_title": "【Amazonタイムセール最終日】 「NOTE59 Pro」が29,898円 5G Android16＆Gemini AI搭載・最大32GB RAM＋256GB ROM（2TB拡張）＆6250mAh - PR TIMES",
@@ -12,10 +39,10 @@
       "bucket": "limited"
     },
     {
-      "title": "【保存版】2026年Amazonセール完全攻略ガイド｜次のセールはいつ？お得な買い方＆年間スケジュールまとめ",
-      "raw_title": "【保存版】2026年Amazonセール完全攻略ガイド｜次のセールはいつ？お得な買い方＆年間スケジュールまとめ - アプリブ",
+      "title": "【保存版】2026年Amazonセール完全攻略ガイド｜次のセールはいつ？お得な買い方＆年間スケジュールまとめ - mag.app",
+      "raw_title": "【保存版】2026年Amazonセール完全攻略ガイド｜次のセールはいつ？お得な買い方＆年間スケジュールまとめ - mag.app-liv.jp",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94QzFkcXVCMDBNOWYwQjhEQU1BTm8tdWRvaXNhUFQ4TG9zamFDR1ZMVU02aGg1ZHg5OFNVbG9ZU2tGd3RudjZrZGJhRDM0cEU?oc=5",
-      "source": "アプリブ",
+      "source": "mag.app-liv.jp",
       "published": "2026-09-16T16:00:00+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "limited"
@@ -28,33 +55,6 @@
       "published": "2026-09-16T11:22:07+09:00",
       "query": "ローソン 無料 クーポン",
       "bucket": "limited"
-    },
-    {
-      "title": "9/15(火)より、ハピとく祭開催！｜ローソン公式サイト",
-      "raw_title": "9/15(火)より、ハピとく祭開催！｜ローソン公式サイト - LAWSON",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GOS0yS2V0NVRIdjBLM09GSXRMWlZ0cVE0TUh4UVNLRE5xRTdvRVMtX3I1R1ctTWp1VTVob2RvSFZHQzU5cXV0SFlkYjJWVVlDNDhjMkIxeXVHSEpYZmI1UWxSN2tsTlpyMkNJ?oc=5",
-      "source": "LAWSON",
-      "published": "2026-09-15T16:00:00+09:00",
-      "query": "コンビニ 無料引換",
-      "bucket": "limited"
-    },
-    {
-      "title": "【Amazonタイムセール】32GB RAM＋128GB ROM(2TB拡張) スマホ 6.56インチ90Hz大画面・Android16搭載・6150mAhの「Note56XPRO」が19,899円",
-      "raw_title": "【Amazonタイムセール】32GB RAM＋128GB ROM(2TB拡張) スマホ 6.56インチ90Hz大画面・Android16搭載・6150mAhの「Note56XPRO」が19,899円 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wLThpYVIxSFRScDV3RGNqc3lYNEstQ014Tl9LM1N4d0pmczBSc1pPaDJPam9UZDhpNWNYQ2pkVE04UkhfaUYxa1RBVHpXczRORkRMRENZZkpXU3Q2N1I4MHpoY0xDb0lLRnc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-09-15T11:35:58+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "Kindle本が最大12％還元！Amazonで「Kindle本 まとめ買いキャンペーン」",
-      "raw_title": "Kindle本が最大12％還元！Amazonで「Kindle本 まとめ買いキャンペーン」 - 窓の杜",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yY0ZSZ3p1dGxEWFpIQVFYbFl5SU5rM2JDYm1NcTVLd19POEU1ZTFELTZQMHlzdktvcE9qNzJXTEdPQmRIUDg2MEtWLXBjemxYdDM1VFhoQ3Q0MXg2N3pEbkVQZlBWTWpNS2RhTW1QUFN0aGhBeVE?oc=5",
-      "source": "窓の杜",
-      "published": "2026-09-15T10:15:57+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "point"
     }
   ]
 }
