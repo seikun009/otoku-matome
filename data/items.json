@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T23:00:32.690606+09:00",
-  "count": 4,
+  "generated_at": "2026-09-21T08:58:58.377787+09:00",
+  "count": 5,
   "items": [
     {
       "title": "セブンイレブン、「セブンカフェスムージー1杯買うと、購入商品と同じスムージー“無料”クーポン プレゼント」キャンペーンを2026年9月21日から開催、三重県限定",
@@ -12,10 +12,19 @@
       "bucket": "free"
     },
     {
+      "title": "Headwolfタブレットが13,998円から！Titan 1など4機種がAmazonでセール【9/17まで】",
+      "raw_title": "Headwolfタブレットが13,998円から！Titan 1など4機種がAmazonでセール【9/17まで】 - TikGadget",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tUURLZzhUTDhiR2Q0Vm9sNUdMU1pZT091Q1VwVXplTWJPalBRZ1QzMXUyTUZEcVNTd0ltS2YtVDBSYXFwckJhU01aa1gwM1U2SGVpaklBd09KVGJVbkJIWDVOUUlDZ1ZhWjlUUWpn?oc=5",
+      "source": "TikGadget",
+      "published": "2026-09-18T17:27:42+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
+    },
+    {
       "title": "楽天モバイルのクーポンコード解説【2026年9月最新】期間限定コードや適用条件まとめ",
-      "raw_title": "楽天モバイルのクーポンコード解説【2026年9月最新】期間限定コードや適用条件まとめ - BCN Retail",
+      "raw_title": "楽天モバイルのクーポンコード解説【2026年9月最新】期間限定コードや適用条件まとめ - bcnretail.com",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nd0FMR2Nsa2FHMVFDMW8yMV9fd1RTOG90SEVWYnlsUjA2V0lacXMxMXRycU9xQzJHWlZkY2FUc2s1WlBOVWExMU1jMmlmbzJNTElySFJ6aGlzaEQwbnc?oc=5",
-      "source": "BCN Retail",
+      "source": "bcnretail.com",
       "published": "2026-09-18T16:49:00+09:00",
       "query": "楽天市場 ポイント還元 期間限定",
       "bucket": "limited"
