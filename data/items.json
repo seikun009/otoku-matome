@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-09-24T23:41:50.803775+09:00",
-  "count": 9,
+  "generated_at": "2026-09-25T09:21:34.227816+09:00",
+  "count": 11,
   "items": [
+    {
+      "title": "【ローソンストア100】今ならUCCのカフェラテ無料券がもらえる。発券は9月29日まで。",
+      "raw_title": "【ローソンストア100】今ならUCCのカフェラテ無料券がもらえる。発券は9月29日まで。 - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TSUtlcDI4WnNxT2h1c3dHR3lKeFJRd0U2eXppcnlWNTRYV3VLU1JlQkhCLXNSeUxHMFc5NHpTa19mVnNweE9TTXZBdmRrU3BJdHp3YlJZXzAwTV8xcXpEdFFtV2RFN1ZZZXgxWS0wOTU?oc=5",
+      "source": "Infoseek",
+      "published": "2026-09-25T07:21:00+09:00",
+      "query": "ローソン 無料 クーポン",
+      "bucket": "free"
+    },
+    {
+      "title": "【10/13先行スタート】Amazonプライム感謝祭2026の日程決定！年間スケジュール・一番安い時期を解説",
+      "raw_title": "【10/13先行スタート】Amazonプライム感謝祭2026の日程決定！年間スケジュール・一番安い時期を解説 - funq.jp",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyb2FzN3hhbmpROFFZVndxbEYxSU51dno4RG16MHBqQVFLMEJnV2ZxR1IxdnhPSnEzQTVnS2pPYXA0UkVVR015TVFFa3dYd3hBNC02TA?oc=5",
+      "source": "funq.jp",
+      "published": "2026-09-25T07:06:54+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
+    },
     {
       "title": "Amazonのサブスクが期間限定で無料または激安【対象者限定】",
       "raw_title": "Amazonのサブスクが期間限定で無料または激安【対象者限定】 - こまめブログ",
@@ -30,13 +48,22 @@
       "bucket": "point"
     },
     {
-      "title": "Amazon、プライム会員限定の特別なセールイベント「プライム感謝祭」を今年も4日間開催！10月16日（金）0時から10月19日（月）23時59分まで",
-      "raw_title": "Amazon、プライム会員限定の特別なセールイベント「プライム感謝祭」を今年も4日間開催！10月16日（金）0時から10月19日（月）23時59分まで - PR TIMES",
+      "title": "Amazon、プライム会員限定の特別なセールイベント「プライム感謝祭」を今年も4日間開催！10月16日（金）0時から10月19日（月）23時59分まで | アマゾンジャパン合同会社のプレスリリース",
+      "raw_title": "Amazon、プライム会員限定の特別なセールイベント「プライム感謝祭」を今年も4日間開催！10月16日（金）0時から10月19日（月）23時59分まで | アマゾンジャパン合同会社のプレスリリース - PR TIMES",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIVUpnZmh5NC1lNTFZblZnazExWFpjVWFlRUk1eUpoOGpia2E0eURCZ3lDSWVMdFpMbDhDd2RnZXM0X2xWMWlCak1mQVpkMmhOdllya3BLRS1aVHBOR2dCV1hTaFVnS3o0VHc?oc=5",
       "source": "PR TIMES",
       "published": "2026-09-24T14:00:01+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "limited"
+    },
+    {
+      "title": "毎月25日～翌月3日にPOSAカードをファミペイ払いで購入すると、1.5％還元されるお得なキャンペーン開催中！！",
+      "raw_title": "毎月25日～翌月3日にPOSAカードをファミペイ払いで購入すると、1.5％還元されるお得なキャンペーン開催中！！ - family.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QajQxTklDRTZPRTZDVWFfcGwwR2plZDhzRkxfUlR2WHlWMXA2dDBsOG44R2Y1MTJPcEw1MmxlaUN3UDFha0RuSjZsUmZlZTRqS3VqU0h4QmllVjY5MV83a29rT2F4b3c?oc=5",
+      "source": "family.co.jp",
+      "published": "2026-09-24T13:04:15+09:00",
+      "query": "ファミリーマート 期間限定 キャンペーン",
+      "bucket": "point"
     },
     {
       "title": "ORICOのSSDケース＆HDDスタンドがセール！NVMeケースが1,693円、最大40TB対応モデルも割引",
@@ -66,22 +93,13 @@
       "bucket": "limited"
     },
     {
-      "title": "【9月30日まで25％OFF】ゴルフスイング練習器具「Tamterd」がAmazonタイムセールで5,999円に",
-      "raw_title": "【9月30日まで25％OFF】ゴルフスイング練習器具「Tamterd」がAmazonタイムセールで5,999円に - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96OW1uN2R2d2pCUV81N2ZZaDR6RGRNcmEyOWNaSWhNS2p2THJoeHdXRi1pYzhDbUthR1hIdW9zVXVFUVR5YnVnRWtXb2VWUXg0eTAtRC1JM1JRS1l5QTZfdXBhT3NGWkRSSkE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-09-22T19:21:25+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "【Amazonタイムセール】Anker 622 Magnetic Battery (MagGo) ブラックが期間限定価格に",
-      "raw_title": "【Amazonタイムセール】Anker 622 Magnetic Battery (MagGo) ブラックが期間限定価格に - AppBank",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KdnpCc2pOY255UllvdGMxMk9sbjBZWHF2U3dfRlBBVGNxbS10WlQ4XzlGVlVtc2IwS3JzNjQ5T2pGN2J3Z3d4WUdoSFhteWtEN0ZnVDJZV2JEYjQ3QVYzRnRxSmVfTnBqMEE?oc=5",
-      "source": "AppBank",
-      "published": "2026-09-22T09:02:28+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
+      "title": "ローソンアプリに新規でポイントカードを連携すると、無料券がもらえる！｜ローソン公式サイト",
+      "raw_title": "ローソンアプリに新規でポイントカードを連携すると、無料券がもらえる！｜ローソン公式サイト - LAWSON",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UUUl5aFUta1RiQWdmcnZnay01dkpDaC1BN2NoQjhkMlVZM0I1Q3lWSE9TMS1PSGdCMkQxNW5aWS1seEJJM3AtMWdxZU9JOW5Md3VycGI4UlhYdG5xTklJb0hEZW0?oc=5",
+      "source": "LAWSON",
+      "published": "2026-09-22T16:00:00+09:00",
+      "query": "ローソン 無料 クーポン",
+      "bucket": "free"
     }
   ]
 }
