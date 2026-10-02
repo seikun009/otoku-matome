@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-10-02T01:55:43.177578+09:00",
+  "generated_at": "2026-10-02T10:26:23.053083+09:00",
   "count": 13,
   "items": [
+    {
+      "title": "ファミペイ翌月払い新規登録者限定！ファミマでのご利用金額に応じて最大2,000円相当進呈キャンペーン開催",
+      "raw_title": "ファミペイ翌月払い新規登録者限定！ファミマでのご利用金額に応じて最大2,000円相当進呈キャンペーン開催 - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RMGkyZmljNjA0SFc4Z1RPZnFTWDdHcUluaHVNZDdsMG1iWWdZSF9jY3ZKb1FDNG1oR0M4NXd3MEdLUUlRb3ktMDZscVFOS0M1Z1NtT0N0X25GLWtPenRQSW5LaUNYVUhYWmllN0JNZFlzZw?oc=5",
+      "source": "Infoseek",
+      "published": "2026-10-02T04:10:00+09:00",
+      "query": "ファミリーマート 期間限定 キャンペーン",
+      "bucket": "free"
+    },
     {
       "title": "「ハーマンミラー」のオフィスチェアが最大で「約5万円」オフとなる期間限定セールがAmazonにて開催中。「アーロンチェア」と「セイルチェア」から4種が20%オフの価格で購入可能に",
       "raw_title": "「ハーマンミラー」のオフィスチェアが最大で「約5万円」オフとなる期間限定セールがAmazonにて開催中。「アーロンチェア」と「セイルチェア」から4種が20%オフの価格で購入可能に - 電ファミニコゲーマー",
@@ -12,15 +21,6 @@
       "bucket": "limited"
     },
     {
-      "title": "ファミペイ翌月払い新規登録者限定！ファミマでのご利用金額に応じて最大2,000円相当進呈キャンペーン開催",
-      "raw_title": "ファミペイ翌月払い新規登録者限定！ファミマでのご利用金額に応じて最大2,000円相当進呈キャンペーン開催 - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wbHk1VmliNzdpZExqSWRTYzVqZG5EazBCSVJ5OFFTN1FLd2huU1Z5NDdjUEpiVVMtaEpDbXdSVVl1anE0M3ZQcVgta1JmNnd4Ykw5MjhHVDZ6WFBXLUtJUjZ2REp2SXhr?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-10-01T19:30:22+09:00",
-      "query": "ファミリーマート 期間限定 キャンペーン",
-      "bucket": "free"
-    },
-    {
       "title": "ファミリーマートの新キャンペーン！ファミペイ翌月払い登録で最大2,000円相当進呈",
       "raw_title": "ファミリーマートの新キャンペーン！ファミペイ翌月払い登録で最大2,000円相当進呈 - ニュースメディアVOIX",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82N0NpMnZjVXA4X0Q0UV9NYlBGazB4ZFJKX25ETFV1MzBJRUVZdl9WTC1oSW00cm9JbFZjOVFHMzZLbzlFTkhfUFEzaXI0QTVFSmR2UkRpYUxuNVVyblU2SEdELW91c3JMNk5sMnJBbGc?oc=5",
@@ -28,6 +28,15 @@
       "published": "2026-10-01T14:14:18+09:00",
       "query": "ファミリーマート 期間限定 キャンペーン",
       "bucket": "free"
+    },
+    {
+      "title": "【アマゾン50%タイムセール】10インチAndroid 16タブレット「RebotAi D101PRO」通常価格23,999円→11,999円の期間限定タイムセールをAmazon.co.jpで開催",
+      "raw_title": "【アマゾン50%タイムセール】10インチAndroid 16タブレット「RebotAi D101PRO」通常価格23,999円→11,999円の期間限定タイムセールをAmazon.co.jpで開催 - ASCII.jp",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAydHFEQ2RJUk12bmk2bExkUnVHTHpDajZhLUxpZDZmTnJpSU5tQWkwbEhQYjFZVGw5WXJzMlM3WC1odUFPMjdNem14bWk1ZnQ4V0N3dQ?oc=5",
+      "source": "ASCII.jp",
+      "published": "2026-10-01T12:16:56+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
     },
     {
       "title": "楽天モバイル、ファミマでポイント20倍になる契約者限定キャンペーン",
@@ -46,15 +55,6 @@
       "published": "2026-10-01T10:04:07+09:00",
       "query": "セブンイレブン キャンペーン ポイント",
       "bucket": "point"
-    },
-    {
-      "title": "【アマゾン50%タイムセール】10インチAndroid 16タブレット「RebotAi D101PRO」通常価格23,999円→11,999円の期間限定タイムセールをAmazon.co.jpで開催",
-      "raw_title": "【アマゾン50%タイムセール】10インチAndroid 16タブレット「RebotAi D101PRO」通常価格23,999円→11,999円の期間限定タイムセールをAmazon.co.jpで開催 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TMXZsYmFBNFIyRjMwZHVPaWdGY0NlWVplbDFLZTZKc3R5MGI3Q1Ztekd1M1Z6Ul90ZUVNSkw5Q2ZDbGsybmpydzA0N19ycG9VVGNQTjJrYTZ1Q25YZFRQV2lGcDJPVUNmMVE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-10-01T08:00:01+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
     },
     {
       "title": "3,000円引き+10%pt！「motorola edge 70 fusion」楽天スーパーDEAL登場",
