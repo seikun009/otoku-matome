@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-10-05T09:35:10.329642+09:00",
-  "count": 7,
+  "generated_at": "2026-10-06T04:07:40.842857+09:00",
+  "count": 3,
   "items": [
+    {
+      "title": "【アマゾンセールで13,999円】RebotAi厳選 11インチ・128GBのAndroid",
+      "raw_title": "【アマゾンセールで13,999円】RebotAi厳選 11インチ・128GBのAndroid - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xQ2dEN2o2aldvcjZLTjJFN3ZwRDBadUNFd2FjdFZEbWx3S3pJb2FCSHE3WXpjaFd1Z29Sa0NjRm9OZktTLW9HVUFvZGtacElVT1I0bA?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-10-06T02:00:26+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
+    },
+    {
+      "title": "【残り1週間 1万円台タブレット】RebotAiの10インチAndroid 16 タブレットが50％OFF！23,999円→11,999円、10月12日までの期間限定アマゾン タイムセール",
+      "raw_title": "【残り1週間 1万円台タブレット】RebotAiの10インチAndroid 16 タブレットが50％OFF！23,999円→11,999円、10月12日までの期間限定アマゾン タイムセール - prtimes.jp",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iWmswdmRjWEs0VWZWY1JWbmxvdGNXSVNNTmpPT0t2N1V1RnRaMnB3SlBJNzBnYXRCRHpHS29VcWZKazZFR28xdlJKcW53NExmc2lZYVZDanBienZHbl9VM2lYQldWc2M3V0E?oc=5",
+      "source": "prtimes.jp",
+      "published": "2026-10-05T20:00:01+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
+    },
     {
       "title": "「楽天市場」、商品ジャンルごとのキャンペーンが集結する新セールイベント「ジャンル祭」を開催",
       "raw_title": "「楽天市場」、商品ジャンルごとのキャンペーンが集結する新セールイベント「ジャンル祭」を開催 - ニコニコニュース",
@@ -10,60 +28,6 @@
       "published": "2026-10-03T11:51:28+09:00",
       "query": "楽天市場 ポイント還元 期間限定",
       "bucket": "limited"
-    },
-    {
-      "title": "10月の「Ponta」キャンペーン、ローソンの買い物を全額ポイント還元など",
-      "raw_title": "10月の「Ponta」キャンペーン、ローソンの買い物を全額ポイント還元など - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05Z3NyTmtkcWdaZWNqRlVkdy1xMmdBZHEteE9oc0xIWmJRT1F1bFdHbjB1clZrTm9RNElvcXFBSXFhOVN2cWZ2c0hDRFNkSG0zbHdtemxMM0hPdHJXeXdMQjV5SHJleHZuRkJ0MkJOY2VDd1XSAXhBVV95cUxQSHpoM0JlQ1VKTEJvTjVLa04yYWpLRjJjeFl3c0ZTT1JTd0tKWmZ2MlZZNUVzN3hYaVJCRzZwdTBDeGxTdW9MdXhjTWZaeFpIYmlPN1dnMFRrMHN5dVgtWGdpSVQ0ZUVSOEJ1bXVKNDVkNGFzNF9UaE0?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-10-02T17:28:00+09:00",
-      "query": "コンビニ ポイント還元 キャンペーン",
-      "bucket": "point"
-    },
-    {
-      "title": "楽天市場、新セール「ジャンル祭」4日から 家電・食品などで最大50％オフやポイント還元（ケータイ Watch）",
-      "raw_title": "楽天市場、新セール「ジャンル祭」4日から 家電・食品などで最大50％オフやポイント還元（ケータイ Watch） - news.yahoo.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90VEJBa1pYZ2xiM1pudnpEY3R0VlJnNGREd3k0eFZiRkxZdmI0d2xNOW1sWDlyUFpnRmYxSFVBX3J3dzdhRW9OSldkOTVfUDVFMjZjQ1FxeUpyYWZtaFFONHR4VkpPcGNVYUxhR0VVT3BxQ18yT19jbWg5VE1Db3c?oc=5",
-      "source": "news.yahoo.co.jp",
-      "published": "2026-10-02T17:05:00+09:00",
-      "query": "楽天市場 ポイント還元 期間限定",
-      "bucket": "point"
-    },
-    {
-      "title": "アウトドアから日常までこれ1本！DOOGEE「W1 LITE」スマートウォッチ、550mAh大容量バッテリー＆5ATM防水搭載でAmazon期間限定タイムセール開催中！",
-      "raw_title": "アウトドアから日常までこれ1本！DOOGEE「W1 LITE」スマートウォッチ、550mAh大容量バッテリー＆5ATM防水搭載でAmazon期間限定タイムセール開催中！ - prtimes.jp",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nRjNEc1g3MkhWM2JON0RRTk5KbEZxUGd0QWpYWENzc1U1V09iLUZqcGZ1YmJ6QjRKOGowWFFnSXZRTjBqM1dYZE1vWUZYalUwdkJDUVhpWGtTek82NEhiTUIyN0NtYThBcUE?oc=5",
-      "source": "prtimes.jp",
-      "published": "2026-10-02T15:31:55+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "【7,000円OFF特別セール】双頻GPS＆730mAh超大容量バッテリー搭載！フラッグシップモデル「DOOGEE M1 PRO スマートウォッチ」がAmazonにて期間限定特別価格で登場 | 深圳市道格创想电子商务有限公司のプレスリリース",
-      "raw_title": "【7,000円OFF特別セール】双頻GPS＆730mAh超大容量バッテリー搭載！フラッグシップモデル「DOOGEE M1 PRO スマートウォッチ」がAmazonにて期間限定特別価格で登場 | 深圳市道格创想电子商务有限公司のプレスリリース - prtimes.jp",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxWXJaZl81RmlMQnNKZnhyakdaSDg0bFR5VGplQXQ2TmZvejAwbmhNbGsySkJwcHB3X0xodVpXZmEtbGJJelVJOHBsRVNrOUFUQURRdzdEbkVGcmV3ZlhTSzF1YkV4ZzREamc?oc=5",
-      "source": "prtimes.jp",
-      "published": "2026-10-02T15:16:16+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "free"
-    },
-    {
-      "title": "【2026年10月】Amazonタイムセールとは？いつまでか確認",
-      "raw_title": "【2026年10月】Amazonタイムセールとは？いつまでか確認 - キャラグー",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xTjZEYjYyTklnRTdxVFl5LUFKN05kMmFPa1Y5NTBZbi1XWEJrZUdiMFcxQnJjSHRMNzJpUWV4dmlwek8weG9Mel9MX1E5UQ?oc=5",
-      "source": "キャラグー",
-      "published": "2026-10-02T11:39:50+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "【ファミマ】最大2,000円相当もらえる!「ファミペイ翌月払い」新規登録キャンペーン開催 - 利用額に応じてポイント進呈",
-      "raw_title": "【ファミマ】最大2,000円相当もらえる!「ファミペイ翌月払い」新規登録キャンペーン開催 - 利用額に応じてポイント進呈 - マイナビニュース",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSSnNVclpmSEVBNEFreHIwZWdMTmgtS0llNlFVMXJxdHhxT1BveDQ1UHlnRGM3bnhPb1dhemtIWWZEYkRWeFVQaXdhWFlyNTlPcGlrUVNDUDctdE9J?oc=5",
-      "source": "マイナビニュース",
-      "published": "2026-10-02T10:45:08+09:00",
-      "query": "ファミリーマート 期間限定 キャンペーン",
-      "bucket": "free"
     }
   ]
 }
