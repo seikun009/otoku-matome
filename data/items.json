@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-10-11T09:44:43.329508+09:00",
-  "count": 2,
+  "generated_at": "2026-10-12T01:11:05.913731+09:00",
+  "count": 3,
   "items": [
+    {
+      "title": "セブンのほぼ半額コーヒー、ファミマのSuica実質3％還元、コンビニのポイ活注目キャンペーン3選",
+      "raw_title": "セブンのほぼ半額コーヒー、ファミマのSuica実質3％還元、コンビニのポイ活注目キャンペーン3選 - @DIME アットダイム",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1UaTRnYm1YS20zZDMyY2hqMWo0djMyYVhoTHh0UjN0YmR2Q3AyQ1hsc0VlVXRPTl93RVZ3M0NJQWljZzBw?oc=5",
+      "source": "@DIME アットダイム",
+      "published": "2026-10-11T09:01:48+09:00",
+      "query": "コンビニ ポイント還元 キャンペーン",
+      "bucket": "point"
+    },
     {
       "title": "【Amazonセール】LZF ZPad1Aが22,279円に！T7300搭載8.8インチタブレット、10月19日まで",
       "raw_title": "【Amazonセール】LZF ZPad1Aが22,279円に！T7300搭載8.8インチタブレット、10月19日まで - TikGadget",
@@ -12,13 +21,13 @@
       "bucket": "limited"
     },
     {
-      "title": "【期間限定タイムセール】DOOGEEの多機能スマートウォッチ「W1 LITE」が驚愕の45% OFF！特別価格10,900円（税込）で登場。シンプルに、もっと便利に、毎日をスマートに。",
-      "raw_title": "【期間限定タイムセール】DOOGEEの多機能スマートウォッチ「W1 LITE」が驚愕の45% OFF！特別価格10,900円（税込）で登場。シンプルに、もっと便利に、毎日をスマートに。 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBocFg3OFEtYm4wN2JXaXc0Vld6SXZERkRUUHh3WDEyRVRTNjdQZzU2VVQ0dkpUQUFMQXZqeWk0VUlYUVhtZmh5S2Q1SEowSjNYdjNZUVZZRjltVExpM2N0aWxKNEFRcjAzQVE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-10-08T17:14:53+09:00",
+      "title": "期間限定タイムセール】DOOGEEの高品質スマートウォッチ「M1 Pro」が今だけ23%",
+      "raw_title": "期間限定タイムセール】DOOGEEの高品質スマートウォッチ「M1 Pro」が今だけ23% - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tb3RGdFU5V3U2M0dHZ2xBM2pkVWZ0YV9kUkN4QUNUOWU5THhfVTdJZ0lsb2RFelpxRDZ5eVhKV0lqTzNRd2tkcE0xLTBWMHVsY0tWWFdpeVZYdWVFY2xzaXdQZm5pUzQtUkFQSk1WQnJrbUZIMXJ4c2NmSQ?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-10-09T05:45:28+09:00",
       "query": "Amazon セール 期間限定",
-      "bucket": "free"
+      "bucket": "limited"
     }
   ]
 }
