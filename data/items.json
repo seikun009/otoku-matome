@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T01:11:05.913731+09:00",
-  "count": 3,
+  "generated_at": "2026-10-12T10:05:31.838713+09:00",
+  "count": 4,
   "items": [
     {
       "title": "セブンのほぼ半額コーヒー、ファミマのSuica実質3％還元、コンビニのポイ活注目キャンペーン3選",
@@ -21,13 +21,22 @@
       "bucket": "limited"
     },
     {
-      "title": "期間限定タイムセール】DOOGEEの高品質スマートウォッチ「M1 Pro」が今だけ23%",
-      "raw_title": "期間限定タイムセール】DOOGEEの高品質スマートウォッチ「M1 Pro」が今だけ23% - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tb3RGdFU5V3U2M0dHZ2xBM2pkVWZ0YV9kUkN4QUNUOWU5THhfVTdJZ0lsb2RFelpxRDZ5eVhKV0lqTzNRd2tkcE0xLTBWMHVsY0tWWFdpeVZYdWVFY2xzaXdQZm5pUzQtUkFQSk1WQnJrbUZIMXJ4c2NmSQ?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-10-09T05:45:28+09:00",
+      "title": "ローソン、無印良品で15％還元、AEON Payで最大10％還元！ 10月の注目キャンペーンまとめ（MONEY PLUS）",
+      "raw_title": "ローソン、無印良品で15％還元、AEON Payで最大10％還元！ 10月の注目キャンペーンまとめ（MONEY PLUS） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53MHcxZGFnYUtnRUp1cVBla0hSbUNYazJ0em9vOGJ1T24xNDdQZndBWkROdEMxVTBmZnFZb2pnSG4yNmJHV3JObGpCaXNjdU1zb0dJNXR4NTAwcDQxZzc5b21PV2lqd0ZQaXdkZ0dCTFBFYmlQcTZtbjAyVDFvdmc?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-10-10T07:31:08+09:00",
+      "query": "コンビニ ポイント還元 キャンペーン",
+      "bucket": "point"
+    },
+    {
+      "title": "ロジクールのワイヤレストラックボールが41％OFFの4,980円！Amazonでセール中 - 本日みつけたお買い得情報",
+      "raw_title": "ロジクールのワイヤレストラックボールが41％OFFの4,980円！Amazonでセール中 - 本日みつけたお買い得情報 - 窓の杜",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kcUh6cTJ5V0pISVRUdjEtSHZMY2ZLVGNYTEd6SlZ1QXltbnVRdzlOSnZZZE14ZFhEaTNUeUlkNzVRRkdPMjJ0cHJTZF9ydkpZRUQ4RFRZQXZaR2xTVGJjMmxlRkhCaU9IUkNNc2NZbElhdkp0Y2c?oc=5",
+      "source": "窓の杜",
+      "published": "2026-10-09T18:20:00+09:00",
       "query": "Amazon セール 期間限定",
-      "bucket": "limited"
+      "bucket": "free"
     }
   ]
 }
