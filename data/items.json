@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T09:30:23.428377+09:00",
-  "count": 6,
+  "generated_at": "2026-10-22T23:55:28.575450+09:00",
+  "count": 7,
   "items": [
     {
       "title": "【Amazon限定】Android 16搭載「P10 Pro」10.1インチタブレットが10％OFF！通常19,900円→特別価格17,900円！キーボード付き豪華セット、在庫限りの特別セール開催！｜Infoseekニュース",
@@ -48,13 +48,22 @@
       "bucket": "limited"
     },
     {
-      "title": "【セブンイレブン】最大1万円分のPayPayポイント・dポイントが当たる! 10口応募で100円分が必ずもらえる｜Infoseekニュース",
-      "raw_title": "【セブンイレブン】最大1万円分のPayPayポイント・dポイントが当たる! 10口応募で100円分が必ずもらえる｜Infoseekニュース - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pbjJIdG5EWEEyOUd5UVRPZDJXSm5rREVQNkNBVmpEZjBBV0FiYlBYWVFxTFg0TzgzbUtHaGtOWTVEZlViVW94YlhjdEdWNkh1ajc0ZkN0SEdSMWFhUWVWZg?oc=5",
-      "source": "Infoseek",
-      "published": "2026-10-19T15:50:32+09:00",
-      "query": "セブンイレブン キャンペーン ポイント",
-      "bucket": "free"
+      "title": "Amazon 2026年『プライム感謝祭』 キャンペーン・ポイントアップ・対象商品解説 開催期間は10月13日～19日",
+      "raw_title": "Amazon 2026年『プライム感謝祭』 キャンペーン・ポイントアップ・対象商品解説 開催期間は10月13日～19日 - uzurea.net",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85ekU4ZXBvNXJEU0Rvdnd4amRIYVNwN25VZGNab196S2kzdWJJbG85WlFocDhtN0kxYlhzQWpNdUp5Z2k0Skdfd0N2ZkVKWkpnMWFmb3NaM1VFN1ludVhN?oc=5",
+      "source": "uzurea.net",
+      "published": "2026-10-20T00:47:26+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "point"
+    },
+    {
+      "title": "Amazonプライム感謝祭が10月16日0時から4日間開催｜先行セールは10月13日からでポイントアップの対象期間もここから始まる",
+      "raw_title": "Amazonプライム感謝祭が10月16日0時から4日間開催｜先行セールは10月13日からでポイントアップの対象期間もここから始まる - Smart Watch Life",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4ydkxZSFRzS0FCRWluS0hXZDEyX3VSWW0wZWhOeTJNMUlGRzcwRU5uMHJUck9VZW1ZS2FSeFU5TmNjVFFYM3VrWTVTN3o?oc=5",
+      "source": "Smart Watch Life",
+      "published": "2026-10-20T00:05:11+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "point"
     }
   ]
 }
