@@ -1,16 +1,7 @@
 {
-  "generated_at": "2026-10-22T23:55:28.575450+09:00",
-  "count": 7,
+  "generated_at": "2026-10-23T09:28:05.815727+09:00",
+  "count": 5,
   "items": [
-    {
-      "title": "【Amazon限定】Android 16搭載「P10 Pro」10.1インチタブレットが10％OFF！通常19,900円→特別価格17,900円！キーボード付き豪華セット、在庫限りの特別セール開催！｜Infoseekニュース",
-      "raw_title": "【Amazon限定】Android 16搭載「P10 Pro」10.1インチタブレットが10％OFF！通常19,900円→特別価格17,900円！キーボード付き豪華セット、在庫限りの特別セール開催！｜Infoseekニュース - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxcllqOEdmR3JDRi1yOWF0NE9tZzlmWnhTVUFaOFZZd3lxWTdWN1h5Nlo4ZHJiaE5UVHEwRy13d1R3TWFGSVU5TXd5SnRpVnp1Z2RzT0ZMeTNQcnR4WFdkV3NkVmZtSjVxam40UHYxcF9ZUQ?oc=5",
-      "source": "Infoseek",
-      "published": "2026-10-21T15:15:37+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "free"
-    },
     {
       "title": "【Amazon限定・7日間セール】Android 16搭載11インチタブレット「P11 セット版」が通常20,900円から17,900円に！約14％OFFの特別価格で販売",
       "raw_title": "【Amazon限定・7日間セール】Android 16搭載11インチタブレット「P11 セット版」が通常20,900円から17,900円に！約14％OFFの特別価格で販売 - まんたんウェブ",
@@ -23,9 +14,18 @@
     {
       "title": "1個買うと1個もらえる！おトクなレシートクーポン 10月21日(水)から10月27日(火)まで",
       "raw_title": "1個買うと1個もらえる！おトクなレシートクーポン 10月21日(水)から10月27日(火)まで - ローソンストア100",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TbXoxZUtLUG94NGdOc3haNE1kc1daVi00NUdSVGNFOTBqeWktM3ZHVDkzdzNubngxNzdKa3ZPTnFCczVLTElsT1hjRkEwUlVDUlN6YW1jZUtuMjNNd0d0VnllNTJ0QlJvZ0RRT2xXMlVYNkF0UUVmXzFR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjd1pXVENWY0tZbDhHcDJ1OEVqSm8yRElmemRSNjBtbTJlZmlFTkgxRnFFbHhKMmx6aDZCa041Nk4xTVJaX29wQ0NrTFJaa2hfdWJIalMzSlFSbjhHVGdZX2VhMm5lVktLQmJ1UEpzUi1KaERjUFpNc0h0a1pzQQ?oc=5",
       "source": "ローソンストア100",
       "published": "2026-10-21T09:08:26+09:00",
+      "query": "ローソン 無料 クーポン",
+      "bucket": "limited"
+    },
+    {
+      "title": "【ローソンアプリ限定】ベースブレッドマイレージキャンペーン｜ローソン公式サイト",
+      "raw_title": "【ローソンアプリ限定】ベースブレッドマイレージキャンペーン｜ローソン公式サイト - LAWSON",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uQlJma015VTY3YklmbDBlSndhR0JJMTN4OV9KQXprWUdwLXhab2lIc1Ffa1dCc0hwVl9MY3N3MHJnbGFZN18wTksyM0lsaHJJSGoxbnZOYmNtR2FudDI5LTl2VkI?oc=5",
+      "source": "LAWSON",
+      "published": "2026-10-20T16:00:00+09:00",
       "query": "ローソン 無料 クーポン",
       "bucket": "limited"
     },
@@ -46,24 +46,6 @@
       "published": "2026-10-20T16:00:00+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "limited"
-    },
-    {
-      "title": "Amazon 2026年『プライム感謝祭』 キャンペーン・ポイントアップ・対象商品解説 開催期間は10月13日～19日",
-      "raw_title": "Amazon 2026年『プライム感謝祭』 キャンペーン・ポイントアップ・対象商品解説 開催期間は10月13日～19日 - uzurea.net",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85ekU4ZXBvNXJEU0Rvdnd4amRIYVNwN25VZGNab196S2kzdWJJbG85WlFocDhtN0kxYlhzQWpNdUp5Z2k0Skdfd0N2ZkVKWkpnMWFmb3NaM1VFN1ludVhN?oc=5",
-      "source": "uzurea.net",
-      "published": "2026-10-20T00:47:26+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "point"
-    },
-    {
-      "title": "Amazonプライム感謝祭が10月16日0時から4日間開催｜先行セールは10月13日からでポイントアップの対象期間もここから始まる",
-      "raw_title": "Amazonプライム感謝祭が10月16日0時から4日間開催｜先行セールは10月13日からでポイントアップの対象期間もここから始まる - Smart Watch Life",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4ydkxZSFRzS0FCRWluS0hXZDEyX3VSWW0wZWhOeTJNMUlGRzcwRU5uMHJUck9VZW1ZS2FSeFU5TmNjVFFYM3VrWTVTN3o?oc=5",
-      "source": "Smart Watch Life",
-      "published": "2026-10-20T00:05:11+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "point"
     }
   ]
 }
