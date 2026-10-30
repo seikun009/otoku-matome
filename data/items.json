@@ -1,24 +1,51 @@
 {
-  "generated_at": "2026-10-30T10:44:08.830423+09:00",
-  "count": 9,
+  "generated_at": "2026-10-31T01:34:40.064393+09:00",
+  "count": 10,
   "items": [
     {
-      "title": "【期間限定10,000円OFF】RebotAiの11インチAndroidタブレットが13,999円！Android 16・Gemini対応の高コスパモデルを特別価格で販売",
-      "raw_title": "【期間限定10,000円OFF】RebotAiの11インチAndroidタブレットが13,999円！Android 16・Gemini対応の高コスパモデルを特別価格で販売 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5ZUdWTHhNLVNaSnZOY25WbEtBak40VVBoV3VWVWVwM28ySlpBSnNXVmtiTmdXVGFQUnpUNEtPYWRudmpEYWJrb21Vb2I2VUJmeGR1Q1Vqd29iTjNMT181TkJ5dW9fUV96V1E?oc=5",
+      "title": "コンパクトで高精細な8.8インチタブレット「T60Mini」が期間限定23,654円に！11月2日までの特別セールを開催",
+      "raw_title": "コンパクトで高精細な8.8インチタブレット「T60Mini」が期間限定23,654円に！11月2日までの特別セールを開催 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuWDd5djM0WlVrQVJTZWFSbTlWT3RmaEdXQ3JxTGVmT1FWMEVhTjBORi1IZVBZTUd3QXlIbVdvVWhoaGdZdUxhUjBQUzB6NGNfSzRLaFVrVW9PTmZiaWxudjZTQlE3akotQ0E?oc=5",
       "source": "PR TIMES",
-      "published": "2026-10-29T19:05:47+09:00",
+      "published": "2026-10-30T19:01:19+09:00",
       "query": "Amazon セール 期間限定",
+      "bucket": "limited"
+    },
+    {
+      "title": "エディオンとローソンにおいて「抽選でdポイント最大3万ポイント当たるキャンペーン」を開催",
+      "raw_title": "エディオンとローソンにおいて「抽選でdポイント最大3万ポイント当たるキャンペーン」を開催 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52MTBWWjVSSzRQVlpzb0VJZE5vRVI3Z2FQOEc3UVZMbFZnM1FkLWJXTUEyakZJcURxaWJ3M0szTWx1S1RWOGx4TE5NamZXQzVaWEZ5bmNzc0pPTGlyUkppVk5qd0EydlV4QkE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-10-30T15:00:02+09:00",
+      "query": "コンビニ ポイント還元 キャンペーン",
       "bucket": "free"
     },
     {
-      "title": "お買い物金額",
-      "raw_title": "お買い物金額 - ファミリーマート",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zOEhrUHR1R3hOanR3N213cUlJUnNsSURrNFBzTVE4ZF84VE9BWFF3Wms2cl9UNXUtdURPWlRMSEZwUVV4QVJncm9XV2pqZG83bFYwSWZjVXhIYTdCT3lPLXJkRnYyM1dnbnhld1hpN2swUkpnSk9V?oc=5",
-      "source": "ファミリーマート",
-      "published": "2026-10-29T10:10:19+09:00",
+      "title": "【2026年10月】ファミマカードのキャンペーン！新規入会でもらえる特典や受け取り方法も解説",
+      "raw_title": "【2026年10月】ファミマカードのキャンペーン！新規入会でもらえる特典や受け取り方法も解説 - マイベスト",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9waWRUVlZyTE53ZUJHdlNERWdyeFlkTWJEOWp3NU9JN0xQOTRRNTlCV1Y3MW1kLVptX0JYVUk3VmJ4MnMwZE9CLQ?oc=5",
+      "source": "マイベスト",
+      "published": "2026-10-30T00:00:00+09:00",
       "query": "ファミリーマート 期間限定 キャンペーン",
       "bucket": "limited"
+    },
+    {
+      "title": "【保存版】2026年Amazonセール完全攻略ガイド｜次のセールはいつ？お得な買い方＆年間スケジュールまとめ",
+      "raw_title": "【保存版】2026年Amazonセール完全攻略ガイド｜次のセールはいつ？お得な買い方＆年間スケジュールまとめ - アプリブ",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94QzFkcXVCMDBNOWYwQjhEQU1BTm8tdWRvaXNhUFQ4TG9zamFDR1ZMVU02aGg1ZHg5OFNVbG9ZU2tGd3RudjZrZGJhRDM0cEU?oc=5",
+      "source": "アプリブ",
+      "published": "2026-10-29T16:00:00+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
+    },
+    {
+      "title": "お買い物金額 \"全額タダ\"の大チャンス！ファミペイ史上最大のキャンペーンがスタート『45周年ファミペイ大感謝祭』11日間限定で開催 11月1日（日）から111万円相当のファミリーマート商品があたる！？(2026年10月29日10時0分)",
+      "raw_title": "お買い物金額 \"全額タダ\"の大チャンス！ファミペイ史上最大のキャンペーンがスタート『45周年ファミペイ大感謝祭』11日間限定で開催 11月1日（日）から111万円相当のファミリーマート商品があたる！？(2026年10月29日10時0分) - 大分合同新聞",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yemR3czJ5RThQVHFkM2RydnNkNHhXZW9MMkhwVzVCQS01QkFvV3RJenFPNHg5M0xJQTUteHNKdnUzMTVCS2hrNkgxejRNU055REktLVlIUDR6YVUya1RQU1F3Y1dsdzZ5RDhNamxQSQ?oc=5",
+      "source": "大分合同新聞",
+      "published": "2026-10-29T10:00:00+09:00",
+      "query": "ファミリーマート 期間限定 キャンペーン",
+      "bucket": "free"
     },
     {
       "title": "福岡ソフトバンクホークス『日本一セール情報まとめ2026』ゆめタウン久留米やイオンなど",
@@ -64,24 +91,6 @@
       "published": "2026-10-28T09:08:22+09:00",
       "query": "ローソン 無料 クーポン",
       "bucket": "limited"
-    },
-    {
-      "title": "ローソンアプリに新規でポイントカードを連携すると、無料券がもらえる！｜ローソン公式サイト",
-      "raw_title": "ローソンアプリに新規でポイントカードを連携すると、無料券がもらえる！｜ローソン公式サイト - LAWSON",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qbjVWODFIekVqRmxjRUI4TzAyYmFVT1Y4ejU3b2VxWGYtNUhQeFFhaDkyQktmS2FJWFluRnpPbWc1NTV6LUJla0NtQVhVa0ZmYjZETUZNd0lSalpHZ05zcHZuMmY?oc=5",
-      "source": "LAWSON",
-      "published": "2026-10-27T16:00:00+09:00",
-      "query": "ローソン 無料 クーポン",
-      "bucket": "free"
-    },
-    {
-      "title": "10月28日(水)スタート♪毎日1万名様に抽選で「対象のナチュラルローソン菓子」無料券をプレゼント！｜ローソン公式サイト",
-      "raw_title": "10月28日(水)スタート♪毎日1万名様に抽選で「対象のナチュラルローソン菓子」無料券をプレゼント！｜ローソン公式サイト - LAWSON",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fY0NvYk95b18xSkNyZ2xXNFNlOWpST1lDOGl5dXB5NVgzQzVrdVRqU0JGR2FKZTYzaHRkb3p6djNTVDJNS3p4eEppS0taOUR6WHJOR0NxYWg0LWU0bjJKd1JnTVNtVFktVHJr?oc=5",
-      "source": "LAWSON",
-      "published": "2026-10-27T16:00:00+09:00",
-      "query": "ローソン 無料 クーポン",
-      "bucket": "free"
     }
   ]
 }
