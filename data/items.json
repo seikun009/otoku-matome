@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T01:34:40.064393+09:00",
-  "count": 10,
+  "generated_at": "2026-10-31T10:27:26.786740+09:00",
+  "count": 9,
   "items": [
     {
       "title": "コンパクトで高精細な8.8インチタブレット「T60Mini」が期間限定23,654円に！11月2日までの特別セールを開催",
@@ -19,6 +19,15 @@
       "published": "2026-10-30T15:00:02+09:00",
       "query": "コンビニ ポイント還元 キャンペーン",
       "bucket": "free"
+    },
+    {
+      "title": "10％pt還元&SPU！楽天スーパーDEAL「motorola edge 70 fusion」",
+      "raw_title": "10％pt還元&SPU！楽天スーパーDEAL「motorola edge 70 fusion」 - Jetstream",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZTN3YzRMQkthaW9WZHd6bU9QYXZ6VmxObWdWckItaEpNb2VzM1dJeXhIbEdFYk55UkJHY1dZTFIzeW9yMldYSHJkT09wTExWRkJwd1JqSVlLQnhFYkh2SmV0YmZYUVlkUnIyZHg2ZjAzYy1jZm1FUXRWVGMxRVVYX29nSjVtcGtDNWFrOFBB?oc=5",
+      "source": "Jetstream",
+      "published": "2026-10-30T00:29:25+09:00",
+      "query": "楽天市場 ポイント還元 期間限定",
+      "bucket": "point"
     },
     {
       "title": "【2026年10月】ファミマカードのキャンペーン！新規入会でもらえる特典や受け取り方法も解説",
@@ -48,15 +57,6 @@
       "bucket": "free"
     },
     {
-      "title": "福岡ソフトバンクホークス『日本一セール情報まとめ2026』ゆめタウン久留米やイオンなど",
-      "raw_title": "福岡ソフトバンクホークス『日本一セール情報まとめ2026』ゆめタウン久留米やイオンなど - 久留米ファン",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jdXVRZENhSnBET1RvLUN6RFFsMXFseF9XVG1GRWJabTFLeHJIS1RRYUtnZDkydllKaGtLT1k5LWN6OEFRQlJ4ODRyN1JMbW85VDExdGFuN1RkZlZi?oc=5",
-      "source": "久留米ファン",
-      "published": "2026-10-28T20:34:45+09:00",
-      "query": "スーパー 特売 無料 プレゼント",
-      "bucket": "limited"
-    },
-    {
       "title": "【PayPay×セブンイレブン】3つのお得なキャンペーン開催 - セブンカフェ半額や毎月使えるPayPayクーポンも",
       "raw_title": "【PayPay×セブンイレブン】3つのお得なキャンペーン開催 - セブンカフェ半額や毎月使えるPayPayクーポンも - au Webポータル",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2X3pXc3BuYzRWYUk4NTBWMHA5bTRaVDI1eFk0WE5aWDh6RnBZOE5IMVJ0YWpYeFJRS1plUDQ2WXcxZU1XeU5ZcFpaNDBWRTdrR2c4WnV3cXBvVUpfQ3ZIa2FWbGdVd3FTbmU4cDln?oc=5",
@@ -81,15 +81,6 @@
       "source": "FUNQ",
       "published": "2026-10-28T16:00:00+09:00",
       "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "１．キリンビバレッジ「イミューズ ヨーグルトテイスト 500ml」が１本もらえる",
-      "raw_title": "１．キリンビバレッジ「イミューズ ヨーグルトテイスト 500ml」が１本もらえる - ローソンストア100",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LVHM4bVNEc3VBcDF0a01XcXROVTBMOVo5dUJnUWpMWTM0dTFKOTdqNXA4NnU5dlJIdXFTSnllazVPb28taWx0b2hnSjRhZ1ZlTGpTTWlpYW9ZV0NSaVRUQy00eEtPbng4R2dWNFdNb2oyZlVHd012VU9B?oc=5",
-      "source": "ローソンストア100",
-      "published": "2026-10-28T09:08:22+09:00",
-      "query": "ローソン 無料 クーポン",
       "bucket": "limited"
     }
   ]
