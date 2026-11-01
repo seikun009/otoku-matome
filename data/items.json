@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-11-01T09:49:06.351243+09:00",
-  "count": 8,
+  "generated_at": "2026-11-02T01:38:10.749945+09:00",
+  "count": 4,
   "items": [
+    {
+      "title": "『ファミマTV 芸人ギャグスロットキャンペーン』11月3日よりスタート!",
+      "raw_title": "『ファミマTV 芸人ギャグスロットキャンペーン』11月3日よりスタート! - Fany Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBVZEU3bWN6NkpkTWxBY0dSUFJVb3c2bHZ0cElHaTRxQWhLa3RzMG9Eb2ZSLS1xb1ZIXzhaLXJOVHNRSS1OLTd5bA?oc=5",
+      "source": "Fany Magazine",
+      "published": "2026-11-01T12:00:00+09:00",
+      "query": "ファミリーマート 期間限定 キャンペーン",
+      "bucket": "limited"
+    },
     {
       "title": "Amazon「スマイルSale」2026年11月4日（水）9時より開催",
       "raw_title": "Amazon「スマイルSale」2026年11月4日（水）9時より開催 - jetstream.blog",
@@ -21,57 +30,12 @@
       "bucket": "limited"
     },
     {
-      "title": "2026年の最新「Amazon スマイルセール」スタート！5月27日から6月2日までの約1週間【注目商品12選】",
-      "raw_title": "2026年の最新「Amazon スマイルセール」スタート！5月27日から6月2日までの約1週間【注目商品12選】 - ウォーカープラス",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LbUlwUjQ0SEFDQkIxZmYwNU5KQkRteDMxTE9sOXRZVDhyaEtPTlQ5Ukl6OFJWQVYxenRrYnJMOEtUakxzdFpRSDFYbXhlT2cwZWxuVzBn0gFbQVVfeXFMTTJOTG5lZVhDOXlzME1PbldzY05TYktCbloyYUh4ei1xUUJscmFSVmRJZ2ZiTUdlNFJMbGlWbWk0c3ZfSlZQMDI0SGxWcTFfeUpGS0dmMG0tcHNtcw?oc=5",
-      "source": "ウォーカープラス",
-      "published": "2026-10-31T08:45:25+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
       "title": "エディオンとローソンにおいて「抽選でdポイント最大3万ポイント当たるキャンペーン」を開催",
       "raw_title": "エディオンとローソンにおいて「抽選でdポイント最大3万ポイント当たるキャンペーン」を開催 - PR TIMES",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52MTBWWjVSSzRQVlpzb0VJZE5vRVI3Z2FQOEc3UVZMbFZnM1FkLWJXTUEyakZJcURxaWJ3M0szTWx1S1RWOGx4TE5NamZXQzVaWEZ5bmNzc0pPTGlyUkppVk5qd0EydlV4QkE?oc=5",
       "source": "PR TIMES",
       "published": "2026-10-30T15:00:02+09:00",
       "query": "コンビニ ポイント還元 キャンペーン",
-      "bucket": "free"
-    },
-    {
-      "title": "10％pt還元&SPU！楽天スーパーDEAL「motorola edge 70 fusion」",
-      "raw_title": "10％pt還元&SPU！楽天スーパーDEAL「motorola edge 70 fusion」 - Jetstream",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZTN3YzRMQkthaW9WZHd6bU9QYXZ6VmxObWdWckItaEpNb2VzM1dJeXhIbEdFYk55UkJHY1dZTFIzeW9yMldYSHJkT09wTExWRkJwd1JqSVlLQnhFYkh2SmV0YmZYUVlkUnIyZHg2ZjAzYy1jZm1FUXRWVGMxRVVYX29nSjVtcGtDNWFrOFBB?oc=5",
-      "source": "Jetstream",
-      "published": "2026-10-30T00:29:25+09:00",
-      "query": "楽天市場 ポイント還元 期間限定",
-      "bucket": "point"
-    },
-    {
-      "title": "【2026年10月】ファミマカードのキャンペーン！新規入会でもらえる特典や受け取り方法も解説",
-      "raw_title": "【2026年10月】ファミマカードのキャンペーン！新規入会でもらえる特典や受け取り方法も解説 - マイベスト",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9waWRUVlZyTE53ZUJHdlNERWdyeFlkTWJEOWp3NU9JN0xQOTRRNTlCV1Y3MW1kLVptX0JYVUk3VmJ4MnMwZE9CLQ?oc=5",
-      "source": "マイベスト",
-      "published": "2026-10-30T00:00:00+09:00",
-      "query": "ファミリーマート 期間限定 キャンペーン",
-      "bucket": "limited"
-    },
-    {
-      "title": "【保存版】2026年Amazonセール完全攻略ガイド｜次のセールはいつ？お得な買い方＆年間スケジュールまとめ",
-      "raw_title": "【保存版】2026年Amazonセール完全攻略ガイド｜次のセールはいつ？お得な買い方＆年間スケジュールまとめ - アプリブ",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94QzFkcXVCMDBNOWYwQjhEQU1BTm8tdWRvaXNhUFQ4TG9zamFDR1ZMVU02aGg1ZHg5OFNVbG9ZU2tGd3RudjZrZGJhRDM0cEU?oc=5",
-      "source": "アプリブ",
-      "published": "2026-10-29T16:00:00+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "お買い物金額 \"全額タダ\"の大チャンス！ファミペイ史上最大のキャンペーンがスタート『45周年ファミペイ大感謝祭』11日間限定で開催 11月1日（日）から111万円相当のファミリーマート商品があたる！？(2026年10月29日10時0分)",
-      "raw_title": "お買い物金額 \"全額タダ\"の大チャンス！ファミペイ史上最大のキャンペーンがスタート『45周年ファミペイ大感謝祭』11日間限定で開催 11月1日（日）から111万円相当のファミリーマート商品があたる！？(2026年10月29日10時0分) - 大分合同新聞",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yemR3czJ5RThQVHFkM2RydnNkNHhXZW9MMkhwVzVCQS01QkFvV3RJenFPNHg5M0xJQTUteHNKdnUzMTVCS2hrNkgxejRNU055REktLVlIUDR6YVUya1RQU1F3Y1dsdzZ5RDhNamxQSQ?oc=5",
-      "source": "大分合同新聞",
-      "published": "2026-10-29T10:00:00+09:00",
-      "query": "ファミリーマート 期間限定 キャンペーン",
       "bucket": "free"
     }
   ]
