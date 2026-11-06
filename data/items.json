@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-06T02:53:42.282139+09:00",
+  "generated_at": "2026-11-06T11:05:54.368179+09:00",
   "count": 14,
   "items": [
     {
-      "title": "【AmazonスマイルSALE】高性能Androidタブレット「RebotAi AG11」が34％OFF！UNISOC T7300・90Hz・Android 16搭載モデルが20,999円に",
-      "raw_title": "【AmazonスマイルSALE】高性能Androidタブレット「RebotAi AG11」が34％OFF！UNISOC T7300・90Hz・Android 16搭載モデルが20,999円に - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yb0xIM3FGb1ZGOXFPNlhnSW9RUmFRU2FxdzEzX09pWmVYem11d0J6ZERGX200VVpBcloySWI2cUp4YS15ZUZsbmx5OEt6d2hmUHhaRkppN3JYX1J6Q0JHaVdtdVhjc1MzR2c?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-05T18:30:01+09:00",
+      "title": "ASUSのWi-Fi 7ルーターがセール中！ Amazon スマイルSale ゲーミングルーター「TUF Gaming BE3600」は1万8692円に",
+      "raw_title": "ASUSのWi-Fi 7ルーターがセール中！ Amazon スマイルSale ゲーミングルーター「TUF Gaming BE3600」は1万8692円に - INTERNET Watch",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jcWhXLUY1bXprX1l3YTdxMGlqZFROaS1Pc1hxeGM0a3VuaDgtc1M5Ylh5dHJOcTNvaUFpMlFZZWpMV3Q5dEx3SkpYZTRfX2lsTnhydDRTU1dWcjNSS0hHYUNyRDV4QVVqTFZGUlZ2U1U?oc=5",
+      "source": "INTERNET Watch",
+      "published": "2026-11-06T10:30:00+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "limited"
     },
@@ -102,6 +102,15 @@
       "bucket": "limited"
     },
     {
+      "title": "エレコム製のWi-Fiルーターが6680円から！ AmazonスマイルSale",
+      "raw_title": "エレコム製のWi-Fiルーターが6680円から！ AmazonスマイルSale - INTERNET Watch",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81dmh3OFdqb3VIZHVkQWFtRnhTYm52a2Vaa2k4Rl9qYUQ0TDB3elFQUUk3Mnh0b2RFdHUtem8waFJGUmtLMkZWX2t5TlZUbUpodDBGZVpCWC12SjdKZ0lIdXBzTjJlcmxGM2hHWGpHd0Y?oc=5",
+      "source": "INTERNET Watch",
+      "published": "2026-11-04T10:30:00+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "free"
+    },
+    {
       "title": "Amazon「スマイルSale」2026年11月4日（水）9時開始",
       "raw_title": "Amazon「スマイルSale」2026年11月4日（水）9時開始 - Jetstream",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM1ptRThnNV9iVnBySlB5R1hvUmJsRWVaZUtTYVZ3R3FqWGxOMkNhd1NrT1lWcDlwZFZwU1AtNjlIM0taNmVlM1NuOTFGa2p0R1hGUmhmalhId1ExWjE2cFBWaDl6WFNMWUlCY0xnd25QdklCeGVaRW00N3I2X2hJag?oc=5",
@@ -118,15 +127,6 @@
       "published": "2026-11-03T17:00:00+09:00",
       "query": "ローソン 無料 クーポン",
       "bucket": "limited"
-    },
-    {
-      "title": "Amazon スマイルSALEのポイントアップキャンペーンを解説！ポイント還元で超お得！",
-      "raw_title": "Amazon スマイルSALEのポイントアップキャンペーンを解説！ポイント還元で超お得！ - ちびめがねアンテナ",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrUUVSUHZyeENKMFBrWVZ4OWhQbk1yYUR1SExVVGVSLXRDbmZHZVBBUks2bi1BZlhlMU9rVktRdU1uTDlfdS01RGpQQzNidw?oc=5",
-      "source": "ちびめがねアンテナ",
-      "published": "2026-11-03T10:20:41+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "point"
     }
   ]
 }
