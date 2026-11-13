@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T02:58:18.382619+09:00",
-  "count": 15,
+  "generated_at": "2026-11-13T11:28:48.264425+09:00",
+  "count": 11,
   "items": [
     {
       "title": "楽天、「楽天市場」「楽天ブックス」「楽天ラクマ」「楽天リーベイツ（Rebates）」においてブラックフライデーセールを開催",
@@ -93,47 +93,11 @@
       "bucket": "free"
     },
     {
-      "title": "「ESET HOME セキュリティ プレミアム」がAmazon スマイルSaleで割引中",
-      "raw_title": "「ESET HOME セキュリティ プレミアム」がAmazon スマイルSaleで割引中 - INTERNET Watch",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVUHZNaTdMLU1rS1ZsODVNVUxCel9DR3g1ejY5RHh2ZlNLTjJaM3REZWJhc3Z2aDhlSGZ1M0RLNlQtX1dxb0JUckVyS2owX0plbTlnQXlUMUVOZjcwbEFJNVphZ3cxajh6TXRPZktRUEs?oc=5",
-      "source": "INTERNET Watch",
-      "published": "2026-11-10T13:30:00+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
       "title": "ファミマに「ピクミン」が大集合 ぷっくりシールや先行販売グッズなどキャンペーン実施",
       "raw_title": "ファミマに「ピクミン」が大集合 ぷっくりシールや先行販売グッズなどキャンペーン実施 - ニコニコニュース",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoSFJ2ZmFnSmtJemNTVXZrWk9wdVhmN0FIUEpVV0VseHhZZFE2dmVyNFRHNmZoWldxbkRCMjVBR0pFZGR1eEo2eG1nOGR3VnlJZlJSU1gzUkNicUR1SHhQdUdVZk9OYWIxMzc2MzhLTEhwNmlYV3BZR1NmNA?oc=5",
       "source": "ニコニコニュース",
       "published": "2026-11-10T13:03:20+09:00",
-      "query": "ファミリーマート 期間限定 キャンペーン",
-      "bucket": "limited"
-    },
-    {
-      "title": "ファミリーマートで「ピクミン」キャンペーンが開催！限定デザインのニンテンドープリペイドカードやグッズが販売（Saiga NAK）",
-      "raw_title": "ファミリーマートで「ピクミン」キャンペーンが開催！限定デザインのニンテンドープリペイドカードやグッズが販売（Saiga NAK） - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ3MyXzY4MGI5cG1jRll6WVFnV2UzNDBNcEl1eWgzYVJuNXVNd1dpMHoyejd0aTNDMWtlbUxfaG5RQjB0V0V6QVpMTXFaczNtc2dIUjJqQXRMV3F4ZXprdEM0cmN6NWZVVXFQQ0pjc0dDRkJ1dnBSZGdibnd0eC1ZU2tVeU4xSnhPM1UwZw?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-11-10T11:16:00+09:00",
-      "query": "ファミリーマート 期間限定 キャンペーン",
-      "bucket": "limited"
-    },
-    {
-      "title": "エレコムの電源タップが安い！ Amazon スマイルSale",
-      "raw_title": "エレコムの電源タップが安い！ Amazon スマイルSale - INTERNET Watch",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wVll4UldkTFNZUG42RjdvZnMyNk81VHp1NFhSWHdRUzFKZWJyMkdjdFZ5aTI3Y2NLN0ZGaGhGRXYxVnlfVWF4Skl1Uk01eExqMmNDa1JEcXV4RGNVTThFSEVHQlJEUW43T3BfUWhzVmQ?oc=5",
-      "source": "INTERNET Watch",
-      "published": "2026-11-10T10:30:00+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "【今日から】ファミマ×「パンどろぼう」コラボ “描き下ろしイラストパッケージ”パン＆ケーキ発売 「パンクリップ」「ミニポーチ」もらえる",
-      "raw_title": "【今日から】ファミマ×「パンどろぼう」コラボ “描き下ろしイラストパッケージ”パン＆ケーキ発売 「パンクリップ」「ミニポーチ」もらえる - オトナンサー",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5OMjViczFHTE5uZ3d3SXJBWW1ZZC0tUDRNRDNILUtVZ240UDY0VHo3MTlwVER0NnoyYThUVmpfZmxReDE4eE5WYVpB?oc=5",
-      "source": "オトナンサー",
-      "published": "2026-11-10T07:33:29+09:00",
       "query": "ファミリーマート 期間限定 キャンペーン",
       "bucket": "limited"
     }
