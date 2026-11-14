@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-11-14T02:33:35.937189+09:00",
-  "count": 12,
+  "generated_at": "2026-11-14T11:04:05.966023+09:00",
+  "count": 11,
   "items": [
     {
       "title": "Amazonブラックフライデー2026はいつ？11月開催が決定、詳細は11/19発表｜過去3年の日程・一番安い時期も解説 | flick!",
       "raw_title": "Amazonブラックフライデー2026はいつ？11月開催が決定、詳細は11/19発表｜過去3年の日程・一番安い時期も解説 | flick! - FUNQ",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyb2FzN3hhbmpROFFZVndxbEYxSU51dno4RG16MHBqQVFLMEJnV2ZxR1IxdnhPSnEzQTVnS2pPYXA0UkVVR015TVFFa3dYd3hBNC02TA?oc=5",
       "source": "FUNQ",
-      "published": "2026-11-13T23:22:59+09:00",
+      "published": "2026-11-14T07:40:06+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
+    },
+    {
+      "title": "いつものキットカットとはひと味違う！「NYチーズケーキ味」がAmazonタイムセールで27％オフ",
+      "raw_title": "いつものキットカットとはひと味違う！「NYチーズケーキ味」がAmazonタイムセールで27％オフ - ASCII.jp",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RZGE5TGtrYk5wRi03eFljemxYVktTa25IWlVESzhfQkttVDZSMmZSeks5VnRuR1lscnFORDZPbWJlOWRQNV9nQjZFa1czRmFEdDljOA?oc=5",
+      "source": "ASCII.jp",
+      "published": "2026-11-13T19:00:00+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "limited"
     },
@@ -27,15 +36,6 @@
       "source": "ファミリーマート",
       "published": "2026-11-13T11:03:09+09:00",
       "query": "ファミリーマート 期間限定 キャンペーン",
-      "bucket": "limited"
-    },
-    {
-      "title": "【アマゾンスマイルセール最終日】RebotAi 13インチ",
-      "raw_title": "【アマゾンスマイルセール最終日】RebotAi 13インチ - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95LVNqYzRrRmpTNzRHV0doMjR4UUQxT2Z4SkkwVERWWVFQVmxJVFZrZ0l0S0ZpVVp6NmtGWU42eVlNaTkzZURJWV9xSXFzeV9BUXFGM3U5UzVvUW5leS1wVm5LSDBkMldzWXJWQnh0OTZCMUphZFh6cldwcw?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-11-13T04:00:21+09:00",
-      "query": "Amazon セール 期間限定",
       "bucket": "limited"
     },
     {
@@ -66,22 +66,22 @@
       "bucket": "free"
     },
     {
-      "title": "Amazon スマイルSaleは本日12日23:59まで、AndroidタブレットやPC周辺機器などがお得！",
-      "raw_title": "Amazon スマイルSaleは本日12日23:59まで、AndroidタブレットやPC周辺機器などがお得！ - AKIBA PC Hotline!",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTjZDbDAwV2laMHVsSncyOHg2XzhFOE5xbEJCek9hQ2pDZWk4ejhPN0JGZzJMUGxrbERIcmhVVFQ1WExGZk9jMkZJYzJfZXo3dWkxdEgzZ0J2MllPYVA2QjljaHRQdHRVTER5dXVVZzQ5Umo0Yk9oaDV5ek1YcXNmSg?oc=5",
-      "source": "AKIBA PC Hotline!",
-      "published": "2026-11-12T12:30:00+09:00",
+      "title": "【アマゾンスマイルセール最終日】RebotAi 13インチ 大画面Androidタブレットが期間限定24,999円！Android 16・Gemini AI・GPS対応タブレットを特別価格で販売開始",
+      "raw_title": "【アマゾンスマイルセール最終日】RebotAi 13インチ 大画面Androidタブレットが期間限定24,999円！Android 16・Gemini AI・GPS対応タブレットを特別価格で販売開始 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1RldyY1V2QlJ5N3lkeGV0RE9odEM4dkNzSkZoazJ5YUdzTFpZdVJLMU1Rd1BEdXFWMHVyNDA3NWNUOXFLSUk4NkhqdHR5aVE1UzIxZlp1SElkV0VkVjA3Wk9CbGlwa3lHcUE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-12T16:50:13+09:00",
       "query": "Amazon セール 期間限定",
       "bucket": "limited"
     },
     {
-      "title": "【アマゾン期間限定54％OFF】RebotAi 10インチAndroidタブレットが10,999円に！通常価格23,999円から13,000円引きの特別セール",
-      "raw_title": "【アマゾン期間限定54％OFF】RebotAi 10インチAndroidタブレットが10,999円に！通常価格23,999円から13,000円引きの特別セール - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80WFJTdTZVc29pd3M0aldVTTgzVGJEMjZ0NUVaendWaVAtX3pzaEdudzdaXzFMTlJwVkk2UUxULTRwNEdtOWs0UnhJSk1jWnRYSzhMTTlYWmwwZ20xN19fTlJqVnhWbEhjZ2E1emtGaU5Odw?oc=5",
-      "source": "Infoseek",
-      "published": "2026-11-11T12:42:08+09:00",
+      "title": "【アマゾン期間限定54％OFF】RebotAi",
+      "raw_title": "【アマゾン期間限定54％OFF】RebotAi - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sSFJpdXdPZWRPbURrWFJjcF9qLW1URk9jMS1xdU9JeDBoLXdXZ1VGTHBzcWVSM2lIUUJRTHVzdVpSYVpWU1pSem5pTVZpQWVicDJ5M3JYcm02ZnJTd0hFaTVueHZMTnQyWjRPelkwdTRORjFXSURmVW1yRQ?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-11-11T22:21:40+09:00",
       "query": "Amazon セール 期間限定",
-      "bucket": "free"
+      "bucket": "limited"
     },
     {
       "title": "SK11の工具がAmazon スマイルSaleに登場！ 充電式アングルインパクトドライバーなど スイッチボックス用の水平器は1833円",
@@ -93,21 +93,12 @@
       "bucket": "limited"
     },
     {
-      "title": "オウルテックのUSB充電器がAmazon スマイルSaleでお買い得！",
-      "raw_title": "オウルテックのUSB充電器がAmazon スマイルSaleでお買い得！ - INTERNET Watch",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tYUJWcmRJMEVIYnpZS0NaczhUc0g4S2xsSXp3VU1MUE5VR01kWTR2cmVMYWZRaXJ3bEpQMTVoR0UycHAweV91QWQwdGszeVlnVnhzdnlVMFRadjctR21LdktzMnZ4dFpfTTd6OFZmU3I?oc=5",
-      "source": "INTERNET Watch",
-      "published": "2026-11-11T10:30:00+09:00",
+      "title": "PHILIPSのAndroid 16タブレットが最安23,979円！【AmazonスマイルSale】 - 本日みつけたお買い得情報",
+      "raw_title": "PHILIPSのAndroid 16タブレットが最安23,979円！【AmazonスマイルSale】 - 本日みつけたお買い得情報 - 窓の杜",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LQWVyc0dsVmlNMFA5NEVVdGNfSnQxdDFSeUE4RzNCNEZUZGtRYlpCR1BxcXp5eHFMNG0xNjY5dWdJR3podmxaam1OY2V4MURDQ3RXd0pSNWctOF9aZV90R3hWYUFWaUpZZEoySGpxQkwtb2tLaFE?oc=5",
+      "source": "窓の杜",
+      "published": "2026-11-11T11:18:46+09:00",
       "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "1個買うと1個もらえる！おトクなレシートクーポン 11月11日(水)から11月17日(火)まで",
-      "raw_title": "1個買うと1個もらえる！おトクなレシートクーポン 11月11日(水)から11月17日(火)まで - ローソンストア100",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HWFFmd3pRazRvMzJYb3hYR1dILTZKdlk4bWlYdU9meE5vWUVXcktiUHpqWTQ4MHZjWVlCY09PTDhLZXBSVWoxMXpTVXJlYmh6S214RGtvS0lTdHNTZWtLVW52RUdoUWRwcy1sQVRMeWpUMFk4TE9WMkln?oc=5",
-      "source": "ローソンストア100",
-      "published": "2026-11-11T09:10:31+09:00",
-      "query": "ローソン 無料 クーポン",
       "bucket": "limited"
     }
   ]
