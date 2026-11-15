@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-11-15T01:26:11.265607+09:00",
-  "count": 6,
+  "generated_at": "2026-11-15T10:36:33.321427+09:00",
+  "count": 8,
   "items": [
+    {
+      "title": "【【セール情報】本日のPICK UP】布製タイヤチェーン「MTKカーソックス2」が期間限定15％OFFセール実施中",
+      "raw_title": "【【セール情報】本日のPICK UP】布製タイヤチェーン「MTKカーソックス2」が期間限定15％OFFセール実施中 - Car Watch",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kd0FCUmloS3hOSXdhUHVZRW9MNG5tZGNDVnJ6bnd0QlBBWE44WDJBbmxjb21qam8zY1ZYOFBHWnN4Z1JkNXg4RzdEc1BKdWhUcDhJSkxWSlpqcmNHQXlidkFrdFRMcnlXS2JKSzdn?oc=5",
+      "source": "Car Watch",
+      "published": "2026-11-13T17:55:30+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
+    },
     {
       "title": "Amazonブラックフライデー2026はいつ？11月開催が決定、詳細は11/19発表｜過去3年の日程・一番安い時期も解説 | flick!",
       "raw_title": "Amazonブラックフライデー2026はいつ？11月開催が決定、詳細は11/19発表｜過去3年の日程・一番安い時期も解説 | flick! - FUNQ",
@@ -37,6 +46,15 @@
       "published": "2026-11-12T21:53:37+09:00",
       "query": "楽天市場 ポイント還元 期間限定",
       "bucket": "free"
+    },
+    {
+      "title": "Android 17搭載の8.8インチ高性能タブレット「T60Mini」が期間限定38%OFF！特別価格23,655円で販売、セール終了まであとわずか",
+      "raw_title": "Android 17搭載の8.8インチ高性能タブレット「T60Mini」が期間限定38%OFF！特別価格23,655円で販売、セール終了まであとわずか - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxM29QbTJnMkZSTnd0WHZZaUh4MDZURjNVTlNLLVVIMVNfbHpETTBMNEs2T1BXdnVrdzA5eDMxUlJBdDk5UzJzV0tOZEh2M25OZE8zUmtmOFRFc2Z3ZGthQnpMUzNDelRYUWc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-12T17:00:00+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
     },
     {
       "title": "【11月19日20時スタート】楽天市場のブラックフライデー攻略法！新設「プレミアムセレクション」や家電の全額ポイントバック抽選も",
