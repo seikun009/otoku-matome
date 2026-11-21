@@ -1,16 +1,7 @@
 {
-  "generated_at": "2026-11-21T03:23:52.419340+09:00",
-  "count": 13,
+  "generated_at": "2026-11-21T12:01:32.361670+09:00",
+  "count": 14,
   "items": [
-    {
-      "title": "Amazonブラックフライデー2026はいつ？先行セールは11/27、本セールは11/30〜12/7【日程決定】 | flick!",
-      "raw_title": "Amazonブラックフライデー2026はいつ？先行セールは11/27、本セールは11/30〜12/7【日程決定】 | flick! - FUNQ",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyb2FzN3hhbmpROFFZVndxbEYxSU51dno4RG16MHBqQVFLMEJnV2ZxR1IxdnhPSnEzQTVnS2pPYXA0UkVVR015TVFFa3dYd3hBNC02TA?oc=5",
-      "source": "FUNQ",
-      "published": "2026-11-20T20:17:09+09:00",
-      "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
     {
       "title": "「Adobe Creative Cloud PRO」12か月版が30%ポイント還元、フォトプランも対象！楽天ブラックフライデー",
       "raw_title": "「Adobe Creative Cloud PRO」12か月版が30%ポイント還元、フォトプランも対象！楽天ブラックフライデー - ｄメニューニュース",
@@ -28,6 +19,15 @@
       "published": "2026-11-20T15:16:41+09:00",
       "query": "ファミリーマート 期間限定 キャンペーン",
       "bucket": "limited"
+    },
+    {
+      "title": "LenovoのビジネスノートPCやタブレットが最大20%ポイント還元！楽天ブラックフライデー",
+      "raw_title": "LenovoのビジネスノートPCやタブレットが最大20%ポイント還元！楽天ブラックフライデー - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa0doUVRQZnJEU3AzVDlWakpaaVBNUTd4bm5sZzUwd3pqZE53WmlBdWg0TU8zTEp0RUxDV2d5cVNabTJocy1kbnJkaGVwVThmWFNTNmhUMzk2X0dPNlpleTN0ZWtTNnV0MHUtanVBRVdGdHFsTGFWckNUdHh3czFSRVNSTkhvdk140gGOAUFVX3lxTFBxelQyWlpMaElEYXZlVEdCenlSb3FOM1FEUkVIVG1Yay1HS3JOa2FCMFQwcFpCZE15Nkl2NWpRXy1tMUFOR1hNSjRfaHRfNUNEbE1qc1dVWXd4b1VmU1o3bDJYVE9SRFRsSFFlUGJYUGtTcEk5TUp1d2NGM2lDOF9HRUVqeThWdFNqdUFwcWc?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-11-20T15:05:00+09:00",
+      "query": "楽天市場 ポイント還元 期間限定",
+      "bucket": "point"
     },
     {
       "title": "「Microsoft Office 2024」永続版や「Microsoft 365」が15%ポイント還元！楽天ブラックフライデー",
@@ -54,6 +54,15 @@
       "source": "ファミリーマート",
       "published": "2026-11-20T10:02:12+09:00",
       "query": "ファミリーマート 期間限定 キャンペーン",
+      "bucket": "limited"
+    },
+    {
+      "title": "Amazonブラックフライデー2026はいつ？先行セールは11/27、本セールは11/30〜12/7【日程決定】 | flick!",
+      "raw_title": "Amazonブラックフライデー2026はいつ？先行セールは11/27、本セールは11/30〜12/7【日程決定】 | flick! - FUNQ",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyb2FzN3hhbmpROFFZVndxbEYxSU51dno4RG16MHBqQVFLMEJnV2ZxR1IxdnhPSnEzQTVnS2pPYXA0UkVVR015TVFFa3dYd3hBNC02TA?oc=5",
+      "source": "FUNQ",
+      "published": "2026-11-19T17:00:00+09:00",
+      "query": "Amazon セール 期間限定",
       "bucket": "limited"
     },
     {
@@ -102,21 +111,21 @@
       "bucket": "free"
     },
     {
+      "title": "Amazonブラックフライデー、27日から先行セール開始 400万点が特価の11日間",
+      "raw_title": "Amazonブラックフライデー、27日から先行セール開始 400万点が特価の11日間 - Impress Watch",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKUnJqNmNHY2pMT3d4TWlTQ1VCZFcybjdubGtheF9yQmltUWMyWW1oTnpsakF6T1R2N3YwZkZEV0IyWC1vSERFSUNfbFBiOXh3dmpIZ2ZhVm9NN0Fqbk1WbTVBZ3U?oc=5",
+      "source": "Impress Watch",
+      "published": "2026-11-19T11:25:13+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
+    },
+    {
       "title": "「Amazonブラックフライデー」先行セール27日から。Amazonデバイス、アップル製品が登場予定",
       "raw_title": "「Amazonブラックフライデー」先行セール27日から。Amazonデバイス、アップル製品が登場予定 - AV Watch",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jYVJOY0x1XzZKellhcHhmajAzNWdhblZnMUNoQkZ3aEpvVEd3V3JncWhtTVlUUkFMdzRGN09XemczSWhycHExN2llcERBLTU5TWdJOEgtZU5qVEZ5UlN4eWUxMA?oc=5",
       "source": "AV Watch",
       "published": "2026-11-19T11:14:54+09:00",
       "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "1個買うと1個もらえる！おトクなレシートクーポン 11月18日(水)から11月24日(火)まで",
-      "raw_title": "1個買うと1個もらえる！おトクなレシートクーポン 11月18日(水)から11月24日(火)まで - ローソンストア100",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wdjVNM1ZHRTV2Um5aRThYcFdXeXFjdy1xblJoQi0zcVNyOVc5V2owcGxvSTJCWE5vQ2N6N0IweS1iTXdOd011dWwyWThXeDlseFB0dWo4ekFYdDBvazZTWnJYWmNWbHMxUjA0dEtvLURLdW9qQU9BZktB?oc=5",
-      "source": "ローソンストア100",
-      "published": "2026-11-18T09:09:14+09:00",
-      "query": "ローソン 無料 クーポン",
       "bucket": "limited"
     }
   ]
