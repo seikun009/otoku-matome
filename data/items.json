@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-11-22T02:11:00.903587+09:00",
-  "count": 13,
+  "generated_at": "2026-11-22T10:58:15.152015+09:00",
+  "count": 15,
   "items": [
+    {
+      "title": "ラピトリキーボードやゲームパッドなどTurtleBeach・Victrix製品がお得！楽天ブラックフライデー",
+      "raw_title": "ラピトリキーボードやゲームパッドなどTurtleBeach・Victrix製品がお得！楽天ブラックフライデー - AKIBA PC Hotline!",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONVdINUNYcEsxcEN0SzFOUzRxMkZFWk5OdWczTWNZcmlGTmc5a3JYUkZneEFqdWFMN29LcWxuUEpCQ1RqZjNlUVJwN3RxWnJqWDVyZnVsaVhBcFRHbDRvd0RxUFJYMTNudXY0U0FSaUw1aUVlNWIxQkktMEdxdmpZaA?oc=5",
+      "source": "AKIBA PC Hotline!",
+      "published": "2026-11-20T16:30:00+09:00",
+      "query": "楽天市場 ポイント還元 期間限定",
+      "bucket": "limited"
+    },
     {
       "title": "「Adobe Creative Cloud PRO」12か月版が30%ポイント還元、フォトプランも対象！楽天ブラックフライデー",
       "raw_title": "「Adobe Creative Cloud PRO」12か月版が30%ポイント還元、フォトプランも対象！楽天ブラックフライデー - ｄメニューニュース",
@@ -28,6 +37,15 @@
       "published": "2026-11-20T15:05:00+09:00",
       "query": "楽天市場 ポイント還元 期間限定",
       "bucket": "point"
+    },
+    {
+      "title": "【最大50％OFF】SUNEAST、Amazonブラックフライデーに先行セールから参加。過去最多の20製品以上をSUNEAST史上最大級の割引価格で販売",
+      "raw_title": "【最大50％OFF】SUNEAST、Amazonブラックフライデーに先行セールから参加。過去最多の20製品以上をSUNEAST史上最大級の割引価格で販売 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5URUxTZFVMSXFYZ1JRdG8xS1RuUk4zby13bDhLaTVNbW1JTnFmV2UyVS1teXB6Y2hBLWVTaVlfdWZxM1Rya1BzZFdVRU5XN0VybURMVVJ2RWlqeHJqZHpXQXdzSjcwYkYySEE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-20T14:40:01+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "limited"
     },
     {
       "title": "「Microsoft Office 2024」永続版や「Microsoft 365」が15%ポイント還元！楽天ブラックフライデー",
