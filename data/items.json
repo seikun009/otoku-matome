@@ -1,30 +1,21 @@
 {
-  "generated_at": "2026-11-23T02:40:03.045386+09:00",
+  "generated_at": "2026-11-23T11:23:43.946453+09:00",
   "count": 7,
   "items": [
     {
-      "title": "【2026年11月】ファミマカードのキャンペーン！新規入会でもらえる特典や受け取り方法も解説",
-      "raw_title": "【2026年11月】ファミマカードのキャンペーン！新規入会でもらえる特典や受け取り方法も解説 - マイベスト",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9waWRUVlZyTE53ZUJHdlNERWdyeFlkTWJEOWp3NU9JN0xQOTRRNTlCV1Y3MW1kLVptX0JYVUk3VmJ4MnMwZE9CLQ?oc=5",
-      "source": "マイベスト",
-      "published": "2026-11-21T00:00:00+09:00",
-      "query": "ファミリーマート 期間限定 キャンペーン",
-      "bucket": "limited"
-    },
-    {
-      "title": "ラピトリキーボードやゲームパッドなどTurtleBeach・Victrix製品がお得！楽天ブラックフライデー",
-      "raw_title": "ラピトリキーボードやゲームパッドなどTurtleBeach・Victrix製品がお得！楽天ブラックフライデー - AKIBA PC Hotline!",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONVdINUNYcEsxcEN0SzFOUzRxMkZFWk5OdWczTWNZcmlGTmc5a3JYUkZneEFqdWFMN29LcWxuUEpCQ1RqZjNlUVJwN3RxWnJqWDVyZnVsaVhBcFRHbDRvd0RxUFJYMTNudXY0U0FSaUw1aUVlNWIxQkktMEdxdmpZaA?oc=5",
-      "source": "AKIBA PC Hotline!",
-      "published": "2026-11-20T16:30:00+09:00",
+      "title": "楽天カードのポイント還元率は？どれくらいお得になる？｜みんなでつくる！暮らしのマネーメディア みんなのマネ活",
+      "raw_title": "楽天カードのポイント還元率は？どれくらいお得になる？｜みんなでつくる！暮らしのマネーメディア みんなのマネ活 - 楽天カード",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZTh4TnhFOE5yUlA5UXRienRVQUFZc1FxZ0l0bFA3cUM3RmRfRHpTdFVJVVgzNF80SVBfNFJNN3p1aW56cnpUZFNSbXJ3dXdNd0dGcU5uX19wWHF6b1N3VmJ3aVVSbGZhNXpmZU80OGRsOHMxRXVaTXpTZmtYenc5WjdLdkJ4akE?oc=5",
+      "source": "楽天カード",
+      "published": "2026-11-20T17:00:00+09:00",
       "query": "楽天市場 ポイント還元 期間限定",
-      "bucket": "limited"
+      "bucket": "point"
     },
     {
       "title": "「Adobe Creative Cloud PRO」12か月版が30%ポイント還元、フォトプランも対象！楽天ブラックフライデー",
-      "raw_title": "「Adobe Creative Cloud PRO」12か月版が30%ポイント還元、フォトプランも対象！楽天ブラックフライデー - AKIBA PC Hotline!",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ1NwT0k3UlJVR28xTmZOZWxzUjNmeG1iYzJIb2x3YXRodGtmTllnclZsa3cwWk5pZnZtYmQ3VU1NRzMybzBqZ0FJSFdRMVRaVDlGLWd4dVhXTEpVWWxnLWs3eGJiNTZIX1AyVi00VmNlMkw3bXNiQ3EzeTV3T0pPMg?oc=5",
-      "source": "AKIBA PC Hotline!",
+      "raw_title": "「Adobe Creative Cloud PRO」12か月版が30%ポイント還元、フォトプランも対象！楽天ブラックフライデー - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZU1wUm8ySFFfN2ltaWxWdkg5Q2RzRHFxanhOZEtDQmxLak8zYUp0SU15eVBJcHRYZnB2ODhYZHUxQUxUdEZWR1YwRjZqaFZ6eVhNM2xTOVV5cHdMbUg1RmNhaUJfZG9WQjhMeGxHVmprdGZXSUNkUFk2Z05lWXgwWVZBS2tlaXR10gGOAUFVX3lxTE1vblNSdnpKaVE3X0NsYXBnV29pdzE2WGF5aW14amFyUUVJZEtBanM2VkhMaVpuZUVsWGN2amdsX0lmeVFCTEpoNDd4UjJkVVVhY29SSG1pbG1TUUZRaERCdHluZzRicXgwdFNmZ19rMDg1ajFkdU1QM3hkWF9yeXJYT0M3QXJkZWRRYUQxR0E?oc=5",
+      "source": "ｄメニューニュース",
       "published": "2026-11-20T16:05:00+09:00",
       "query": "楽天市場 ポイント還元 期間限定",
       "bucket": "point"
@@ -37,6 +28,24 @@
       "published": "2026-11-20T15:16:41+09:00",
       "query": "ファミリーマート 期間限定 キャンペーン",
       "bucket": "limited"
+    },
+    {
+      "title": "LenovoのビジネスノートPCやタブレットが最大20%ポイント還元！楽天ブラックフライデー",
+      "raw_title": "LenovoのビジネスノートPCやタブレットが最大20%ポイント還元！楽天ブラックフライデー - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa0doUVRQZnJEU3AzVDlWakpaaVBNUTd4bm5sZzUwd3pqZE53WmlBdWg0TU8zTEp0RUxDV2d5cVNabTJocy1kbnJkaGVwVThmWFNTNmhUMzk2X0dPNlpleTN0ZWtTNnV0MHUtanVBRVdGdHFsTGFWckNUdHh3czFSRVNSTkhvdk140gGOAUFVX3lxTFBxelQyWlpMaElEYXZlVEdCenlSb3FOM1FEUkVIVG1Yay1HS3JOa2FCMFQwcFpCZE15Nkl2NWpRXy1tMUFOR1hNSjRfaHRfNUNEbE1qc1dVWXd4b1VmU1o3bDJYVE9SRFRsSFFlUGJYUGtTcEk5TUp1d2NGM2lDOF9HRUVqeThWdFNqdUFwcWc?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-11-20T15:05:00+09:00",
+      "query": "楽天市場 ポイント還元 期間限定",
+      "bucket": "point"
+    },
+    {
+      "title": "Amazon、対象者限定ながらギフトカード購入で1500ポイントがオトクすぎ",
+      "raw_title": "Amazon、対象者限定ながらギフトカード購入で1500ポイントがオトクすぎ - ASCII.jp",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mN2lwWHpDZ09yR2ZGaG9BM3AydFhiRVd3T0FUdW51d0JOOGd5czl6NzZGNW5uQURIWUx1OHJEQmY3N3NMMXlvNl9jWUVraXRsTGpraQ?oc=5",
+      "source": "ASCII.jp",
+      "published": "2026-11-20T13:30:00+09:00",
+      "query": "Amazon セール 期間限定",
+      "bucket": "point"
     },
     {
       "title": "「Microsoft Office 2024」永続版や「Microsoft 365」が15%ポイント還元！楽天ブラックフライデー",
@@ -54,15 +63,6 @@
       "source": "Car Watch",
       "published": "2026-11-20T12:14:45+09:00",
       "query": "Amazon セール 期間限定",
-      "bucket": "limited"
-    },
-    {
-      "title": "シリーズ初の劇場版公開直前！ 『劇場版 薬屋のひとりごと 亡妃の秘宝』とファミマのキャンペーン11月24日（火）開始 SCRAPと初コラボしたファミマ本格謎解きや “描き下ろし”を使用した限定オリジナル景品がもらえる企画も！",
-      "raw_title": "シリーズ初の劇場版公開直前！ 『劇場版 薬屋のひとりごと 亡妃の秘宝』とファミマのキャンペーン11月24日（火）開始 SCRAPと初コラボしたファミマ本格謎解きや “描き下ろし”を使用した限定オリジナル景品がもらえる企画も！ - ファミリーマート",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGUTdmcV9lRGRKNWhFY1prWERaam1XWmJVOEJVYzZaVzZXUE5kRWFhMzJLbGMxVEJLYnRqVk9PN1hfM2lWSm1CcGlxeHRWSExfZVFyU0pNVm84ckNxUnIzYjExUWo1MTVza0pWM2JaTnJickJGY1Jz?oc=5",
-      "source": "ファミリーマート",
-      "published": "2026-11-20T10:02:12+09:00",
-      "query": "ファミリーマート 期間限定 キャンペーン",
       "bucket": "limited"
     }
   ]
